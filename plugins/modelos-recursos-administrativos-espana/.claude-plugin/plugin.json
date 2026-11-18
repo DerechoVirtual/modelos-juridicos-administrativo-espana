@@ -1,0 +1,25 @@
+{
+  "name": "modelos-recursos-administrativos-espana",
+  "version": "1.0.0",
+  "description": "Recursos administrativos: 59 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (alzada, reposición, revisión extraordinaria, revisión de oficio, lesividad). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Recursos de alzada, reposición y revisión · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "recursos-administrativos"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}

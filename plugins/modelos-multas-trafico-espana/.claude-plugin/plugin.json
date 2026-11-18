@@ -1,0 +1,25 @@
+{
+  "name": "modelos-multas-trafico-espana",
+  "version": "1.0.0",
+  "description": "Multas y expedientes de tráfico: 404 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (descargos, recurso de reposición, puntos, identificación del conductor, DEV). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Recurrir multas de tráfico · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "multas-trafico"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}

@@ -1,0 +1,88 @@
+{
+  "name": "modelos-juridicos-administrativo-espana",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Modelos de escritos jurídicos de España para Claude · Administrativo: 5 plugins por tema, una skill por modelo, cada una conectada a Jurisprudenciator para verificar normas y jurisprudencia.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "modelos-escritos-administracion-espana",
+      "source": "./plugins/modelos-escritos-administracion-espana",
+      "description": "Escritos ante la Administración (Ley 39/2015) · España (277 formularios). Sirve para los escritos del día a día ante la Administración (Ley 39/2015): solicitudes, alegaciones y trámite de audiencia, acceso y copia del expediente, certificados de silencio, notificaciones y plazos, además de los modelos de los actos que dicta la propia Administración. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "procedimiento-administrativo-comun"
+      ]
+    },
+    {
+      "name": "modelos-extranjeria-espana",
+      "source": "./plugins/modelos-extranjeria-espana",
+      "description": "Extranjería: arraigo, residencia, nacionalidad y expulsiones · España (97 formularios). Sirve para tramitar y recurrir expedientes de extranjería: solicitudes de residencia y trabajo, arraigo, reagrupación familiar, renovaciones, tarjetas de familiar de ciudadano de la UE, nacionalidad y asilo, y la defensa frente a denegaciones y expulsiones, en vía administrativa y en el contencioso. Incluye 6 formularios de Laboral (autorizaciones de trabajo, larga duración, expulsión y visados). Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "extranjeria"
+      ]
+    },
+    {
+      "name": "modelos-multas-trafico-espana",
+      "source": "./plugins/modelos-multas-trafico-espana",
+      "description": "Recurrir multas de tráfico · España (404 formularios). Sirve para defender a conductores y titulares de vehículos en los expedientes sancionadores de tráfico: descargos frente a la denuncia, identificación del conductor, recursos de reposición contra la multa (velocidad, señales, alcohol, documentación, ITV, seguro…) y escritos sobre notificaciones y puntos. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "multas-trafico"
+      ]
+    },
+    {
+      "name": "modelos-personacion-contencioso-espana",
+      "source": "./plugins/modelos-personacion-contencioso-espana",
+      "description": "Contencioso: personaciones, competencia y representación · España (96 formularios). Sirve para los escritos sobre partes, órgano y representación en el contencioso-administrativo: personaciones (codemandados, Administraciones, entidades locales), representación y defensa, competencia del órgano tras la implantación de los Tribunales de Instancia, cuestiones de incompetencia y suspensión del procedimiento mientras se resuelve un recurso de casación con el mismo objeto. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "organo-y-postulacion-contencioso"
+      ]
+    },
+    {
+      "name": "modelos-recursos-administrativos-espana",
+      "source": "./plugins/modelos-recursos-administrativos-espana",
+      "description": "Recursos de alzada, reposición y revisión · España (59 formularios). Sirve para recurrir los actos de cualquier Administración sin ir todavía a los tribunales: recurso de alzada, recurso potestativo de reposición (también contra el silencio), recurso extraordinario de revisión, revisión de oficio de actos nulos y declaración de lesividad. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "recursos-administrativos"
+      ]
+    }
+  ]
+}

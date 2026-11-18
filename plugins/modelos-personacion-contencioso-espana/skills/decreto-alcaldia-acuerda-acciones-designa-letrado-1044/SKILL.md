@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decreto de alcaldía que acuerda las acciones
 
 # Decreto de alcaldía que acuerda las acciones y designa letrado municipal y procurador
 
-> Formulario 1044 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1044 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

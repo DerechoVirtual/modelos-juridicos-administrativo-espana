@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modelo genérico de alegaciones» (formulario
 
 # Modelo genérico de alegaciones
 
-> Formulario 0086 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0086 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

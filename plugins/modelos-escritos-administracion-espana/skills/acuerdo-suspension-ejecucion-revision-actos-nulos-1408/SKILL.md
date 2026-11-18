@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de suspensión de la ejecución en la
 
 # Acuerdo de suspensión de la ejecución en la revisión de actos nulos
 
-> Formulario 1408 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1408 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

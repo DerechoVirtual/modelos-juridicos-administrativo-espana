@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de la denuncia verbal de un particular»
 
 # Acta de la denuncia verbal de un particular
 
-> Formulario 1812 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1812 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

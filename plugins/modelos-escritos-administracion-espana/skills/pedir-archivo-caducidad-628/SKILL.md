@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir el archivo por caducidad» (formulario 
 
 # Pedir el archivo por caducidad
 
-> Formulario 0628 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0628 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

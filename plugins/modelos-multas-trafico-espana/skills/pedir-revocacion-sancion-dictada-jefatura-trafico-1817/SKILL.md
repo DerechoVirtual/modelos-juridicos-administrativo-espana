@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la revocación de una sanción dictada 
 
 # Pedir la revocación de una sanción dictada por una Jefatura de Tráfico
 
-> Formulario 1817 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1817 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

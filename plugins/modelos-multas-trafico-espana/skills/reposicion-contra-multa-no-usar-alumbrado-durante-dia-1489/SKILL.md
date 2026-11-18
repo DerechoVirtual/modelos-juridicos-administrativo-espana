@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por no usar el alumb
 
 # Reposición contra multa por no usar el alumbrado durante el día
 
-> Formulario 1489 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1489 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

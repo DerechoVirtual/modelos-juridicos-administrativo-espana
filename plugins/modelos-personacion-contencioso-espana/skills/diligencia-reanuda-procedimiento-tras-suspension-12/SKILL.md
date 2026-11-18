@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencia que reanuda el procedimiento tras 
 
 # Diligencia que reanuda el procedimiento tras la suspensión
 
-> Formulario 0012 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0012 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

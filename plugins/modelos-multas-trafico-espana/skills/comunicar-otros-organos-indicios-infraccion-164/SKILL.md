@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicar a otros órganos indicios de infrac
 
 # Comunicar a otros órganos indicios de infracción
 
-> Formulario 0164 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0164 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir testimonio al abogado del Estado para e
 
 # Pedir testimonio al abogado del Estado para el apremio administrativo
 
-> Formulario 0917 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0917 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

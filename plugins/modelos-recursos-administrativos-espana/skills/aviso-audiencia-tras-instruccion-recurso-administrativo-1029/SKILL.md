@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso de audiencia tras la instrucción del r
 
 # Aviso de audiencia tras la instrucción del recurso administrativo
 
-> Formulario 1029 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1029 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

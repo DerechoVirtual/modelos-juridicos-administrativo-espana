@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición potestativa contra resolución de
 
 # Reposición potestativa contra resolución desfavorable sin motivación
 
-> Formulario 0548 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0548 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

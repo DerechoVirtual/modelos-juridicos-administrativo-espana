@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones por no evacuar en plazo un inform
 
 # Alegaciones por no evacuar en plazo un informe administrativo
 
-> Formulario 1911 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1911 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

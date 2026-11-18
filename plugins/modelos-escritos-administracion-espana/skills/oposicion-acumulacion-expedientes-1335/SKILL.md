@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición a la acumulación de expedientes»
 
 # Oposición a la acumulación de expedientes
 
-> Formulario 1335 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1335 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por libertad de movimientos, atenci
 
 # Descargos por libertad de movimientos, atención, posición, animales y auriculares
 
-> Formulario 1607 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1607 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación de la Diputación: el Presiden
 
 # Certificación de la Diputación: el Presidente contesta al requerimiento y ordena acciones
 
-> Formulario 1187 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1187 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

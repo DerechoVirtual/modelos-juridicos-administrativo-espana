@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por detenerse en paso a nivel, puen
 
 # Descargos por detenerse en paso a nivel, puente móvil o túnel
 
-> Formulario 1659 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1659 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

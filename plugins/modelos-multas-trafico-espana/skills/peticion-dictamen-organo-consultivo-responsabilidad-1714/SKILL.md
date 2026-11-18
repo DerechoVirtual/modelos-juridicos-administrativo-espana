@@ -5,7 +5,7 @@ description: "Redacta el escrito «Petición de dictamen al órgano consultivo e
 
 # Petición de dictamen al órgano consultivo en la responsabilidad patrimonial por daños de circulación
 
-> Formulario 1714 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1714 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

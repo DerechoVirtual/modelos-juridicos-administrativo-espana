@@ -5,7 +5,7 @@ description: "Redacta el escrito «Incoación de oficio de sancionador de tráfi
 
 # Incoación de oficio de sancionador de tráfico y seguridad vial
 
-> Formulario 0211 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0211 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

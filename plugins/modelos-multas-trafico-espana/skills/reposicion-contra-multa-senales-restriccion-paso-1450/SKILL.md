@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por señales de rest
 
 # Reposición contra multa por señales de restricción de paso
 
-> Formulario 1450 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1450 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

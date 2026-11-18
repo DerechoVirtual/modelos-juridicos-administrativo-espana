@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta a la petición de información y or
 
 # Respuesta a la petición de información y orientación del ciudadano
 
-> Formulario 1401 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1401 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

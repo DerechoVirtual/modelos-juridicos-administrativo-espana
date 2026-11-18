@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso ante la Audiencia Nacional en nac
 
 # Contencioso ante la Audiencia Nacional en nacionalidad (procedimiento ordinario)
 
-> Formulario 0365 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0365 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

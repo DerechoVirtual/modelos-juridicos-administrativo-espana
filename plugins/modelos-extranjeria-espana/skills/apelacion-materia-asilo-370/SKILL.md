@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación en materia de asilo» (formulario 
 
 # Apelación en materia de asilo
 
-> Formulario 0370 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0370 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

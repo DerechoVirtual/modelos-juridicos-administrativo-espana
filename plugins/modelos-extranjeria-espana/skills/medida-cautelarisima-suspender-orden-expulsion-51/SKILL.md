@@ -5,7 +5,7 @@ description: "Redacta el escrito «Medida cautelarísima para suspender la orden
 
 # Medida cautelarísima para suspender la orden de expulsión de un extranjero
 
-> Formulario 0051 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0051 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

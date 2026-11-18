@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones por calificar mal la infracción 
 
 # Alegaciones por calificar mal la infracción en el boletín de denuncia
 
-> Formulario 0181 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0181 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

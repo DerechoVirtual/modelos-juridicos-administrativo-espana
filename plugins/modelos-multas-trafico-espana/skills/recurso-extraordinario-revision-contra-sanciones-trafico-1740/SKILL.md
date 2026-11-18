@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso extraordinario de revisión contra sa
 
 # Recurso extraordinario de revisión contra sanciones de tráfico
 
-> Formulario 1740 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1740 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la rectificación de errores materiales
 
 # Pedir la rectificación de errores materiales o aritméticos
 
-> Formulario 1410 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1410 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

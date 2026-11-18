@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por usar dispositivos de intercomun
 
 # Descargos por usar dispositivos de intercomunicación en pruebas de permisos
 
-> Formulario 0026 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0026 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

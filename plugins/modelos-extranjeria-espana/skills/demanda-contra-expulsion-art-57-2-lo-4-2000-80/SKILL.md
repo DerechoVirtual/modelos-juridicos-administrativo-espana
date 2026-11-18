@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra la expulsión del art. 57.2 LO
 
 # Demanda contra la expulsión del art. 57.2 LO 4/2000
 
-> Formulario 0080 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0080 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

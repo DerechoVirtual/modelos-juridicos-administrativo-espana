@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo que convierte partes de actos nulos y
 
 # Acuerdo que convierte partes de actos nulos y anulables
 
-> Formulario 1357 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1357 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

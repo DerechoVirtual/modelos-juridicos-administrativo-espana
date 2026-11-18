@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por casco y otros elementos de prot
 
 # Descargos por casco y otros elementos de protección
 
-> Formulario 1672 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1672 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

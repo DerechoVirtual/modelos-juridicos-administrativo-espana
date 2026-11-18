@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revocar la resolución de expulsión: solicit
 
 # Revocar la resolución de expulsión: solicitud
 
-> Formulario 0227 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0227 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación de decisión favorable al acces
 
 # Comunicación de decisión favorable al acceso a archivos y registros
 
-> Formulario 1345 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1345 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

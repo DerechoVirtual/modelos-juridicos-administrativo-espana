@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por adelantamiento en lugar prohibi
 
 # Descargos por adelantamiento en lugar prohibido
 
-> Formulario 1455 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1455 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

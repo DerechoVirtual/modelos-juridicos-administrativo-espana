@@ -5,7 +5,7 @@ description: "Redacta el escrito «Interposición del recurso de reposición» (
 
 # Interposición del recurso de reposición
 
-> Formulario 1300 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1300 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación del demandado en recurso de lesi
 
 # Personación del demandado en recurso de lesividad
 
-> Formulario 1140 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1140 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

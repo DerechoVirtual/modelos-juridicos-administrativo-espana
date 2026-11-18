@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que cese la aprehensión de bienes por 
 
 # Pedir que cese la aprehensión de bienes por ser de un tercero
 
-> Formulario 0978 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0978 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir tramitación ordinaria por necesitar tr
 
 # Pedir tramitación ordinaria por necesitar trámites adicionales
 
-> Formulario 0132 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0132 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

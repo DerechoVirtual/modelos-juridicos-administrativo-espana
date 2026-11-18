@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de iniciación de expediente a inst
 
 # Solicitud de iniciación de expediente a instancia del interesado
 
-> Formulario 1202 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1202 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

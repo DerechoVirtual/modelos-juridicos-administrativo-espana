@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento del expediente por prescripci�
 
 # Sobreseimiento del expediente por prescripción de la sanción
 
-> Formulario 1762 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1762 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

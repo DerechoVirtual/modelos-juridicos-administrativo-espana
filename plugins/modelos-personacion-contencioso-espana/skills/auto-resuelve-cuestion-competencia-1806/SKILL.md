@@ -5,7 +5,7 @@ description: "Redacta el escrito «Auto que resuelve la cuestión de competencia
 
 # Auto que resuelve la cuestión de competencia
 
-> Formulario 1806 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1806 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

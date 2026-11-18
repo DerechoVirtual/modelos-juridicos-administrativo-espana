@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por no respetar la prioridad en int
 
 # Descargos por no respetar la prioridad en intersección señalizada
 
-> Formulario 1432 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1432 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

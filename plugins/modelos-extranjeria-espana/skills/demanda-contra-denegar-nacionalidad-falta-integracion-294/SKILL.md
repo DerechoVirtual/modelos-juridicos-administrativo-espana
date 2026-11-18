@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra denegar la nacionalidad por fa
 
 # Demanda contra denegar la nacionalidad por falta de integración
 
-> Formulario 0294 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0294 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

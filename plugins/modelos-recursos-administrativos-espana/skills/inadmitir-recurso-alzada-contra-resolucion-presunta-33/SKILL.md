@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inadmitir el recurso de alzada contra resoluc
 
 # Inadmitir el recurso de alzada contra resolución presunta
 
-> Formulario 0033 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0033 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

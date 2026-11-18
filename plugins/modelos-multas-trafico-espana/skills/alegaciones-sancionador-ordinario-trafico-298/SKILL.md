@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en sancionador ordinario de tráf
 
 # Alegaciones en sancionador ordinario de tráfico
 
-> Formulario 0298 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0298 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

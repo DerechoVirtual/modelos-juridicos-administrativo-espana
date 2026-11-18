@@ -5,7 +5,7 @@ description: "Redacta el escrito «Asistencia jurídica gratuita: pedir suspende
 
 # Asistencia jurídica gratuita: pedir suspender el procedimiento hasta resolver la Comisión
 
-> Formulario 0450 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0450 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

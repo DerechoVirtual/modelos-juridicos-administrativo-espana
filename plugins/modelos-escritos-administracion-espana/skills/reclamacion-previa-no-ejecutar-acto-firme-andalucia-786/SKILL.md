@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación previa por no ejecutar un acto f
 
 # Reclamación previa por no ejecutar un acto firme (Andalucía)
 
-> Formulario 0786 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0786 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

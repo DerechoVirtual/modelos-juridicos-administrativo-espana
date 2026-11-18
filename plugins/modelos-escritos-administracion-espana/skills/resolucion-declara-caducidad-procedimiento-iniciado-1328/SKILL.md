@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que declara la caducidad de un pr
 
 # Resolución que declara la caducidad de un procedimiento iniciado a instancia de parte
 
-> Formulario 1328 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1328 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por carril de deceleración» (form
 
 # Descargos por carril de deceleración
 
-> Formulario 1689 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1689 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

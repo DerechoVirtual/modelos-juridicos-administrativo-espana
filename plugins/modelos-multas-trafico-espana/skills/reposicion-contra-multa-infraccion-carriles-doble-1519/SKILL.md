@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por infracción en c
 
 # Reposición contra multa por infracción en carriles de doble sentido de circulación
 
-> Formulario 1519 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1519 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

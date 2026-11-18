@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se declare de oficio la nulidad de 
 
 # Pedir que se declare de oficio la nulidad de pleno derecho
 
-> Formulario 1415 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1415 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

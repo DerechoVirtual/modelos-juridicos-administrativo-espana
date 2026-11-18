@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar la denegación de asistencia jurídi
 
 # Impugnar la denegación de asistencia jurídica gratuita
 
-> Formulario 0344 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0344 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

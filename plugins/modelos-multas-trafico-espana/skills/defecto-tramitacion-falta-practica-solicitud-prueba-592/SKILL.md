@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defecto de tramitación: falta de práctica, 
 
 # Defecto de tramitación: falta de práctica, solicitud de prueba
 
-> Formulario 0592 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0592 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad de acto dictado prescindiendo totalme
 
 # Nulidad de acto dictado prescindiendo totalmente del procedimiento
 
-> Formulario 0158 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0158 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

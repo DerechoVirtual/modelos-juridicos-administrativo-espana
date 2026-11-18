@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado a los demás interesados de la petic
 
 # Traslado a los demás interesados de la petición de acumular expedientes
 
-> Formulario 1334 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1334 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

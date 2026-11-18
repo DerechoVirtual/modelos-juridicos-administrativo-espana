@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por detenerse indebidamente en una 
 
 # Descargos por detenerse indebidamente en una intersección
 
-> Formulario 1696 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1696 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

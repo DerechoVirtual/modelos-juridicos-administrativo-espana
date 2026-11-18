@@ -5,7 +5,7 @@ description: "Redacta el escrito «Internamiento de extranjeros: reforma y apela
 
 # Internamiento de extranjeros: reforma y apelación contra el auto
 
-> Formulario 0393 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0393 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

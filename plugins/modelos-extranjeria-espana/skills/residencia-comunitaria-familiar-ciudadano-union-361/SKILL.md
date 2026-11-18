@@ -5,7 +5,7 @@ description: "Redacta el escrito «Residencia comunitaria de familiar de ciudada
 
 # Residencia comunitaria de familiar de ciudadano de la Unión
 
-> Formulario 0361 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0361 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

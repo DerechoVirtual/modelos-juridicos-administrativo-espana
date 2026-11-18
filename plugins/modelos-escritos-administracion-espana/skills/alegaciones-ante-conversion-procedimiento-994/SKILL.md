@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones ante la conversión del procedimi
 
 # Alegaciones ante la conversión del procedimiento
 
-> Formulario 0994 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0994 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

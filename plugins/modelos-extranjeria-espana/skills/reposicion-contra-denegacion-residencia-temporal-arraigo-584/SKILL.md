@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra denegación de residencia 
 
 # Reposición contra denegación de residencia temporal por arraigo
 
-> Formulario 0584 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0584 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

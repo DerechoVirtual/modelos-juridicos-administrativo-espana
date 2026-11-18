@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado a los interesados del acuerdo de act
 
 # Traslado a los interesados del acuerdo de actuaciones complementarias
 
-> Formulario 0153 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0153 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

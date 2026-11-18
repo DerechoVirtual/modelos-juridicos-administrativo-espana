@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se declare de oficio la nulidad de 
 
 # Pedir que se declare de oficio la nulidad de una sanción de tráfico
 
-> Formulario 1746 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1746 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

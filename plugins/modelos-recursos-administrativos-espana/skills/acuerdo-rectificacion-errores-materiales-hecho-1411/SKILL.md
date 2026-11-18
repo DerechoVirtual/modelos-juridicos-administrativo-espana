@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de rectificación de errores material
 
 # Acuerdo de rectificación de errores materiales, de hecho o aritméticos
 
-> Formulario 1411 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1411 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

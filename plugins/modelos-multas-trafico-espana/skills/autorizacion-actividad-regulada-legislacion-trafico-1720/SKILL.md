@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorización para una actividad regulada por
 
 # Autorización para una actividad regulada por la legislación de tráfico y seguridad vial
 
-> Formulario 1720 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1720 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

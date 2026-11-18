@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desestimar reclamación de información y par
 
 # Desestimar reclamación de información y participación (Cataluña, en catalán)
 
-> Formulario 0353 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0353 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

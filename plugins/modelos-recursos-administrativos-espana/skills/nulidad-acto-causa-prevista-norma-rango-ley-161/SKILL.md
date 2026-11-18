@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad de acto por causa prevista en una nor
 
 # Nulidad de acto por causa prevista en una norma con rango de ley
 
-> Formulario 0161 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0161 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Codemandado plantea falta de jurisdicción tr
 
 # Codemandado plantea falta de jurisdicción tras la contestación
 
-> Formulario 0907 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0907 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

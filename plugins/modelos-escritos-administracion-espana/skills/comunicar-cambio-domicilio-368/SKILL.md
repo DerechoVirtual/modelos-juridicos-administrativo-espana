@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicar el cambio de domicilio» (formulari
 
 # Comunicar el cambio de domicilio
 
-> Formulario 0368 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0368 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

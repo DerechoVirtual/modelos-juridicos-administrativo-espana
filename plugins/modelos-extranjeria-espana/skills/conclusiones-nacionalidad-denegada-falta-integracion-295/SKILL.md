@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conclusiones: nacionalidad denegada por falta
 
 # Conclusiones: nacionalidad denegada por falta de integración
 
-> Formulario 0295 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0295 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

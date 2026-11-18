@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oposición del particular a la tramitación s
 
 # Oposición del particular a la tramitación simplificada acordada de oficio
 
-> Formulario 0134 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0134 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificar al interesado la tramitación simpl
 
 # Notificar al interesado la tramitación simplificada del procedimiento
 
-> Formulario 0131 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0131 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir el archivo del expediente por colaborar
 
 # Pedir el archivo del expediente por colaborar con la justicia
 
-> Formulario 0973 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0973 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

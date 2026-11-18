@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra denegación de admisión e
 
 # Reposición contra denegación de admisión en un centro educativo
 
-> Formulario 0455 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0455 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

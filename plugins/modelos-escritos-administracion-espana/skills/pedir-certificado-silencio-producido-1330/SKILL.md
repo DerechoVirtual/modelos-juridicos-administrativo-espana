@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir certificado del silencio producido» (f
 
 # Pedir certificado del silencio producido
 
-> Formulario 1330 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1330 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la rectificación de errores en una aut
 
 # Pedir la rectificación de errores en una autorización de tráfico
 
-> Formulario 1733 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1733 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

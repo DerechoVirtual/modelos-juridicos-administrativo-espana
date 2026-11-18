@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación de interesados por relación jur
 
 # Personación de interesados por relación jurídica transmisible
 
-> Formulario 1392 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1392 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

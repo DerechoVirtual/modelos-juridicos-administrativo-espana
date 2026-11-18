@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de subvención para actividades de 
 
 # Solicitud de subvención para actividades de seguridad vial o transporte por carretera
 
-> Formulario 1731 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1731 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de acumulación de expedientes a peti
 
 # Acuerdo de acumulación de expedientes a petición del interesado
 
-> Formulario 1336 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1336 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba de documentos públicos» (formulario 
 
 # Prueba de documentos públicos
 
-> Formulario 1247 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1247 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

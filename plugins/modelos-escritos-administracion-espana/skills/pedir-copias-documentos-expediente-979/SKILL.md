@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir copias de documentos del expediente» (
 
 # Pedir copias de documentos del expediente
 
-> Formulario 0979 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0979 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

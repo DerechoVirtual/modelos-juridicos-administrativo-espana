@@ -5,7 +5,7 @@ description: "Redacta el escrito «Anunciar recurso en sancionador abreviado de 
 
 # Anunciar recurso en sancionador abreviado de tráfico
 
-> Formulario 0297 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0297 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

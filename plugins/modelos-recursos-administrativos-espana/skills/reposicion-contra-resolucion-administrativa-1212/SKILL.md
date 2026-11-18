@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra resolución administrativa
 
 # Reposición contra resolución administrativa
 
-> Formulario 1212 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1212 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

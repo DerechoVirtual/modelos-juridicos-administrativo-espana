@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por vehículos no prioritarios en s
 
 # Descargos por vehículos no prioritarios en servicio de urgencia
 
-> Formulario 1668 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1668 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

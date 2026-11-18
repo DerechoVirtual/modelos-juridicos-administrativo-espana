@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denuncia de un particular para que se inicie 
 
 # Denuncia de un particular para que se inicie un procedimiento administrativo
 
-> Formulario 0113 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0113 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

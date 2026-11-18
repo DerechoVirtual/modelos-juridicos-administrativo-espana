@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado a las partes para alegar sobre compe
 
 # Traslado a las partes para alegar sobre competencia apreciada de oficio
 
-> Formulario 1826 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1826 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

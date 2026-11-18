@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra denegar renovar residencia y tr
 
 # Alzada contra denegar renovar residencia y trabajo por informe gubernativo desfavorable
 
-> Formulario 0709 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0709 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

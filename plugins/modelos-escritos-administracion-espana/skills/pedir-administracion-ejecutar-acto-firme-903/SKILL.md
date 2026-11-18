@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir a la Administración ejecutar un acto f
 
 # Pedir a la Administración ejecutar un acto firme
 
-> Formulario 0903 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0903 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

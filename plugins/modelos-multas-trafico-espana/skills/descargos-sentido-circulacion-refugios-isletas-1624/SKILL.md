@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por sentido de circulación en refu
 
 # Descargos por sentido de circulación en refugios, isletas y dispositivos de guía
 
-> Formulario 1624 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1624 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

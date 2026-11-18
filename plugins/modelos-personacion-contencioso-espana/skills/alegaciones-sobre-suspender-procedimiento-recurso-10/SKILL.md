@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones sobre suspender el procedimiento 
 
 # Alegaciones sobre suspender el procedimiento por un recurso de casación similar admitido
 
-> Formulario 0010 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0010 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

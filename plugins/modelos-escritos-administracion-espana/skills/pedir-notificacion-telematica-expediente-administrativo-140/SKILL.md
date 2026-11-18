@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la notificación telemática en un expe
 
 # Pedir la notificación telemática en un expediente administrativo
 
-> Formulario 0140 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0140 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

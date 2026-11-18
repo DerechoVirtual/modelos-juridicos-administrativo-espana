@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra sanción por usar disposit
 
 # Reposición contra sanción por usar dispositivos de intercomunicación en pruebas de permisos
 
-> Formulario 0025 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0025 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

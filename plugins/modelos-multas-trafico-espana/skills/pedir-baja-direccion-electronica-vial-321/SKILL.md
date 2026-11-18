@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la baja de la dirección electrónica v
 
 # Pedir la baja de la dirección electrónica vial
 
-> Formulario 0321 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0321 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

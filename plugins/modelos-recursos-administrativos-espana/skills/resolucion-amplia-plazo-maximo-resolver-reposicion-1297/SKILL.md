@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que amplía el plazo máximo para
 
 # Resolución que amplía el plazo máximo para resolver la reposición
 
-> Formulario 1297 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1297 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

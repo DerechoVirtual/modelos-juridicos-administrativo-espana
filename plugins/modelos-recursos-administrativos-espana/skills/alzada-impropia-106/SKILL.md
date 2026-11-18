@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada impropia» (formulario 106 de recursos
 
 # Alzada impropia
 
-> Formulario 0106 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0106 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

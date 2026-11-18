@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión de oficio de actos nulos por la STC
 
 # Revisión de oficio de actos nulos por la STC sobre el estado de alarma
 
-> Formulario 0041 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0041 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

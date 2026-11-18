@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por señales de indicaciones genera
 
 # Descargos por señales de indicaciones generales
 
-> Formulario 1585 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1585 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

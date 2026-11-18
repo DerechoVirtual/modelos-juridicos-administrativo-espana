@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado de silencio positivo en la renova
 
 # Certificado de silencio positivo en la renovación de residencia y trabajo
 
-> Formulario 0068 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0068 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

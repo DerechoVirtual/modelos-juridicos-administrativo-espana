@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento por incumplir la estimación (i
 
 # Requerimiento por incumplir la estimación (información y participación) (en catalán)
 
-> Formulario 0348 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0348 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones ante la falta de jurisdicción ap
 
 # Alegaciones ante la falta de jurisdicción apreciada de oficio
 
-> Formulario 1765 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1765 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

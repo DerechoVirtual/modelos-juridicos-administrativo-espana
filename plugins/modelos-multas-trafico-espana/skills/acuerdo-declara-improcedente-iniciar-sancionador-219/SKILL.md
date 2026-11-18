@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo que declara improcedente iniciar sanc
 
 # Acuerdo que declara improcedente iniciar sancionador por prescripción
 
-> Formulario 0219 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0219 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Renuncia a derechos en el procedimiento admin
 
 # Renuncia a derechos en el procedimiento administrativo
 
-> Formulario 1325 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1325 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

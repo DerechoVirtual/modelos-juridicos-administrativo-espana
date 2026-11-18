@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que declara la nulidad de pleno d
 
 # Resolución que declara la nulidad de pleno derecho de un acto administrativo
 
-> Formulario 1322 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1322 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir revocar un acto o resolución administr
 
 # Pedir revocar un acto o resolución administrativa
 
-> Formulario 0629 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0629 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

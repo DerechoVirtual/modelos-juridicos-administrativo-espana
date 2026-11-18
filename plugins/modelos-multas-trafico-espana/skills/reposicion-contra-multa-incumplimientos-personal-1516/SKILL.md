@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por incumplimientos 
 
 # Reposición contra multa por incumplimientos del personal sanitario sobre bebidas alcohólicas
 
-> Formulario 1516 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1516 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

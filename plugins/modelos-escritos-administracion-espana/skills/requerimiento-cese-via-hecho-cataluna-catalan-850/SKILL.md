@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento para que cese una vía de hecho
 
 # Requerimiento para que cese una vía de hecho (Cataluña, en catalán)
 
-> Formulario 0850 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0850 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

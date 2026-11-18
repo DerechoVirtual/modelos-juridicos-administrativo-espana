@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicar el pago voluntario de la multa y pe
 
 # Comunicar el pago voluntario de la multa y pedir la terminación del procedimiento
 
-> Formulario 0175 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0175 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

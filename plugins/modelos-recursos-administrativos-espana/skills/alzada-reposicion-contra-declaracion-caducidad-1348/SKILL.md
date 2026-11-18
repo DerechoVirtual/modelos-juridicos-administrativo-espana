@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada o reposición contra la declaración d
 
 # Alzada o reposición contra la declaración de caducidad del expediente
 
-> Formulario 1348 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1348 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

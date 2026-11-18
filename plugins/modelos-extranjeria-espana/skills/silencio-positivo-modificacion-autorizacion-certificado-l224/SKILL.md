@@ -5,7 +5,7 @@ description: "Redacta el escrito «Silencio positivo en la modificación de auto
 
 # Silencio positivo en la modificación de autorización: certificado
 
-> Formulario 0224 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0224 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

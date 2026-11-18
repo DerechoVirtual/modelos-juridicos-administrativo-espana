@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de oficio de apertura del período de
 
 # Acuerdo de oficio de apertura del período de prueba
 
-> Formulario 1370 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1370 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

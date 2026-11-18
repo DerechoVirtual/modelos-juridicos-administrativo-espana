@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerir la baja o anulación de la direcció
 
 # Requerir la baja o anulación de la dirección electrónica vial
 
-> Formulario 0323 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0323 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación y designación de representante 
 
 # Personación y designación de representante de una Entidad Local en el contencioso
 
-> Formulario 0666 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0666 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

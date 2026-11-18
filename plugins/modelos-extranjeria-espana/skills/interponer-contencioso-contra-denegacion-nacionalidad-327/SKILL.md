@@ -5,7 +5,7 @@ description: "Redacta el escrito «Interponer contencioso contra la denegación 
 
 # Interponer contencioso contra la denegación de nacionalidad
 
-> Formulario 0327 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0327 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

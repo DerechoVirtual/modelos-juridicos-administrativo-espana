@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado de la reposición contra sanción de
 
 # Traslado de la reposición contra sanción de tráfico a los demás interesados
 
-> Formulario 1822 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1822 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

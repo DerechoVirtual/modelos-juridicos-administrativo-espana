@@ -5,7 +5,7 @@ description: "Redacta el escrito «Remisión de información por el órgano requ
 
 # Remisión de información por el órgano requerido
 
-> Formulario 1105 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1105 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

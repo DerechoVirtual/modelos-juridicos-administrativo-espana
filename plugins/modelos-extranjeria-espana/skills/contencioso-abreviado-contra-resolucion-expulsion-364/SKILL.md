@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso abreviado contra resolución de e
 
 # Contencioso abreviado contra resolución de expulsión
 
-> Formulario 0364 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0364 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

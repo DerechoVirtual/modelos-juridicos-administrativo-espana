@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación específica de información y pa
 
 # Reclamación específica de información y participación (en catalán, modelo 2)
 
-> Formulario 0352 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0352 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

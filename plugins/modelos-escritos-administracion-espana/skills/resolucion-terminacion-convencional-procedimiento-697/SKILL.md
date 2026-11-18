@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución de terminación convencional del 
 
 # Resolución de terminación convencional del procedimiento
 
-> Formulario 0697 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0697 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

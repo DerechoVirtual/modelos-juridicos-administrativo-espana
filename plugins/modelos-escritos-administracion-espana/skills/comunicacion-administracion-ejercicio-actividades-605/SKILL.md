@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comunicación a la Administración del ejerci
 
 # Comunicación a la Administración del ejercicio de actividades
 
-> Formulario 0605 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0605 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de inadmisión de pretensiones de der
 
 # Acuerdo de inadmisión de pretensiones de derechos no previstos o manifiestamente infundados
 
-> Formulario 1351 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1351 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

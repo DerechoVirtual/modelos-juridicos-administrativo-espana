@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por emplazamiento y acondicionamien
 
 # Descargos por emplazamiento y acondicionamiento de personas
 
-> Formulario 1614 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1614 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

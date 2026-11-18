@@ -5,7 +5,7 @@ description: "Redacta el escrito «Edicto de ejecución subsidiaria para desaloj
 
 # Edicto de ejecución subsidiaria para desalojar personas y enseres de un inmueble
 
-> Formulario 0699 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0699 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

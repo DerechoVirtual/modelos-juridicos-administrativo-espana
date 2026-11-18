@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento vecinal previo a acudir a tribu
 
 # Requerimiento vecinal previo a acudir a tribunales por sustitución (Andalucía)
 
-> Formulario 1173 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1173 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

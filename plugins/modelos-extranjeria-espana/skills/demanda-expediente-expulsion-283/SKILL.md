@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda en un expediente de expulsión» (for
 
 # Demanda en un expediente de expulsión
 
-> Formulario 0283 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0283 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

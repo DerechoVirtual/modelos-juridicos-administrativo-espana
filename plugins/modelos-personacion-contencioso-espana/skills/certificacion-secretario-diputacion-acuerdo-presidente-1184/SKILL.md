@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación del secretario de la diputaci�
 
 # Certificación del secretario de la diputación: acuerdo del presidente de ejercitar acciones (Aragón)
 
-> Formulario 1184 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1184 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

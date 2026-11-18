@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de medidas provisionales urgentes» (
 
 # Acuerdo de medidas provisionales urgentes
 
-> Formulario 1380 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1380 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

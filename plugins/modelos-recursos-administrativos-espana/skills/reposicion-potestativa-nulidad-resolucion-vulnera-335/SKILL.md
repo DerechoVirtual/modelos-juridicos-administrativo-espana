@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición potestativa por nulidad de resolu
 
 # Reposición potestativa por nulidad de resolución que vulnera el derecho a la prueba
 
-> Formulario 0335 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0335 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

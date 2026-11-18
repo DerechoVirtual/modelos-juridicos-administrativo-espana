@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir copia de documentos» (formulario 574 d
 
 # Pedir copia de documentos
 
-> Formulario 0574 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0574 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

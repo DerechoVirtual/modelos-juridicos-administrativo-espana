@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la dirección electrónica vial» (form
 
 # Pedir la dirección electrónica vial
 
-> Formulario 0322 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0322 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

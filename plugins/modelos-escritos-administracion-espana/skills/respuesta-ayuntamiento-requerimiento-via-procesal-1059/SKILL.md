@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del ayuntamiento al requerimiento: 
 
 # Respuesta del ayuntamiento al requerimiento: vía procesal inadecuada para impugnar actos propios
 
-> Formulario 1059 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1059 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

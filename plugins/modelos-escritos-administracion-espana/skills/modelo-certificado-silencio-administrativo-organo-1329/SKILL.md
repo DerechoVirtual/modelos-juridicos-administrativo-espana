@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modelo de certificado de silencio administrat
 
 # Modelo de certificado de silencio administrativo del órgano competente
 
-> Formulario 1329 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1329 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

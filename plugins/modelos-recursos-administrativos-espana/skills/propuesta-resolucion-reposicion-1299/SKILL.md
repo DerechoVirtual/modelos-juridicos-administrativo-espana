@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de resolución en la reposición» 
 
 # Propuesta de resolución en la reposición
 
-> Formulario 1299 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1299 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

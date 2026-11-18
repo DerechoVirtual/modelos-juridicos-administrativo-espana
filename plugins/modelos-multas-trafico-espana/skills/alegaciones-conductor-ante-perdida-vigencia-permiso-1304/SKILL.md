@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del conductor ante la pérdida de
 
 # Alegaciones del conductor ante la pérdida de vigencia del permiso por perder todos los puntos
 
-> Formulario 1304 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1304 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

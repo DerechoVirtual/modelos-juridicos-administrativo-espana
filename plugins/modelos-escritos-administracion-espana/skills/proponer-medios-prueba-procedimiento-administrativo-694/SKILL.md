@@ -5,7 +5,7 @@ description: "Redacta el escrito «Proponer medios de prueba en el procedimiento
 
 # Proponer medios de prueba en el procedimiento administrativo
 
-> Formulario 0694 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0694 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

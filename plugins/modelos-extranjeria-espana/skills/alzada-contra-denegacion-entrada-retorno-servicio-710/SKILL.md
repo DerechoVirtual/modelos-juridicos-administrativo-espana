@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra la denegación de entrada y ret
 
 # Alzada contra la denegación de entrada y retorno del servicio fronterizo
 
-> Formulario 0710 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0710 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

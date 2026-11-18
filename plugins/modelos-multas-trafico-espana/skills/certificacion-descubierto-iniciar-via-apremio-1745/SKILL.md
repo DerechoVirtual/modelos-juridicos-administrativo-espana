@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación de descubierto para iniciar la
 
 # Certificación de descubierto para iniciar la vía de apremio
 
-> Formulario 1745 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1745 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

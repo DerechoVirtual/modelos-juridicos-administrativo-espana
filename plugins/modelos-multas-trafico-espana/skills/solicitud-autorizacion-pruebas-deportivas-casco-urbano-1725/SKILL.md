@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de autorización de pruebas deporti
 
 # Solicitud de autorización de pruebas deportivas por el casco urbano
 
-> Formulario 1725 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1725 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

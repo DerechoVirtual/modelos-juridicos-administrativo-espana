@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda para obtener la nacionalidad por opci
 
 # Demanda para obtener la nacionalidad por opción
 
-> Formulario 0340 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0340 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

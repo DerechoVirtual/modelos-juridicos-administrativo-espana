@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir requerimiento por incumplir la estimaci
 
 # Pedir requerimiento por incumplir la estimación (información y participación)
 
-> Formulario 0394 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0394 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

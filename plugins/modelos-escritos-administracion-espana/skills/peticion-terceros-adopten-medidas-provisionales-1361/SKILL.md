@@ -5,7 +5,7 @@ description: "Redacta el escrito «Petición de terceros para que se adopten med
 
 # Petición de terceros para que se adopten medidas provisionales
 
-> Formulario 1361 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1361 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

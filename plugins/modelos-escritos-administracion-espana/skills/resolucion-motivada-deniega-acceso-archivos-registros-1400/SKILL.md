@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución motivada que deniega el acceso a 
 
 # Resolución motivada que deniega el acceso a archivos y registros
 
-> Formulario 1400 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1400 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

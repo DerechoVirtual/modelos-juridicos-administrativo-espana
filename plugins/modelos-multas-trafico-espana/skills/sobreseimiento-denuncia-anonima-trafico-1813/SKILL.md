@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento de una denuncia anónima de tr
 
 # Sobreseimiento de una denuncia anónima de tráfico
 
-> Formulario 1813 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1813 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

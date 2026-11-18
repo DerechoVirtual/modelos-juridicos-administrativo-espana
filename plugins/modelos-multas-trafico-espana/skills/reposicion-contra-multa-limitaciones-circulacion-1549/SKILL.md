@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por limitaciones a l
 
 # Reposición contra multa por limitaciones a la circulación
 
-> Formulario 1549 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1549 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

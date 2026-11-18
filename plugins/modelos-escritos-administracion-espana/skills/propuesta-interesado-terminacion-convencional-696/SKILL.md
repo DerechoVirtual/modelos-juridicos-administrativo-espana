@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta del interesado de terminación conv
 
 # Propuesta del interesado de terminación convencional
 
-> Formulario 0696 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0696 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de autorización para actividades d
 
 # Solicitud de autorización para actividades de transporte terrestre
 
-> Formulario 1724 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1724 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de incorporación de una entidad pr
 
 # Solicitud de incorporación de una entidad privada al Consejo Superior de Tráfico y Seguridad Vial
 
-> Formulario 1730 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1730 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

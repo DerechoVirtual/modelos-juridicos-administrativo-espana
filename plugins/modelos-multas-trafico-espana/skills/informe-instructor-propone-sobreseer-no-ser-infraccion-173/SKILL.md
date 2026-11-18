@@ -5,7 +5,7 @@ description: "Redacta el escrito «Informe del instructor que propone sobreseer 
 
 # Informe del instructor que propone sobreseer por no ser infracción los hechos
 
-> Formulario 0173 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0173 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

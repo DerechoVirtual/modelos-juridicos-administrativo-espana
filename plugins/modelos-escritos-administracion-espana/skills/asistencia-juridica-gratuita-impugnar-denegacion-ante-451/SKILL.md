@@ -5,7 +5,7 @@ description: "Redacta el escrito «Asistencia jurídica gratuita: impugnar la de
 
 # Asistencia jurídica gratuita: impugnar la denegación ante la Comisión
 
-> Formulario 0451 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0451 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

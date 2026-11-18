@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en expulsión por arraigo familia
 
 # Alegaciones en expulsión por arraigo familiar
 
-> Formulario 0536 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0536 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

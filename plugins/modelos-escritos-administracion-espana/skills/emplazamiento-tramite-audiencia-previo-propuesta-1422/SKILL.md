@@ -5,7 +5,7 @@ description: "Redacta el escrito «Emplazamiento al trámite de audiencia previo
 
 # Emplazamiento al trámite de audiencia previo a la propuesta de resolución
 
-> Formulario 1422 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1422 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

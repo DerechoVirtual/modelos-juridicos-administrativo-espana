@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por utilización de 
 
 # Reposición contra multa por utilización de carriles en calzadas de doble sentido
 
-> Formulario 1518 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1518 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

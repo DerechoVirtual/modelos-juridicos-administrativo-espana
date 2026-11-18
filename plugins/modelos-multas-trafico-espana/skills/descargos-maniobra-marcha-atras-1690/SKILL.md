@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por maniobra de marcha atrás» (fo
 
 # Descargos por maniobra de marcha atrás
 
-> Formulario 1690 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1690 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

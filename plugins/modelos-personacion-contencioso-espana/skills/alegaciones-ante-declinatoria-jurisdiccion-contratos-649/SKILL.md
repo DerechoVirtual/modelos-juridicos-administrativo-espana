@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones ante declinatoria de jurisdicció
 
 # Alegaciones ante declinatoria de jurisdicción en contratos públicos
 
-> Formulario 0649 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0649 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

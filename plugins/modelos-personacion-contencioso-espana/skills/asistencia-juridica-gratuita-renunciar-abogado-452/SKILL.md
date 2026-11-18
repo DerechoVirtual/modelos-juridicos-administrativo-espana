@@ -5,7 +5,7 @@ description: "Redacta el escrito «Asistencia jurídica gratuita: renunciar al a
 
 # Asistencia jurídica gratuita: renunciar al abogado y procurador de oficio
 
-> Formulario 0452 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0452 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

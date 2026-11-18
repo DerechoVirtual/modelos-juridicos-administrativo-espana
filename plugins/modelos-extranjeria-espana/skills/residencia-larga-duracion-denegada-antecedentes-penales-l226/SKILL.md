@@ -5,7 +5,7 @@ description: "Redacta el escrito «Residencia de larga duración denegada por an
 
 # Residencia de larga duración denegada por antecedentes penales: demanda
 
-> Formulario 0226 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0226 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

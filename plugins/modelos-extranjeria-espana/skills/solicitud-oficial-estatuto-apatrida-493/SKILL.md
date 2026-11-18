@@ -5,7 +5,7 @@ description: "Prepara «Solicitud oficial del Estatuto de Apátrida» (formulari
 
 # Solicitud oficial del Estatuto de Apátrida
 
-> Formulario 0493 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0493 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

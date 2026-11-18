@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por dimensiones del 
 
 # Reposición contra multa por dimensiones del vehículo y su carga
 
-> Formulario 1559 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1559 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

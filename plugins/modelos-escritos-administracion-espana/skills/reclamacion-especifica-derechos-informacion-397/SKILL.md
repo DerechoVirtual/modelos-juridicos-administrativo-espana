@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación específica por derechos de info
 
 # Reclamación específica por derechos de información y participación
 
-> Formulario 0397 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0397 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

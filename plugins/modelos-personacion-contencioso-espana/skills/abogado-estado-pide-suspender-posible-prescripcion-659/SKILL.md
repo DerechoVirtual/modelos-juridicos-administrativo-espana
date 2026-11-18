@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abogado del Estado pide suspender por posible
 
 # Abogado del Estado pide suspender por posible prescripción de la sanción
 
-> Formulario 0659 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0659 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir medidas cautelares en tráfico y seguri
 
 # Pedir medidas cautelares en tráfico y seguridad vial
 
-> Formulario 0908 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0908 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra denegación de entrada en Espa�
 
 # Alzada contra denegación de entrada en España con carta de invitación
 
-> Formulario 0261 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0261 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

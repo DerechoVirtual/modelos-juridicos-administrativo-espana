@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que declara inexistente la infrac
 
 # Resolución que declara inexistente la infracción por hechos no constitutivos de ella
 
-> Formulario 0154 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0154 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

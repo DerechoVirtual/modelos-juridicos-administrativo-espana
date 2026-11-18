@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por la investigació
 
 # Reposición contra multa por la investigación de la alcoholemia
 
-> Formulario 1522 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1522 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de inadmisión del recurso extraordin
 
 # Acuerdo de inadmisión del recurso extraordinario de revisión
 
-> Formulario 1403 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1403 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

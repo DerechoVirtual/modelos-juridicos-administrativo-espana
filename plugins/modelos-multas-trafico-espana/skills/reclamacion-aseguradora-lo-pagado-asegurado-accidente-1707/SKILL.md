@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación de la aseguradora por lo pagado 
 
 # Reclamación de la aseguradora por lo pagado a su asegurado en un accidente de circulación
 
-> Formulario 1707 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1707 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

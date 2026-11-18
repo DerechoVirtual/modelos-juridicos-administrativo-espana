@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oficio para comprobar la veracidad de una den
 
 # Oficio para comprobar la veracidad de una denuncia anónima
 
-> Formulario 1744 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1744 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

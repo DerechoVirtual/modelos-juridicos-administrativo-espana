@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oficio que informa de la incoación al órgan
 
 # Oficio que informa de la incoación al órgano autor de la petición razonada
 
-> Formulario 0222 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0222 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

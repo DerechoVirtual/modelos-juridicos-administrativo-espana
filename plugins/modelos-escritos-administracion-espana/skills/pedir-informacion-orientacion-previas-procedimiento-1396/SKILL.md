@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir información y orientación previas a u
 
 # Pedir información y orientación previas a un procedimiento
 
-> Formulario 1396 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1396 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

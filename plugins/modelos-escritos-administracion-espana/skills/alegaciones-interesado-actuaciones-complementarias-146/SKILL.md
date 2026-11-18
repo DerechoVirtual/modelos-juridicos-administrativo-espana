@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del interesado en actuaciones com
 
 # Alegaciones del interesado en actuaciones complementarias ordenadas por el órgano resolutor
 
-> Formulario 0146 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0146 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

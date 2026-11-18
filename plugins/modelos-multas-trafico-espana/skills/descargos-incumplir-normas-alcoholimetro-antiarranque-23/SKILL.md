@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por incumplir las normas del alcoho
 
 # Descargos por incumplir las normas del alcoholímetro antiarranque
 
-> Formulario 0023 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0023 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

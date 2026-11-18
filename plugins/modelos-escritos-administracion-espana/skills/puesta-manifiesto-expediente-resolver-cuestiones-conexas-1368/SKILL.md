@@ -5,7 +5,7 @@ description: "Redacta el escrito «Puesta de manifiesto del expediente para reso
 
 # Puesta de manifiesto del expediente para resolver cuestiones conexas no planteadas
 
-> Formulario 1368 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1368 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

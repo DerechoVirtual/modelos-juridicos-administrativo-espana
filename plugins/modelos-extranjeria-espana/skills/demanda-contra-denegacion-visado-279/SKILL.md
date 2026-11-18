@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra la denegación de visado» (fo
 
 # Demanda contra la denegación de visado
 
-> Formulario 0279 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0279 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

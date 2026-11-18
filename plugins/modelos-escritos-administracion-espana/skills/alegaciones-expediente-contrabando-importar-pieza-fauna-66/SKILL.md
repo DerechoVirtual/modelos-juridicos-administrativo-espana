@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en expediente de contrabando por 
 
 # Alegaciones en expediente de contrabando por importar una pieza de fauna
 
-> Formulario 0066 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0066 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Iniciación del expediente por petición razo
 
 # Iniciación del expediente por petición razonada de otros órganos
 
-> Formulario 1210 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1210 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

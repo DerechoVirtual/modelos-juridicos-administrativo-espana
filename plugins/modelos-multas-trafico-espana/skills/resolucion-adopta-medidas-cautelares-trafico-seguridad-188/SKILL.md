@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que adopta medidas cautelares en 
 
 # Resolución que adopta medidas cautelares en tráfico y seguridad vial
 
-> Formulario 0188 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0188 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

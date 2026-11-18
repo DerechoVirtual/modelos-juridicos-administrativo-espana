@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación de asociaciones y organizaciones
 
 # Personación de asociaciones y organizaciones de intereses colectivos
 
-> Formulario 1393 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1393 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

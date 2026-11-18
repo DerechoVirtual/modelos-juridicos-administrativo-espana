@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por cinturón o sistema de retenci�
 
 # Descargos por cinturón o sistema de retención infantil
 
-> Formulario 1677 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1677 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

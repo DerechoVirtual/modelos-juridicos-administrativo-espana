@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones previas: falta de competencia del
 
 # Alegaciones previas: falta de competencia del órgano jurisdiccional
 
-> Formulario 1281 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1281 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

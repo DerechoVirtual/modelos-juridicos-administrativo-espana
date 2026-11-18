@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa a peatón por cruzar
 
 # Reposición contra multa a peatón por cruzar la calzada
 
-> Formulario 1513 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1513 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

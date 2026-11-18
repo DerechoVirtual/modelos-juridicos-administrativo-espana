@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por parada y estacionamiento» (for
 
 # Descargos por parada y estacionamiento
 
-> Formulario 1642 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1642 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

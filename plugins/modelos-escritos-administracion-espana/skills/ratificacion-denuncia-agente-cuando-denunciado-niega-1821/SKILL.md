@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ratificación de la denuncia por el agente cu
 
 # Ratificación de la denuncia por el agente cuando el denunciado niega los hechos
 
-> Formulario 1821 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1821 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

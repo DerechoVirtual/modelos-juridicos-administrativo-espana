@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación de la diputación: acuerdo del
 
 # Certificación de la diputación: acuerdo del presidente e informe previo a acciones
 
-> Formulario 1177 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1177 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

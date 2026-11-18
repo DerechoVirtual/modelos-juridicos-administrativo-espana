@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud a un órgano administrativo para pr
 
 # Solicitud a un órgano administrativo para promover conflicto de jurisdicción
 
-> Formulario 1828 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1828 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

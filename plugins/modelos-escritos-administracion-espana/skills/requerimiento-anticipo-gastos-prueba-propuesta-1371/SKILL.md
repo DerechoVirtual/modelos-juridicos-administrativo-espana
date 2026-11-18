@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento de anticipo de gastos de la pru
 
 # Requerimiento de anticipo de gastos de la prueba propuesta
 
-> Formulario 1371 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1371 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

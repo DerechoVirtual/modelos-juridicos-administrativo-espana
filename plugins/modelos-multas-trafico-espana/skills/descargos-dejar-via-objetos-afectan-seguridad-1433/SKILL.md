@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por dejar en la vía objetos que af
 
 # Descargos por dejar en la vía objetos que afectan a la seguridad
 
-> Formulario 1433 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1433 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

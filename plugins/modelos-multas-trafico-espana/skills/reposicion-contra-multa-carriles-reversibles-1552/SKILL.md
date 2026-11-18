@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por carriles reversi
 
 # Reposición contra multa por carriles reversibles
 
-> Formulario 1552 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1552 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

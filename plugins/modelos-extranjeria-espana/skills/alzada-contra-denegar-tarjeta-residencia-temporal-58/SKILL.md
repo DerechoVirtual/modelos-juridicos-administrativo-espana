@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra denegar la tarjeta de residenci
 
 # Alzada contra denegar la tarjeta de residencia temporal de familiar de ciudadano UE
 
-> Formulario 0058 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0058 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

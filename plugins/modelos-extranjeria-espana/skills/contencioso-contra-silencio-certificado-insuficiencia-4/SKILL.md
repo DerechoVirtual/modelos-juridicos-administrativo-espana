@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso contra el silencio en el certific
 
 # Contencioso contra el silencio en el certificado de insuficiencia de demandantes de empleo
 
-> Formulario 0004 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0004 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

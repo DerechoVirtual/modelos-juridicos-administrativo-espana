@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencia de desistimiento por comparecencia
 
 # Diligencia de desistimiento por comparecencia personal
 
-> Formulario 1407 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1407 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

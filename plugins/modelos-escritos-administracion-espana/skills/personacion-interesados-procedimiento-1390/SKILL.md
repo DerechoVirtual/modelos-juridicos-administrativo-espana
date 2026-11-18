@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación de los interesados en el procedi
 
 # Personación de los interesados en el procedimiento
 
-> Formulario 1390 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1390 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

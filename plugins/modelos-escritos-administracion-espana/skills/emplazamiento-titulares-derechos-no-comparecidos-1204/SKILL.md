@@ -5,7 +5,7 @@ description: "Redacta el escrito «Emplazamiento a titulares de derechos no comp
 
 # Emplazamiento a titulares de derechos no comparecidos
 
-> Formulario 1204 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1204 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

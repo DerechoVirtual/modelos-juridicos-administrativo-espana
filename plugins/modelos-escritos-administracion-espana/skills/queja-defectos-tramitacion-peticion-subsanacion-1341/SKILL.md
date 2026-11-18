@@ -5,7 +5,7 @@ description: "Redacta el escrito «Queja por defectos de tramitación con petici
 
 # Queja por defectos de tramitación con petición de subsanación y responsabilidad disciplinaria
 
-> Formulario 1341 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1341 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

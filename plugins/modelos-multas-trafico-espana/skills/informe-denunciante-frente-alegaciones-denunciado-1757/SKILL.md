@@ -5,7 +5,7 @@ description: "Redacta el escrito «Informe del denunciante frente a las alegacio
 
 # Informe del denunciante frente a las alegaciones del denunciado a la propuesta
 
-> Formulario 1757 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1757 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

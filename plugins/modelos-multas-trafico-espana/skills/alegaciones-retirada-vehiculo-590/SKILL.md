@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones por retirada del vehículo» (for
 
 # Alegaciones por retirada del vehículo
 
-> Formulario 0590 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0590 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inadmitir la solicitud de nulidad de disposic
 
 # Inadmitir la solicitud de nulidad de disposiciones y actos
 
-> Formulario 0128 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0128 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

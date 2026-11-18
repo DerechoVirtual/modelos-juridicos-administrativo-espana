@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra denegación de permiso de 
 
 # Reposición contra denegación de permiso de trabajo a un extranjero
 
-> Formulario 0537 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0537 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

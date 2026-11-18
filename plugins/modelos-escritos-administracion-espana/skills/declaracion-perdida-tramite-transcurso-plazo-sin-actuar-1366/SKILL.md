@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración de pérdida del trámite por tra
 
 # Declaración de pérdida del trámite por transcurso del plazo sin actuar
 
-> Formulario 1366 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1366 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Emplazamiento a los demandados» (formulario 
 
 # Emplazamiento a los demandados
 
-> Formulario 0969 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0969 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

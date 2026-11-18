@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por exceso de velocidad fuera de po
 
 # Descargos por exceso de velocidad fuera de poblado
 
-> Formulario 1625 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1625 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

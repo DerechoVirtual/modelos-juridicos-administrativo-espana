@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de ratificación del agente denunciante�
 
 # Acta de ratificación del agente denunciante
 
-> Formulario 1755 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1755 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

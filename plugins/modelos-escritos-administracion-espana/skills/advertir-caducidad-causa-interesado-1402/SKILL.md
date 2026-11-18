@@ -5,7 +5,7 @@ description: "Redacta el escrito «Advertir de la caducidad por causa del intere
 
 # Advertir de la caducidad por causa del interesado
 
-> Formulario 1402 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1402 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

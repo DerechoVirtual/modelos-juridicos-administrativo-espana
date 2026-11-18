@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra el acuerdo de medidas provision
 
 # Alzada contra el acuerdo de medidas provisionales
 
-> Formulario 1360 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1360 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

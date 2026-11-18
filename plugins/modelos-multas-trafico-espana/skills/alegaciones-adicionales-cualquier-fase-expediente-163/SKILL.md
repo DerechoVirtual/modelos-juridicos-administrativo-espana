@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones adicionales en cualquier fase del
 
 # Alegaciones adicionales en cualquier fase del expediente
 
-> Formulario 0163 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0163 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

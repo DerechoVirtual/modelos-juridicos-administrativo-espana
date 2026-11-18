@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por dejar en la vía
 
 # Reposición contra multa por dejar en la vía objetos que afectan a la seguridad
 
-> Formulario 1566 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1566 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

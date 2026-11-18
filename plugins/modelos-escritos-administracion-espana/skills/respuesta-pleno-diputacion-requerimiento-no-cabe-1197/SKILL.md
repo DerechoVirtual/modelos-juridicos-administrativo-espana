@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del pleno de la diputación al requ
 
 # Respuesta del pleno de la diputación al requerimiento: no cabe impugnar actos propios (Galicia)
 
-> Formulario 1197 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1197 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

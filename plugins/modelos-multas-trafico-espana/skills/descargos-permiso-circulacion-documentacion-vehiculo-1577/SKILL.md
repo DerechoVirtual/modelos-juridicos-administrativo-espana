@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por permiso de circulación y docum
 
 # Descargos por permiso de circulación y documentación del vehículo
 
-> Formulario 1577 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1577 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del Ayuntamiento al requerimiento: 
 
 # Respuesta del Ayuntamiento al requerimiento: no cabe impugnar actos propios (Cataluña)
 
-> Formulario 1056 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1056 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

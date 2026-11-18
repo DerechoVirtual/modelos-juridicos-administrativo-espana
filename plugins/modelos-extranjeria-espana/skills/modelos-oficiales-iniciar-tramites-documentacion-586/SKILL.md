@@ -5,7 +5,7 @@ description: "Prepara «Modelos oficiales para iniciar trámites de documentaci�
 
 # Modelos oficiales para iniciar trámites de documentación de extranjeros
 
-> Formulario 0586 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0586 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del Pleno municipal al requerimient
 
 # Respuesta del Pleno municipal al requerimiento: inadecuación de las acciones (Cataluña)
 
-> Formulario 1171 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1171 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

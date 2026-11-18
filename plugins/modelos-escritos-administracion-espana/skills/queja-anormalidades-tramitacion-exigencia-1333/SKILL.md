@@ -5,7 +5,7 @@ description: "Redacta el escrito «Queja por anormalidades en la tramitación y 
 
 # Queja por anormalidades en la tramitación y exigencia de responsabilidad a la Administración
 
-> Formulario 1333 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1333 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

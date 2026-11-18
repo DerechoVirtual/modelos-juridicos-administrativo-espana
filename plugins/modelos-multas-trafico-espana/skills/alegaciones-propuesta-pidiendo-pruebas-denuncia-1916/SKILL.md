@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones a la propuesta pidiendo pruebas e
 
 # Alegaciones a la propuesta pidiendo pruebas en denuncia de controlador de estacionamiento
 
-> Formulario 1916 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1916 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

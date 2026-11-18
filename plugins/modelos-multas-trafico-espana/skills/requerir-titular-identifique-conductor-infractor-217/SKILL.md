@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerir al titular que identifique al conduc
 
 # Requerir al titular que identifique al conductor infractor
 
-> Formulario 0217 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0217 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

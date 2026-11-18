@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por circulación en autopistas y au
 
 # Descargos por circulación en autopistas y autovías
 
-> Formulario 1593 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1593 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

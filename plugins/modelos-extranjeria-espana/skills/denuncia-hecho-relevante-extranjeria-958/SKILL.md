@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denuncia de un hecho relevante en extranjerí
 
 # Denuncia de un hecho relevante en extranjería
 
-> Formulario 0958 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0958 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

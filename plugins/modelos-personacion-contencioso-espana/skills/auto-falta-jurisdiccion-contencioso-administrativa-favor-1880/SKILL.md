@@ -5,7 +5,7 @@ description: "Redacta el escrito «Auto de falta de jurisdicción contencioso-ad
 
 # Auto de falta de jurisdicción contencioso-administrativa a favor del orden social
 
-> Formulario 1880 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1880 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

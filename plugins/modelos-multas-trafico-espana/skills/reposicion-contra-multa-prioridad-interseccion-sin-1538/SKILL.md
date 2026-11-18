@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por prioridad en int
 
 # Reposición contra multa por prioridad en intersección sin señalizar
 
-> Formulario 1538 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1538 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

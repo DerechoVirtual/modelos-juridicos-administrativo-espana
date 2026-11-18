@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir certificado escolar para obtener la res
 
 # Pedir certificado escolar para obtener la residencia legal
 
-> Formulario 0069 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0069 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

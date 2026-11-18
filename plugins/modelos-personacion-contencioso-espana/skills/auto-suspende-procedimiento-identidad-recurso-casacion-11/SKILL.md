@@ -5,7 +5,7 @@ description: "Redacta el escrito «Auto que suspende el procedimiento por identi
 
 # Auto que suspende el procedimiento por identidad con un recurso de casación admitido
 
-> Formulario 0011 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0011 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

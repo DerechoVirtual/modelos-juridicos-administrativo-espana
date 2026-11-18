@@ -5,7 +5,7 @@ description: "Redacta el escrito «Codemandado plantea incompetencia objetiva en
 
 # Codemandado plantea incompetencia objetiva en personal (nacimiento de la relación funcionarial)
 
-> Formulario 0923 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0923 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

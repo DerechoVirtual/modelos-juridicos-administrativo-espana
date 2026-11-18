@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos de peatón por cruzar la calzada» 
 
 # Descargos de peatón por cruzar la calzada
 
-> Formulario 1682 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1682 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

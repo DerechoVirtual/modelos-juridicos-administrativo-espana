@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación del secretario municipal: acue
 
 # Certificación del secretario municipal: acuerdo del pleno de ejercitar acciones (Galicia)
 
-> Formulario 1189 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1189 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

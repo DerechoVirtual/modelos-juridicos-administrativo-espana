@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso contencioso contra la denegación de 
 
 # Recurso contencioso contra la denegación de visado de régimen comunitario
 
-> Formulario 0513 de la colección de Civil del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0513 de la colección de Civil del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

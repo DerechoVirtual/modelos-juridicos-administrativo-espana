@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificar la ejecución subsidiaria de una re
 
 # Notificar la ejecución subsidiaria de una resolución administrativa
 
-> Formulario 0257 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0257 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

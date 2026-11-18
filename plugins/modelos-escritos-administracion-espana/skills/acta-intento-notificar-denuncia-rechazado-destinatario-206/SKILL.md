@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta del intento de notificar la denuncia rec
 
 # Acta del intento de notificar la denuncia rechazado por el destinatario
 
-> Formulario 0206 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0206 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

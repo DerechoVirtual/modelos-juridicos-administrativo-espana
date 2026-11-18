@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra la denegación de personac
 
 # Reposición contra la denegación de personación de la entidad local
 
-> Formulario 1090 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1090 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso ante la Audiencia Nacional por si
 
 # Contencioso ante la Audiencia Nacional por silencio negativo en nacionalidad
 
-> Formulario 0079 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0079 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

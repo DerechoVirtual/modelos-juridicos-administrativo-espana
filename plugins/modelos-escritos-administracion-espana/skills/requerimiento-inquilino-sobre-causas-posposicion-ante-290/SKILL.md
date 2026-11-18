@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento al inquilino sobre causas de po
 
 # Requerimiento al inquilino sobre causas de posposición ante la prórroga por necesidad
 
-> Formulario 0290 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0290 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

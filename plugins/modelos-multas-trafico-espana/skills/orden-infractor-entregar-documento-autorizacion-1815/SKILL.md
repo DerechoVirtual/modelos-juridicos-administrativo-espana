@@ -5,7 +5,7 @@ description: "Redacta el escrito «Orden al infractor de entregar el documento d
 
 # Orden al infractor de entregar el documento de la autorización suspendida
 
-> Formulario 1815 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1815 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

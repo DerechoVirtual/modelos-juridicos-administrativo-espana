@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por transporte en ciclos, ciclomoto
 
 # Descargos por transporte en ciclos, ciclomotores y motocicletas
 
-> Formulario 1617 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1617 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en audiencia y vista del expedien
 
 # Alegaciones en audiencia y vista del expediente
 
-> Formulario 1381 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1381 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

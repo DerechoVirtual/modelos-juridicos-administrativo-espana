@@ -5,7 +5,7 @@ description: "Redacta el escrito «Audiencia a los interesados para resolver el 
 
 # Audiencia a los interesados para resolver el recurso administrativo
 
-> Formulario 1759 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1759 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

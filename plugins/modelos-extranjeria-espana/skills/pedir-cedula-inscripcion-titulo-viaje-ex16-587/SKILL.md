@@ -5,7 +5,7 @@ description: "Prepara «Pedir cédula de inscripción o título de viaje (EX16)�
 
 # Pedir cédula de inscripción o título de viaje (EX16)
 
-> Formulario 0587 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0587 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

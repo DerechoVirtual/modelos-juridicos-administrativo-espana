@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra inadmisión por falta de e
 
 # Reposición contra inadmisión por falta de empadronamiento
 
-> Formulario 0957 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0957 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

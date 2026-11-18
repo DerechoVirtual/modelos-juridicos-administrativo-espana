@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud y adhesión para una distinción ho
 
 # Solicitud y adhesión para una distinción honorífica en tráfico, transportes o seguridad vial
 
-> Formulario 1729 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1729 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

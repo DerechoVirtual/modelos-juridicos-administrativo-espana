@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por estancia irregul
 
 # Reposición contra multa por estancia irregular
 
-> Formulario 0383 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0383 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

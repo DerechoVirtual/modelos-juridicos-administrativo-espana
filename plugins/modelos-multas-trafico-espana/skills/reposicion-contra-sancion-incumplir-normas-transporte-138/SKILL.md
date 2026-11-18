@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra sanción por incumplir nor
 
 # Reposición contra sanción por incumplir normas de transporte terrestre por carretera
 
-> Formulario 0138 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0138 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

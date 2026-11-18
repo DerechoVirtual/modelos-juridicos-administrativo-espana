@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir acceso directo a consultar expedientes�
 
 # Pedir acceso directo a consultar expedientes
 
-> Formulario 0573 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0573 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

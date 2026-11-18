@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por advertencias acústicas» (form
 
 # Descargos por advertencias acústicas
 
-> Formulario 1453 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1453 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

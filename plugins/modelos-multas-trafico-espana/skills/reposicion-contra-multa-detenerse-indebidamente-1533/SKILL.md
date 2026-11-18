@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por detenerse indebi
 
 # Reposición contra multa por detenerse indebidamente en una intersección
 
-> Formulario 1533 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1533 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

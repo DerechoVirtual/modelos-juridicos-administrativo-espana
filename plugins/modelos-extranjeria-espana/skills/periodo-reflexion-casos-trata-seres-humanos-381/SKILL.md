@@ -5,7 +5,7 @@ description: "Redacta el escrito «Periodo de reflexión en casos de trata de se
 
 # Periodo de reflexión en casos de trata de seres humanos
 
-> Formulario 0381 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0381 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

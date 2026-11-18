@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por conducción negl
 
 # Reposición contra multa por conducción negligente o temeraria
 
-> Formulario 1567 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1567 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Informe al interesado sobre el estado de tram
 
 # Informe al interesado sobre el estado de tramitación del expediente
 
-> Formulario 1394 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1394 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

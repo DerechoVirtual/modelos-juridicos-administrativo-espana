@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por libertad de movi
 
 # Reposición contra multa por libertad de movimientos, atención, posición, animales y auriculares
 
-> Formulario 1556 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1556 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

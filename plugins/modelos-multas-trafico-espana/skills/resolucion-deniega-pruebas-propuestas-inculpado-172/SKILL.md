@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que deniega las pruebas propuesta
 
 # Resolución que deniega las pruebas propuestas por el inculpado
 
-> Formulario 0172 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0172 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

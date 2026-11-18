@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la cancelación de anotación en el Reg
 
 # Pedir la cancelación de anotación en el Registro de Conductores e Infractores
 
-> Formulario 1737 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1737 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

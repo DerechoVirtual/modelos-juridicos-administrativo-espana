@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del pleno municipal al requerimient
 
 # Respuesta del pleno municipal al requerimiento: inadecuación de acciones (Andalucía)
 
-> Formulario 1032 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1032 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso contra la expulsión del procedimient
 
 # Recurso contra la expulsión del procedimiento preferente
 
-> Formulario 0966 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0966 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reexamen de la denegación de asilo» (formul
 
 # Reexamen de la denegación de asilo
 
-> Formulario 0955 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0955 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

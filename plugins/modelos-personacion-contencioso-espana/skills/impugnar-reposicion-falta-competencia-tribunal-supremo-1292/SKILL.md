@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar la reposición por falta de competen
 
 # Impugnar la reposición por falta de competencia del Tribunal Supremo
 
-> Formulario 1292 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1292 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

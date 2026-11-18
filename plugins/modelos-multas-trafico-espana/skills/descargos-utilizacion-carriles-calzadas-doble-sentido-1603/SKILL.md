@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por utilización de carriles en cal
 
 # Descargos por utilización de carriles en calzadas de doble sentido
 
-> Formulario 1603 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1603 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

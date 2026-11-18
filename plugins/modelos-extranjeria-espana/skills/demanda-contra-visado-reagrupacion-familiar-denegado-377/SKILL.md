@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra visado de reagrupación famili
 
 # Demanda contra visado de reagrupación familiar denegado (modelo 2)
 
-> Formulario 0377 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0377 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

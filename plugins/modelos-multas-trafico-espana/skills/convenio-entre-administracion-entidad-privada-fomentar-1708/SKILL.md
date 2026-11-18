@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenio entre una Administración y una enti
 
 # Convenio entre una Administración y una entidad privada para fomentar la seguridad vial
 
-> Formulario 1708 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1708 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

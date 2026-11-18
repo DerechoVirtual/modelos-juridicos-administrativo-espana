@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se tengan por subsanados los defect
 
 # Pedir que se tengan por subsanados los defectos de representación
 
-> Formulario 1332 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1332 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir rectificar errores materiales, de hecho
 
 # Pedir rectificar errores materiales, de hecho y aritméticos
 
-> Formulario 0571 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0571 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

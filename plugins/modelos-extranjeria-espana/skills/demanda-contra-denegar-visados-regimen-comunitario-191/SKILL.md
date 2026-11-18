@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra denegar visados en régimen co
 
 # Demanda contra denegar visados en régimen comunitario
 
-> Formulario 0191 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0191 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hacer valer el derecho a no presentar documen
 
 # Hacer valer el derecho a no presentar documentos que ya obran en la Administración
 
-> Formulario 1399 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1399 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

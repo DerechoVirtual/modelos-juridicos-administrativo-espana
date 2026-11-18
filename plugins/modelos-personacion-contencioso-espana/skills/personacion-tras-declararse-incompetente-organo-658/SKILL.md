@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación tras declararse incompetente el 
 
 # Personación tras declararse incompetente el órgano por exposición razonada
 
-> Formulario 0658 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0658 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

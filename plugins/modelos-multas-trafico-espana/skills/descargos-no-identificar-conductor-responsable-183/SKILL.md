@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por no identificar al conductor res
 
 # Descargos por no identificar al conductor responsable
 
-> Formulario 0183 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0183 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

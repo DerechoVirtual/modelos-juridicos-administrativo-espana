@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otorgar representación ante la Administraci�
 
 # Otorgar representación ante la Administración
 
-> Formulario 0285 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0285 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

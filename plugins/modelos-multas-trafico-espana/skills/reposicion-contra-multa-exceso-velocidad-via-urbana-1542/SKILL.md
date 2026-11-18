@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por exceso de veloci
 
 # Reposición contra multa por exceso de velocidad en vía urbana o travesía
 
-> Formulario 1542 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1542 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

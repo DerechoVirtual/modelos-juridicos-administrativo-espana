@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por marcas de otros colores» (form
 
 # Descargos por marcas de otros colores
 
-> Formulario 1573 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1573 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra sanción de expulsión por
 
 # Reposición contra sanción de expulsión por estancia ilegal (art. 53.a Ley de Extranjería)
 
-> Formulario 0717 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0717 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

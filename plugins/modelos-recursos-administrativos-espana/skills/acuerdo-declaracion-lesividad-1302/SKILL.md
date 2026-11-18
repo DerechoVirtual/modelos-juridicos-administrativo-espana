@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de declaración de lesividad» (formu
 
 # Acuerdo de declaración de lesividad
 
-> Formulario 1302 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1302 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

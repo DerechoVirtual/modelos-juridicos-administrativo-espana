@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al inicio por insuficiencia de pr
 
 # Alegaciones al inicio por insuficiencia de prueba de cargo en denuncia de tráfico
 
-> Formulario 1908 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1908 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

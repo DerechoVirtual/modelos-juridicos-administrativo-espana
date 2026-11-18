@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición ante la Subdelegación en expulsi
 
 # Reposición ante la Subdelegación en expulsión preferente
 
-> Formulario 0374 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0374 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

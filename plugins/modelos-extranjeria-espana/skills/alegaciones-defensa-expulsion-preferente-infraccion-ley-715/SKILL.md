@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones de defensa en expulsión preferen
 
 # Alegaciones de defensa en expulsión preferente por infracción de la Ley de Extranjería
 
-> Formulario 0715 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0715 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

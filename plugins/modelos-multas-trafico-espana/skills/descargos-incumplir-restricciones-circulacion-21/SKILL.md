@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por incumplir restricciones de circ
 
 # Descargos por incumplir restricciones de circulación por contaminación
 
-> Formulario 0021 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0021 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

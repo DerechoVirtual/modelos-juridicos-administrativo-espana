@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por casco y otros el
 
 # Reposición contra multa por casco y otros elementos de protección
 
-> Formulario 1512 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1512 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

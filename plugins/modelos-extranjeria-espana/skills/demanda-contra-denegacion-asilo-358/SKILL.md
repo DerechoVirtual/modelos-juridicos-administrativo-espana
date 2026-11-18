@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra la denegación de asilo» (for
 
 # Demanda contra la denegación de asilo
 
-> Formulario 0358 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0358 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

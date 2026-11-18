@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra denegar la tarjeta de residenc
 
 # Demanda contra denegar la tarjeta de residencia permanente de familiar de ciudadano UE
 
-> Formulario 0043 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0043 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

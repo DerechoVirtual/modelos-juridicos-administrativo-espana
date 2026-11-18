@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por entorpecer la ci
 
 # Reposición contra multa por entorpecer la circulación o causar peligro, molestias o daños
 
-> Formulario 1459 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1459 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

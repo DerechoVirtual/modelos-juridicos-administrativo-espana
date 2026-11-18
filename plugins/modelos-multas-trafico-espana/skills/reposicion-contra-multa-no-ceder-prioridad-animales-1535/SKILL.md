@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por no ceder priorid
 
 # Reposición contra multa por no ceder prioridad a animales
 
-> Formulario 1535 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1535 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

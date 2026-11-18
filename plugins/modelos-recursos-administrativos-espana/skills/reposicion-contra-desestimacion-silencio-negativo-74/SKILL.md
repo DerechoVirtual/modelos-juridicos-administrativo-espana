@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra desestimación por silenci
 
 # Reposición contra desestimación por silencio negativo
 
-> Formulario 0074 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0074 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

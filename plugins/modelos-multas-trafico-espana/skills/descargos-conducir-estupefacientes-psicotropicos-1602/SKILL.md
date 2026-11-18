@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por conducir con estupefacientes, p
 
 # Descargos por conducir con estupefacientes, psicotrópicos o sustancias análogas
 
-> Formulario 1602 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1602 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

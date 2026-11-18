@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por matrículas obligatorias» (for
 
 # Descargos por matrículas obligatorias
 
-> Formulario 1576 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1576 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por maniobra de para
 
 # Reposición contra multa por maniobra de parada y estacionamiento
 
-> Formulario 1491 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1491 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

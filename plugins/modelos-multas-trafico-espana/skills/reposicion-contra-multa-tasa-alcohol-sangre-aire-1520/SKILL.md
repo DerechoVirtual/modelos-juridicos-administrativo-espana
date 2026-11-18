@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por tasa de alcohol 
 
 # Reposición contra multa por tasa de alcohol en sangre o aire espirado
 
-> Formulario 1520 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1520 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

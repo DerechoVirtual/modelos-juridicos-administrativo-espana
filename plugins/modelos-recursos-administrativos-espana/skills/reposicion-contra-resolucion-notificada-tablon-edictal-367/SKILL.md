@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra resolución notificada por
 
 # Reposición contra resolución notificada por el Tablón Edictal Único
 
-> Formulario 0367 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0367 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

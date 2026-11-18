@@ -5,7 +5,7 @@ description: "Redacta el escrito «Silencio positivo en la residencia de larga d
 
 # Silencio positivo en la residencia de larga duración: certificado
 
-> Formulario 0225 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0225 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

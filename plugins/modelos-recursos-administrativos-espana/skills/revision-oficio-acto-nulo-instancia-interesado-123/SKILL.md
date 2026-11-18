@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión de oficio de un acto nulo a instanc
 
 # Revisión de oficio de un acto nulo a instancia del interesado
 
-> Formulario 0123 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0123 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

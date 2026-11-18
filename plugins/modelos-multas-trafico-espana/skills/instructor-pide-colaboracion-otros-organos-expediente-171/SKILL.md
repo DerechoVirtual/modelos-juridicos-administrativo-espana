@@ -5,7 +5,7 @@ description: "Redacta el escrito «Instructor que pide colaboración a otros ór
 
 # Instructor que pide colaboración a otros órganos en el expediente sancionador
 
-> Formulario 0171 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0171 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

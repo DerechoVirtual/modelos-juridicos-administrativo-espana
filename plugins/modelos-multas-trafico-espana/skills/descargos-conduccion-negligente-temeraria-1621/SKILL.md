@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por conducción negligente o temera
 
 # Descargos por conducción negligente o temeraria
 
-> Formulario 1621 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1621 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

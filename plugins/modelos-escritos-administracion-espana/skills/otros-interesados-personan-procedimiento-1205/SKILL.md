@@ -5,7 +5,7 @@ description: "Redacta el escrito «Otros interesados se personan en el procedimi
 
 # Otros interesados se personan en el procedimiento
 
-> Formulario 1205 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1205 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

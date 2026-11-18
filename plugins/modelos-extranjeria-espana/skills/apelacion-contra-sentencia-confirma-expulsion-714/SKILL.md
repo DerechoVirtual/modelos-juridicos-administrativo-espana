@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra sentencia que confirma una 
 
 # Apelación contra sentencia que confirma una expulsión (extranjería)
 
-> Formulario 0714 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0714 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

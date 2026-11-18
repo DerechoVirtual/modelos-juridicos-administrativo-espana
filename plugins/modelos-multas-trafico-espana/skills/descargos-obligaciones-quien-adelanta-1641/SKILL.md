@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por obligaciones de quien adelanta�
 
 # Descargos por obligaciones de quien adelanta
 
-> Formulario 1641 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1641 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

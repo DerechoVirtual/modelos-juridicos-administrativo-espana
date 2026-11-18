@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación de acto presunto por silencio 
 
 # Certificación de acto presunto por silencio negativo
 
-> Formulario 0384 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0384 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

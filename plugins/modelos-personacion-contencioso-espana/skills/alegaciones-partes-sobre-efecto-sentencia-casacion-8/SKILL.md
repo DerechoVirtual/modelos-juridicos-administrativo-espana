@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones de las partes sobre el efecto de 
 
 # Alegaciones de las partes sobre el efecto de la sentencia de casación en el procedimiento
 
-> Formulario 0008 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0008 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

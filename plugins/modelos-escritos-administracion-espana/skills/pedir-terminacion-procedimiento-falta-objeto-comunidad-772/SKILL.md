@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la terminación del procedimiento por f
 
 # Pedir la terminación del procedimiento por falta de objeto (Comunidad Valenciana)
 
-> Formulario 0772 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0772 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

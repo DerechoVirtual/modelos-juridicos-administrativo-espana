@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación del secretario municipal: el A
 
 # Certificación del secretario municipal: el Alcalde contesta al requerimiento y ordena acciones
 
-> Formulario 1195 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1195 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

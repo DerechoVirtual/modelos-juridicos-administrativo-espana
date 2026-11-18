@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de anulación de actuaciones y conser
 
 # Acuerdo de anulación de actuaciones y conservación de trámites
 
-> Formulario 1355 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1355 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

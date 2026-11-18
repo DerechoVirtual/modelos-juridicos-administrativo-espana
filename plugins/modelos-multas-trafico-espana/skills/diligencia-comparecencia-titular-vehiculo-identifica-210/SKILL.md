@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencia de comparecencia del titular del v
 
 # Diligencia de comparecencia del titular del vehículo que identifica al responsable
 
-> Formulario 0210 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0210 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

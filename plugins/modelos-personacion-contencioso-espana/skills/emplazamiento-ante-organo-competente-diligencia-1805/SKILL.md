@@ -5,7 +5,7 @@ description: "Redacta el escrito «Emplazamiento ante el órgano competente (dil
 
 # Emplazamiento ante el órgano competente (diligencia)
 
-> Formulario 1805 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1805 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

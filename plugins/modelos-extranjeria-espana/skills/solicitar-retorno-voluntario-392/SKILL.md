@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitar el retorno voluntario» (formulario
 
 # Solicitar el retorno voluntario
 
-> Formulario 0392 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0392 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

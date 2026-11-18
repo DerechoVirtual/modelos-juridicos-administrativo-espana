@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar por defecto de jurisdicción» (form
 
 # Impugnar por defecto de jurisdicción
 
-> Formulario 0495 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0495 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

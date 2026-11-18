@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones a la propuesta de resolución» (
 
 # Alegaciones a la propuesta de resolución
 
-> Formulario 0980 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0980 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

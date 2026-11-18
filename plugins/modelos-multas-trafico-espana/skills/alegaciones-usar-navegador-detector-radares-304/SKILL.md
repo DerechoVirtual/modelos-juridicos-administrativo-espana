@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones por usar navegador con detector d
 
 # Alegaciones por usar navegador con detector de radares
 
-> Formulario 0304 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0304 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

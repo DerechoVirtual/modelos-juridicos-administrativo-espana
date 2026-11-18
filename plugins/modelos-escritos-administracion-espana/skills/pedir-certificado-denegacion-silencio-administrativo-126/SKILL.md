@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir certificado de denegación por silencio
 
 # Pedir certificado de denegación por silencio administrativo
 
-> Formulario 0126 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0126 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

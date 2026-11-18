@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencia de alegaciones por comparecencia p
 
 # Diligencia de alegaciones por comparecencia personal en la audiencia
 
-> Formulario 1423 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1423 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

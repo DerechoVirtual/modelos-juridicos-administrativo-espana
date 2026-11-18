@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestar a la petición razonada comunicando
 
 # Contestar a la petición razonada comunicando que no se incoa sancionador de tráfico
 
-> Formulario 0223 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0223 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

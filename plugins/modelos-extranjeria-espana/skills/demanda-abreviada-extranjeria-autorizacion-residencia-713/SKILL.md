@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda abreviada en extranjería: autorizaci
 
 # Demanda abreviada en extranjería: autorización de residencia y trabajo
 
-> Formulario 0713 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0713 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra la pérdida de vigencia del per
 
 # Alzada contra la pérdida de vigencia del permiso declarada por la Jefatura Provincial de Tráfico
 
-> Formulario 1305 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1305 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

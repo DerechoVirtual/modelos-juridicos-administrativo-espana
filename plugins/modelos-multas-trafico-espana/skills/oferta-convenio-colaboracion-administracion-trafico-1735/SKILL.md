@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oferta de convenio de colaboración con la Ad
 
 # Oferta de convenio de colaboración con la Administración de tráfico para fomentar la seguridad vial
 
-> Formulario 1735 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1735 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

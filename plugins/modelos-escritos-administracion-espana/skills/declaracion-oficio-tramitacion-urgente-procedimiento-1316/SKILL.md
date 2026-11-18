@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración de oficio de tramitación urgent
 
 # Declaración de oficio de tramitación urgente del procedimiento
 
-> Formulario 1316 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1316 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

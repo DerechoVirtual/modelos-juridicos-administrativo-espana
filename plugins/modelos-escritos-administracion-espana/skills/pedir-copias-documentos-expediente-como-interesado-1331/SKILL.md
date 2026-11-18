@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir copias de documentos del expediente com
 
 # Pedir copias de documentos del expediente como interesado
 
-> Formulario 1331 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1331 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

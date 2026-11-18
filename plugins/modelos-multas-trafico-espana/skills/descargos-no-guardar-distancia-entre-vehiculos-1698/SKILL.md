@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por no guardar la distancia entre v
 
 # Descargos por no guardar la distancia entre vehículos
 
-> Formulario 1698 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1698 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

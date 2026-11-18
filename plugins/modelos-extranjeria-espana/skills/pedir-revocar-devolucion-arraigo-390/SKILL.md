@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir revocar la devolución por arraigo» (f
 
 # Pedir revocar la devolución por arraigo
 
-> Formulario 0390 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0390 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

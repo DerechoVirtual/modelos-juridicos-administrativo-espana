@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por prioridad en tramos de gran pen
 
 # Descargos por prioridad en tramos de gran pendiente
 
-> Formulario 1665 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1665 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

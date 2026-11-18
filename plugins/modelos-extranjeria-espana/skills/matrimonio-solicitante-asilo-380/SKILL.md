@@ -5,7 +5,7 @@ description: "Redacta el escrito «Matrimonio de un solicitante de asilo» (form
 
 # Matrimonio de un solicitante de asilo
 
-> Formulario 0380 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0380 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

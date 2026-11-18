@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en la audiencia previa, sin propu
 
 # Alegaciones en la audiencia previa, sin propuesta de resolución
 
-> Formulario 0983 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0983 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

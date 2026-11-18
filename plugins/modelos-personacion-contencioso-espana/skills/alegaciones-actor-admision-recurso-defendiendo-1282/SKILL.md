@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones del actor en la admisión del rec
 
 # Alegaciones del actor en la admisión del recurso defendiendo la competencia del órgano
 
-> Formulario 1282 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1282 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

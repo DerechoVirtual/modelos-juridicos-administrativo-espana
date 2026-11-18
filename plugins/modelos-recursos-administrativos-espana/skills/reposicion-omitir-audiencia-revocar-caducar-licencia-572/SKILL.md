@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición por omitir la audiencia al revoca
 
 # Reposición por omitir la audiencia al revocar y caducar una licencia
 
-> Formulario 0572 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0572 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

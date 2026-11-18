@@ -5,7 +5,7 @@ description: "Redacta el escrito «Memoria de actividad de la empresa y perfil d
 
 # Memoria de actividad de la empresa y perfil del puesto para desplazar y contratar extranjeros
 
-> Formulario 0191 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0191 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento de subsanación de defectos» (
 
 # Requerimiento de subsanación de defectos
 
-> Formulario 1207 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1207 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

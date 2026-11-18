@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comparecer como recurrido y oponerse a la adm
 
 # Comparecer como recurrido y oponerse a la admisión de la casación
 
-> Formulario 0271 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0271 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

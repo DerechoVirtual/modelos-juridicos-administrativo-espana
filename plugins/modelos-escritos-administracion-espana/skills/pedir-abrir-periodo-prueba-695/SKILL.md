@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir abrir el periodo de prueba» (formulari
 
 # Pedir abrir el periodo de prueba
 
-> Formulario 0695 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0695 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

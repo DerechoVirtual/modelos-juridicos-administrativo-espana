@@ -5,7 +5,7 @@ description: "Redacta el escrito «Formalización del desistimiento en el proced
 
 # Formalización del desistimiento en el procedimiento administrativo
 
-> Formulario 1326 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1326 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

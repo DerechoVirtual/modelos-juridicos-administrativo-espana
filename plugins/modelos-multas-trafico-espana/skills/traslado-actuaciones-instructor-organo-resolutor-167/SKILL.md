@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado de actuaciones del instructor al ór
 
 # Traslado de actuaciones del instructor al órgano resolutor
 
-> Formulario 0167 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0167 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

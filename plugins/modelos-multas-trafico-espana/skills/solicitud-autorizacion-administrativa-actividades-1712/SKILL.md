@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de autorización administrativa par
 
 # Solicitud de autorización administrativa para actividades sujetas a la reglamentación de conductores
 
-> Formulario 1712 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1712 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación del Ayuntamiento» (formulario 1
 
 # Personación del Ayuntamiento
 
-> Formulario 1039 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1039 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

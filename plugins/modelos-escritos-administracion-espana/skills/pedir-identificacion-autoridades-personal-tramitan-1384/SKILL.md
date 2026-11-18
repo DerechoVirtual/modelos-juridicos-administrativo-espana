@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la identificación de las autoridades y
 
 # Pedir la identificación de las autoridades y el personal que tramitan el procedimiento
 
-> Formulario 1384 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1384 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

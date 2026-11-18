@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declarar la lesividad de un acto administrati
 
 # Declarar la lesividad de un acto administrativo anulable
 
-> Formulario 0602 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0602 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

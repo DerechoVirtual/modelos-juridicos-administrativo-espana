@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por uso indebido de 
 
 # Reposición contra multa por uso indebido de carriles en poblado con más de un carril por sentido
 
-> Formulario 1514 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1514 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

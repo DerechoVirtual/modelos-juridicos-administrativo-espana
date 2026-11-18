@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra la orden a la Diputación 
 
 # Reposición contra la orden a la Diputación de comparecer con procurador (órganos colegiados)
 
-> Formulario 1087 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1087 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

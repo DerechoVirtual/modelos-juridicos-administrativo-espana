@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuse de recibo e información sobre los trá
 
 # Acuse de recibo e información sobre los trámites de una denuncia de particulares
 
-> Formulario 1754 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1754 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

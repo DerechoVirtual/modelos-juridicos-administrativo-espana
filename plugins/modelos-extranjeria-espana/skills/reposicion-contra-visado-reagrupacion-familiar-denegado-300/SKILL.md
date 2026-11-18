@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra visado de reagrupación fa
 
 # Reposición contra visado de reagrupación familiar denegado
 
-> Formulario 0300 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0300 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

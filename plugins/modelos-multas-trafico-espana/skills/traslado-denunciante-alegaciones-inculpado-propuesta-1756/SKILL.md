@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado al denunciante de las alegaciones de
 
 # Traslado al denunciante de las alegaciones del inculpado a la propuesta de resolución
 
-> Formulario 1756 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1756 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

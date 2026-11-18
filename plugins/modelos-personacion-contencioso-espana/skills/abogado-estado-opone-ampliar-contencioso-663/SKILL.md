@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abogado del Estado se opone a ampliar el cont
 
 # Abogado del Estado se opone a ampliar el contencioso
 
-> Formulario 0663 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0663 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

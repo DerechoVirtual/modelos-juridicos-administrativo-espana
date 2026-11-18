@@ -5,7 +5,7 @@ description: "Redacta el escrito «Dictamen del órgano consultivo sobre respons
 
 # Dictamen del órgano consultivo sobre responsabilidad patrimonial por daños de circulación
 
-> Formulario 1710 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1710 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

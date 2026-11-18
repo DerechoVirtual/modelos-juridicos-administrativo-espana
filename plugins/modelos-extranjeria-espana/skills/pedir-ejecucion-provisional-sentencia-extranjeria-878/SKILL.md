@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir ejecución provisional de sentencia en 
 
 # Pedir ejecución provisional de sentencia en extranjería
 
-> Formulario 0878 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0878 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

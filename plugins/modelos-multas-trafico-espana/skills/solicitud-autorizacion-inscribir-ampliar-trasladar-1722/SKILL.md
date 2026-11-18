@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de autorización para inscribir, am
 
 # Solicitud de autorización para inscribir, ampliar o trasladar talleres de reparación de vehículos
 
-> Formulario 1722 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1722 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

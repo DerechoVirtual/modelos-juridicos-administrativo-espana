@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra visado de reagrupación de
 
 # Reposición contra visado de reagrupación denegado por no acreditar edad o parentesco
 
-> Formulario 0373 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0373 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

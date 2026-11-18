@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución del recurso de alzada o reposici�
 
 # Resolución del recurso de alzada o reposición
 
-> Formulario 1012 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1012 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

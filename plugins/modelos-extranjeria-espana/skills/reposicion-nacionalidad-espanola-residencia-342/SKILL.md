@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición en nacionalidad española por res
 
 # Reposición en nacionalidad española por residencia
 
-> Formulario 0342 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0342 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

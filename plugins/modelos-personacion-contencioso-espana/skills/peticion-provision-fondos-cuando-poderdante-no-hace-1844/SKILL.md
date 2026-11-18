@@ -5,7 +5,7 @@ description: "Redacta el escrito «Petición de provisión de fondos cuando el p
 
 # Petición de provisión de fondos cuando el poderdante no la hace al procurador
 
-> Formulario 1844 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1844 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

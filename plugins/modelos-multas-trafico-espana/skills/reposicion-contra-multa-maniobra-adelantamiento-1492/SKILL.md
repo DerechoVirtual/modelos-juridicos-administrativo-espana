@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por maniobra de adel
 
 # Reposición contra multa por maniobra de adelantamiento
 
-> Formulario 1492 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1492 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

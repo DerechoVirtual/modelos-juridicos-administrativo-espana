@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad de acto contrario al ordenamiento que
 
 # Nulidad de acto contrario al ordenamiento que concede derechos sin requisitos esenciales
 
-> Formulario 0160 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0160 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

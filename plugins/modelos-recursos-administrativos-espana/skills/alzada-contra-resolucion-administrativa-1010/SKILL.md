@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra resolución administrativa» (f
 
 # Alzada contra resolución administrativa
 
-> Formulario 1010 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1010 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento para que cese una vía de hecho
 
 # Requerimiento para que cese una vía de hecho (Comunidad de Madrid)
 
-> Formulario 0861 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0861 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

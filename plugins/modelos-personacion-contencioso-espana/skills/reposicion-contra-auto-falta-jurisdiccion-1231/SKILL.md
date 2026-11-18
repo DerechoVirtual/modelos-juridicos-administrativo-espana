@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra el auto de falta de jurisd
 
 # Reposición contra el auto de falta de jurisdicción
 
-> Formulario 1231 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1231 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

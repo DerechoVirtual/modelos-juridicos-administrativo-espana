@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por incorporación d
 
 # Reposición contra multa por incorporación de vehículos de transporte de viajeros
 
-> Formulario 1581 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1581 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

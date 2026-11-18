@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión de la ejecución de un acto de tr
 
 # Suspensión de la ejecución de un acto de tráfico en la revisión de actos nulos
 
-> Formulario 1819 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1819 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

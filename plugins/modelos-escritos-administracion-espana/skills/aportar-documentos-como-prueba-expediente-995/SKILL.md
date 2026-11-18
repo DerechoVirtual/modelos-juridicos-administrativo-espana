@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aportar documentos como prueba en el expedien
 
 # Aportar documentos como prueba en el expediente
 
-> Formulario 0995 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0995 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

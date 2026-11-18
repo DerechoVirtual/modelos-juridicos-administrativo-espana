@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación previa por no ejecutar una prest
 
 # Reclamación previa por no ejecutar una prestación (País Vasco, en euskera)
 
-> Formulario 0830 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0830 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones y prueba en la propuesta de resol
 
 # Alegaciones y prueba en la propuesta de resolución
 
-> Formulario 0996 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0996 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

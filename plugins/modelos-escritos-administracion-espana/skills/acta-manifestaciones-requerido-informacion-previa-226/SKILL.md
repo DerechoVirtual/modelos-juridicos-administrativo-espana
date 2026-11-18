@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de manifestaciones del requerido en info
 
 # Acta de manifestaciones del requerido en información previa
 
-> Formulario 0226 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0226 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

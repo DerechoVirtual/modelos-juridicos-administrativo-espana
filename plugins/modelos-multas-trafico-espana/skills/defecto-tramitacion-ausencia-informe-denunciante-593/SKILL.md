@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defecto de tramitación: ausencia de informe 
 
 # Defecto de tramitación: ausencia de informe del denunciante
 
-> Formulario 0593 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0593 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

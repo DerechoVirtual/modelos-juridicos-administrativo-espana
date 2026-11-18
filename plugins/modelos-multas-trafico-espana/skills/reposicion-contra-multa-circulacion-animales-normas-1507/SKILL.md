@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por circulación de 
 
 # Reposición contra multa por circulación de animales: normas generales
 
-> Formulario 1507 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1507 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

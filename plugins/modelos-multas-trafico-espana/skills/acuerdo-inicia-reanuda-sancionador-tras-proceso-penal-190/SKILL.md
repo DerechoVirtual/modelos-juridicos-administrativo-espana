@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo que inicia o reanuda el sancionador t
 
 # Acuerdo que inicia o reanuda el sancionador tras proceso penal sin responsabilidad penal
 
-> Formulario 0190 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0190 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

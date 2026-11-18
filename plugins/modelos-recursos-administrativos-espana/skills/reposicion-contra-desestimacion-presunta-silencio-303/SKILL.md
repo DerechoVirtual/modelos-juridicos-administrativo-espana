@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra desestimación presunta po
 
 # Reposición contra desestimación presunta por silencio administrativo
 
-> Formulario 0303 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0303 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

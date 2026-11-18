@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por conducta ante ve
 
 # Reposición contra multa por conducta ante vehículos prioritarios
 
-> Formulario 1443 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1443 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

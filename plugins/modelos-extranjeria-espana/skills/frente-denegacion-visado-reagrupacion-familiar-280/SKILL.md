@@ -5,7 +5,7 @@ description: "Redacta el escrito «Frente a la denegación de visado de reagrupa
 
 # Frente a la denegación de visado de reagrupación familiar comunitaria
 
-> Formulario 0280 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0280 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

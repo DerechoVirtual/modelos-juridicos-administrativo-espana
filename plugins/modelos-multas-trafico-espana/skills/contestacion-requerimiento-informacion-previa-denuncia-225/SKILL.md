@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación al requerimiento de informació
 
 # Contestación al requerimiento de información previa en una denuncia de tráfico
 
-> Formulario 0225 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0225 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

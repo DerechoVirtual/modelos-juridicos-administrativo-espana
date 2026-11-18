@@ -5,7 +5,7 @@ description: "Redacta el escrito «Petición de información al juzgado por proc
 
 # Petición de información al juzgado por proceso penal sobre los mismos hechos
 
-> Formulario 0168 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0168 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

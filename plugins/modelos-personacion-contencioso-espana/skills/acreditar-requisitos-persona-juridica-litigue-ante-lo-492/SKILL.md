@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acreditar los requisitos para que una persona
 
 # Acreditar los requisitos para que una persona jurídica litigue ante lo contencioso
 
-> Formulario 0492 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0492 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

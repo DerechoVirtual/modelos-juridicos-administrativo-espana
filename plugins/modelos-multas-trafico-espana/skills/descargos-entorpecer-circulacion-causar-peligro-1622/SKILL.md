@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por entorpecer la circulación o ca
 
 # Descargos por entorpecer la circulación o causar peligro, molestias o daños
 
-> Formulario 1622 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1622 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

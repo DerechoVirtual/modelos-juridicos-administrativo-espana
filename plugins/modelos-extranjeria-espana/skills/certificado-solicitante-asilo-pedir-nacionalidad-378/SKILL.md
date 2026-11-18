@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado de solicitante de asilo para pedi
 
 # Certificado de solicitante de asilo para pedir la nacionalidad
 
-> Formulario 0378 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0378 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

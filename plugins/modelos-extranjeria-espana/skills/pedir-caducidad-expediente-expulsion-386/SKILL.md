@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la caducidad del expediente de expulsi�
 
 # Pedir la caducidad del expediente de expulsión
 
-> Formulario 0386 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0386 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

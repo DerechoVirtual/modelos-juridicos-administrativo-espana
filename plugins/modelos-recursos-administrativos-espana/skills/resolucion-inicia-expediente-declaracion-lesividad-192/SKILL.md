@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que inicia el expediente de decla
 
 # Resolución que inicia el expediente de declaración de lesividad
 
-> Formulario 0192 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0192 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

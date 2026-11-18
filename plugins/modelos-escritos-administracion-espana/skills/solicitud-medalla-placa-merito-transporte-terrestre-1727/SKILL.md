@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de medalla o placa al mérito del t
 
 # Solicitud de medalla o placa al mérito del transporte terrestre
 
-> Formulario 1727 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1727 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

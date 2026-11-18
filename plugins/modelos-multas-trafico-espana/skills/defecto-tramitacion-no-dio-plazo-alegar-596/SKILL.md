@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defecto de tramitación: no se dio plazo para
 
 # Defecto de tramitación: no se dio plazo para alegar
 
-> Formulario 0596 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0596 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

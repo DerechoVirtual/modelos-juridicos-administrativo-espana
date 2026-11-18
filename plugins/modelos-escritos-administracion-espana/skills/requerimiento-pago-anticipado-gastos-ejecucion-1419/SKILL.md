@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento de pago anticipado de los gasto
 
 # Requerimiento de pago anticipado de los gastos de la ejecución subsidiaria
 
-> Formulario 1419 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1419 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

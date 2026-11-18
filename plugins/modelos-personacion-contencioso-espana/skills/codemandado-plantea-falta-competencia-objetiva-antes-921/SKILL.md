@@ -5,7 +5,7 @@ description: "Redacta el escrito «Codemandado plantea falta de competencia obje
 
 # Codemandado plantea falta de competencia objetiva antes de contestar
 
-> Formulario 0921 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0921 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que pasa el procedimiento a trami
 
 # Resolución que pasa el procedimiento a tramitación ordinaria
 
-> Formulario 0135 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0135 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

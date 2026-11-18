@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo que paraliza el sancionador por proce
 
 # Acuerdo que paraliza el sancionador por proceso penal sobre los mismos hechos
 
-> Formulario 0166 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0166 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

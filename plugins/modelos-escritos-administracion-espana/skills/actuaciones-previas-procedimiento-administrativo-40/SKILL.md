@@ -5,7 +5,7 @@ description: "Redacta el escrito «Actuaciones previas al procedimiento administ
 
 # Actuaciones previas al procedimiento administrativo
 
-> Formulario 0040 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0040 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

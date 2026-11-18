@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declarar qué datos de la oferta son confiden
 
 # Declarar qué datos de la oferta son confidenciales
 
-> Formulario 0084 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0084 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

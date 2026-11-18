@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que anula actos de tráfico grave
 
 # Resolución que anula actos de tráfico gravemente contrarios al ordenamiento
 
-> Formulario 1818 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1818 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

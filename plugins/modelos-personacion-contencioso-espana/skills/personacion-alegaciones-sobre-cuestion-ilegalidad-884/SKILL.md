@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación y alegaciones sobre una cuestió
 
 # Personación y alegaciones sobre una cuestión de ilegalidad
 
-> Formulario 0884 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0884 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

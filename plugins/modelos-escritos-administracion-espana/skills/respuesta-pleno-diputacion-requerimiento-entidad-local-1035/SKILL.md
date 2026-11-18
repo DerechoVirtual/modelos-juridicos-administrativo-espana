@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del pleno de la Diputación al requ
 
 # Respuesta del pleno de la Diputación al requerimiento de la entidad local: inadecuación de acciones
 
-> Formulario 1035 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1035 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

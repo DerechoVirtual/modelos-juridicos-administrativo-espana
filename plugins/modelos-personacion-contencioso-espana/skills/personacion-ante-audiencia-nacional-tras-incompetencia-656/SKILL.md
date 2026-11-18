@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación ante la Audiencia Nacional tras 
 
 # Personación ante la Audiencia Nacional tras la incompetencia del TSJ
 
-> Formulario 0656 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0656 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

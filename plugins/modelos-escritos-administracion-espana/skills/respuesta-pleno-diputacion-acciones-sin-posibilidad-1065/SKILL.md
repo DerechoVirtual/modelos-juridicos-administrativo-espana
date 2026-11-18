@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del pleno de la diputación: accion
 
 # Respuesta del pleno de la diputación: acciones sin posibilidad de prosperar (Galicia)
 
-> Formulario 1065 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1065 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

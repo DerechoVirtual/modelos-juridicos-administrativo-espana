@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso contra la denegación del certifi
 
 # Contencioso contra la denegación del certificado de insuficiencia de demandantes de empleo
 
-> Formulario 0001 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0001 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

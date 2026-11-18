@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aportar documentos antes del trámite de audi
 
 # Aportar documentos antes del trámite de audiencia
 
-> Formulario 0630 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0630 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

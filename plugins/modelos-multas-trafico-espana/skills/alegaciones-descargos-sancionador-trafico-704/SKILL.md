@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones o descargos en sancionador de tr�
 
 # Alegaciones o descargos en sancionador de tráfico
 
-> Formulario 0704 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0704 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

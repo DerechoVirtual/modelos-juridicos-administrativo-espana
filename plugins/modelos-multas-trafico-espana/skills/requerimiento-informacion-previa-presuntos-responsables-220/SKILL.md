@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento de información previa a los pr
 
 # Requerimiento de información previa a los presuntos responsables de la infracción de tráfico
 
-> Formulario 0220 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0220 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

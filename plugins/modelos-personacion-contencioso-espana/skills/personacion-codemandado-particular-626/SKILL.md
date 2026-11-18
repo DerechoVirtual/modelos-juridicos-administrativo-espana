@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación de un codemandado particular» (
 
 # Personación de un codemandado particular
 
-> Formulario 0626 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0626 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

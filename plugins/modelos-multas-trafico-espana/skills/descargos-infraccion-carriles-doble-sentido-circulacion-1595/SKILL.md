@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por infracción en carriles de dobl
 
 # Descargos por infracción en carriles de doble sentido de circulación
 
-> Formulario 1595 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1595 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

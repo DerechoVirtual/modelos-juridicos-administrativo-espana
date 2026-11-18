@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuse de recibo de solicitudes y escritos de 
 
 # Acuse de recibo de solicitudes y escritos de los interesados
 
-> Formulario 1353 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1353 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Designar representante para tramitar visados�
 
 # Designar representante para tramitar visados
 
-> Formulario 0238 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0238 de la colección de Laboral del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

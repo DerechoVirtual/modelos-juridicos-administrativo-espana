@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra denegación de beca de est
 
 # Reposición contra denegación de beca de estudios
 
-> Formulario 0458 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0458 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

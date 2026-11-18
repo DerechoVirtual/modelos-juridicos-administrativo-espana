@@ -5,7 +5,7 @@ description: "Redacta el escrito «Asistencia jurídica gratuita: impugnación p
 
 # Asistencia jurídica gratuita: impugnación por la parte contraria de la resolución estimatoria
 
-> Formulario 0449 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0449 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

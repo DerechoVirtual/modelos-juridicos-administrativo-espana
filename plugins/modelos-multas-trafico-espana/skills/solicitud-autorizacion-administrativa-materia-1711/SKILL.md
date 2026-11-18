@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de autorización administrativa en 
 
 # Solicitud de autorización administrativa en materia de reglamentación de vehículos
 
-> Formulario 1711 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1711 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

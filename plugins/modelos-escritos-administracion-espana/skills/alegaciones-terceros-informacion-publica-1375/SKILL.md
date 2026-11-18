@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones de terceros en información públ
 
 # Alegaciones de terceros en información pública
 
-> Formulario 1375 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1375 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

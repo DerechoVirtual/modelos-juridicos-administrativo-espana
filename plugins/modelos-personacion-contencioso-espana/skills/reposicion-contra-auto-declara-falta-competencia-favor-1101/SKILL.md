@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra el auto que declara falta 
 
 # Reposición contra el auto que declara falta de competencia a favor del Tribunal Supremo
 
-> Formulario 1101 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1101 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegar la caducidad del procedimiento» (form
 
 # Alegar la caducidad del procedimiento
 
-> Formulario 0597 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0597 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

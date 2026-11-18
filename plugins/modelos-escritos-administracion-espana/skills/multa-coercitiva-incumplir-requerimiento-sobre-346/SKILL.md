@@ -5,7 +5,7 @@ description: "Redacta el escrito «Multa coercitiva por incumplir requerimiento 
 
 # Multa coercitiva por incumplir requerimiento sobre información y participación (en catalán)
 
-> Formulario 0346 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0346 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

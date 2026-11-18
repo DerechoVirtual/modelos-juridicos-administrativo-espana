@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por velocidad mínima en poblado y 
 
 # Descargos por velocidad mínima en poblado y fuera de poblado
 
-> Formulario 1628 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1628 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

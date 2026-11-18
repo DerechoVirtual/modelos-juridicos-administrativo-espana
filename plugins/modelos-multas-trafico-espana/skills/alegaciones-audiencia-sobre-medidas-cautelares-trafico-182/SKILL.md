@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en audiencia sobre medidas cautel
 
 # Alegaciones en audiencia sobre medidas cautelares de tráfico y seguridad vial
 
-> Formulario 0182 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0182 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

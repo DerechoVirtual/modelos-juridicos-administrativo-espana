@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución de revocación de actos de gravam
 
 # Resolución de revocación de actos de gravamen o desfavorables
 
-> Formulario 1412 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1412 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

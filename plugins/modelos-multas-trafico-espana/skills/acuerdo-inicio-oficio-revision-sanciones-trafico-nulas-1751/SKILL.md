@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de inicio de oficio de la revisión d
 
 # Acuerdo de inicio de oficio de la revisión de sanciones de tráfico nulas
 
-> Formulario 1751 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1751 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

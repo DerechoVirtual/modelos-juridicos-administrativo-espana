@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración de empresas extranjeras de somet
 
 # Declaración de empresas extranjeras de someterse a los tribunales españoles (contratos públicos)
 
-> Formulario 0094 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0094 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

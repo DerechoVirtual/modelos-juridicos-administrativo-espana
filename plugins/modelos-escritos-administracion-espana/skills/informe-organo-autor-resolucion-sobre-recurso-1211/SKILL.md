@@ -5,7 +5,7 @@ description: "Redacta el escrito «Informe del órgano autor de la resolución s
 
 # Informe del órgano autor de la resolución sobre el recurso interpuesto
 
-> Formulario 1211 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1211 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

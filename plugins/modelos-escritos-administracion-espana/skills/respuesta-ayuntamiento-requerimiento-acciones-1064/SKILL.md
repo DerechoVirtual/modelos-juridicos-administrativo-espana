@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del ayuntamiento al requerimiento: 
 
 # Respuesta del ayuntamiento al requerimiento: acciones solicitadas sin posibilidad de prosperar
 
-> Formulario 1064 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1064 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

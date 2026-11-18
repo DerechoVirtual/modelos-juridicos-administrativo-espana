@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones por saltarse un semáforo en rojo
 
 # Alegaciones por saltarse un semáforo en rojo
 
-> Formulario 0599 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0599 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

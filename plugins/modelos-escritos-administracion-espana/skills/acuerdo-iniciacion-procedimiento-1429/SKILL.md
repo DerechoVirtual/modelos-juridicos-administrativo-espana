@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de iniciación del procedimiento» (f
 
 # Acuerdo de iniciación del procedimiento
 
-> Formulario 1429 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1429 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

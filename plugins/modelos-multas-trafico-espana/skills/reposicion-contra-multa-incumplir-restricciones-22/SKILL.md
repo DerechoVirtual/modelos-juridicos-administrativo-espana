@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por incumplir restri
 
 # Reposición contra multa por incumplir restricciones de circulación por contaminación
 
-> Formulario 0022 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0022 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

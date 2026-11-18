@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contestación que identifica a los interesado
 
 # Contestación que identifica a los interesados no personados o aporta la información requerida
 
-> Formulario 1344 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1344 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

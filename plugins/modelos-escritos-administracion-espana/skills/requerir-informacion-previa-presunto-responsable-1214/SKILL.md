@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerir información previa al presunto resp
 
 # Requerir información previa al presunto responsable
 
-> Formulario 1214 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1214 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

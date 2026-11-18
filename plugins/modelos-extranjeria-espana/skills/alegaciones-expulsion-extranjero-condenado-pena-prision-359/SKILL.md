@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en expulsión de extranjero conde
 
 # Alegaciones en expulsión de extranjero condenado a pena de prisión
 
-> Formulario 0359 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0359 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

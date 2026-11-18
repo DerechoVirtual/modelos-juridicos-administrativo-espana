@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación de la resolución sancionadora 
 
 # Notificación de la resolución sancionadora de la Jefatura de Tráfico
 
-> Formulario 0144 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0144 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

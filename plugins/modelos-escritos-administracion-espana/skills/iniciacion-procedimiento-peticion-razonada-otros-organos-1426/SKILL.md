@@ -5,7 +5,7 @@ description: "Redacta el escrito «Iniciación del procedimiento por petición r
 
 # Iniciación del procedimiento por petición razonada de otros órganos (acuerdo)
 
-> Formulario 1426 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1426 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que estima la reclamación de inf
 
 # Resolución que estima la reclamación de información y participación
 
-> Formulario 0398 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0398 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

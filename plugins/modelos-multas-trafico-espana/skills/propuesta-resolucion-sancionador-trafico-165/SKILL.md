@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de resolución en sancionador de tr
 
 # Propuesta de resolución en sancionador de tráfico
 
-> Formulario 0165 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0165 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

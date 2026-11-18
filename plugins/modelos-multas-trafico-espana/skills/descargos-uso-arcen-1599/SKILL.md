@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos por uso del arcén» (formulario 15
 
 # Descargos por uso del arcén
 
-> Formulario 1599 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1599 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

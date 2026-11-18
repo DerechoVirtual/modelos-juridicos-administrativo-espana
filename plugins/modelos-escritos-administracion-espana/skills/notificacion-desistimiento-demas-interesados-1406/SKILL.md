@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación del desistimiento a los demás 
 
 # Notificación del desistimiento a los demás interesados
 
-> Formulario 1406 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1406 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

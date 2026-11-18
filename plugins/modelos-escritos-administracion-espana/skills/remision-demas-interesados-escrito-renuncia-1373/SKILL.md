@@ -5,7 +5,7 @@ description: "Redacta el escrito «Remisión a los demás interesados del escrit
 
 # Remisión a los demás interesados del escrito de renuncia
 
-> Formulario 1373 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1373 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

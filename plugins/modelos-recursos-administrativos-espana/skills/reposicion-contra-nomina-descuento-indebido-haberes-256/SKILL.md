@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra nómina por descuento inde
 
 # Reposición contra nómina por descuento indebido de haberes
 
-> Formulario 0256 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0256 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

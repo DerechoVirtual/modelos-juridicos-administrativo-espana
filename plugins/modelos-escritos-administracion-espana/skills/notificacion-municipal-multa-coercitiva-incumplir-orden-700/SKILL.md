@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación municipal de multa coercitiva p
 
 # Notificación municipal de multa coercitiva por incumplir una orden de ejecución
 
-> Formulario 0700 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0700 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

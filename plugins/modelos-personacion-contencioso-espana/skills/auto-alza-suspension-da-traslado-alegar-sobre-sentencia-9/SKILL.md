@@ -5,7 +5,7 @@ description: "Redacta el escrito «Auto que alza la suspensión y da traslado pa
 
 # Auto que alza la suspensión y da traslado para alegar sobre la sentencia de casación
 
-> Formulario 0009 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0009 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

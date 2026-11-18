@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personación para continuar el procedimiento 
 
 # Personación para continuar el procedimiento tras desistimiento o renuncia
 
-> Formulario 1405 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1405 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

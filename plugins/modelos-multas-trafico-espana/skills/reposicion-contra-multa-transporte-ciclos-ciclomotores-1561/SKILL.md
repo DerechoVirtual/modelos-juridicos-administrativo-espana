@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por transporte en ci
 
 # Reposición contra multa por transporte en ciclos, ciclomotores y motocicletas
 
-> Formulario 1561 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1561 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

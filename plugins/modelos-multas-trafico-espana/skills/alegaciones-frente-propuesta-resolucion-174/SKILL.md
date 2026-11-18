@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones frente a la propuesta de resoluci
 
 # Alegaciones frente a la propuesta de resolución
 
-> Formulario 0174 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0174 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

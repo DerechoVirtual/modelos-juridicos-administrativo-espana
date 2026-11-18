@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición en disciplinario por falta de tip
 
 # Reposición en disciplinario por falta de tipicidad de los hechos probados
 
-> Formulario 0553 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0553 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

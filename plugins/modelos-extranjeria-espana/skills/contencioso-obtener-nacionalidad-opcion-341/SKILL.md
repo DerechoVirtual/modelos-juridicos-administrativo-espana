@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso para obtener la nacionalidad por 
 
 # Contencioso para obtener la nacionalidad por opción
 
-> Formulario 0341 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0341 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

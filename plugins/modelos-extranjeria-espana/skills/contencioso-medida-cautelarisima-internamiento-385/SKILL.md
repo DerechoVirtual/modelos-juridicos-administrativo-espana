@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso con medida cautelarísima por int
 
 # Contencioso con medida cautelarísima por internamiento
 
-> Formulario 0385 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0385 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

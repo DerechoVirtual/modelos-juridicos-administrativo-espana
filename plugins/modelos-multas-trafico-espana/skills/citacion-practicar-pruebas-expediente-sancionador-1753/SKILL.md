@@ -5,7 +5,7 @@ description: "Redacta el escrito «Citación para practicar las pruebas del expe
 
 # Citación para practicar las pruebas del expediente sancionador
 
-> Formulario 1753 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1753 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

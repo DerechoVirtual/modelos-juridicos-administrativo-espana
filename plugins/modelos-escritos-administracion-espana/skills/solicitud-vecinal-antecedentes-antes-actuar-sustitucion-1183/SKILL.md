@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud vecinal de antecedentes antes de ac
 
 # Solicitud vecinal de antecedentes antes de actuar por sustitución
 
-> Formulario 1183 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1183 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

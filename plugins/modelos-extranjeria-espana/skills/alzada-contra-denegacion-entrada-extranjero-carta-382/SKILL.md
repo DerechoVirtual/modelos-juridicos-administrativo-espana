@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra denegación de entrada a un ext
 
 # Alzada contra denegación de entrada a un extranjero con carta de invitación
 
-> Formulario 0382 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0382 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

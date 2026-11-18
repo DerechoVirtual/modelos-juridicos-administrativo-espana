@@ -5,7 +5,7 @@ description: "Redacta el escrito «Solicitud de autorización para una prueba de
 
 # Solicitud de autorización para una prueba deportiva
 
-> Formulario 1726 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1726 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

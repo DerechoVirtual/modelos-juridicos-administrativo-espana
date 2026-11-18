@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mandato con poder de representación para tra
 
 # Mandato con poder de representación para tramitar la nacionalidad española
 
-> Formulario 0262 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0262 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

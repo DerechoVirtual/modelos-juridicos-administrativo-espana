@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificar determinados actos de otros órgano
 
 # Notificar determinados actos de otros órganos administrativos
 
-> Formulario 1311 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1311 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

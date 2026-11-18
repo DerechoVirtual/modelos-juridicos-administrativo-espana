@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación de la resolución sancionadora 
 
 # Notificación de la resolución sancionadora de tráfico de una Alcaldía
 
-> Formulario 0145 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0145 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

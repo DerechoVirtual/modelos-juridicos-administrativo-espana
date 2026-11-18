@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación de la ampliación de plazo en l
 
 # Notificación de la ampliación de plazo en la reposición
 
-> Formulario 1298 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1298 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones en expulsión por procedimiento p
 
 # Alegaciones en expulsión por procedimiento preferente
 
-> Formulario 0388 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0388 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

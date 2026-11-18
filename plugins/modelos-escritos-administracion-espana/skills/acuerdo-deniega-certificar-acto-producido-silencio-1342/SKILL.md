@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo que deniega certificar el acto produc
 
 # Acuerdo que deniega certificar el acto producido por silencio
 
-> Formulario 1342 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1342 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

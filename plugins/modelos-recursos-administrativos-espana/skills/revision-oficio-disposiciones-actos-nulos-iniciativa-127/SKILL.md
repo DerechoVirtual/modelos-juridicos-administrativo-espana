@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión de oficio de disposiciones y actos 
 
 # Revisión de oficio de disposiciones y actos nulos por iniciativa de la Administración
 
-> Formulario 0127 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0127 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

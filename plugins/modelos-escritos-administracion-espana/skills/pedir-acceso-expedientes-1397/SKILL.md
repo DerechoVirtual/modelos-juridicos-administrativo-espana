@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir acceso a expedientes» (formulario 1397
 
 # Pedir acceso a expedientes
 
-> Formulario 1397 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1397 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

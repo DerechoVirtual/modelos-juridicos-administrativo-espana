@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento vecinal a la entidad local ante
 
 # Requerimiento vecinal a la entidad local antes de actuar por sustitución (Aragón)
 
-> Formulario 1037 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1037 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

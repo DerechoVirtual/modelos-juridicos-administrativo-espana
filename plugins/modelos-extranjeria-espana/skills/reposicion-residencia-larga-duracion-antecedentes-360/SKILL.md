@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición en residencia de larga duración 
 
 # Reposición en residencia de larga duración por antecedentes penales
 
-> Formulario 0360 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0360 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

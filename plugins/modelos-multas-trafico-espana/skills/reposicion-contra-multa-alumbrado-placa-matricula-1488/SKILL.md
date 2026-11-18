@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por alumbrado de la 
 
 # Reposición contra multa por alumbrado de la placa de matrícula
 
-> Formulario 1488 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1488 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra el auto de incompetencia t
 
 # Reposición contra el auto de incompetencia territorial
 
-> Formulario 1224 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026. Uso interno.
+> Formulario 1224 del plugin **Órgano y postulación en el contencioso-administrativo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

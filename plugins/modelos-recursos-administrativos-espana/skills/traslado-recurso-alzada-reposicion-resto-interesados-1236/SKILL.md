@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado del recurso de alzada o reposición 
 
 # Traslado del recurso de alzada o reposición al resto de interesados
 
-> Formulario 1236 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1236 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

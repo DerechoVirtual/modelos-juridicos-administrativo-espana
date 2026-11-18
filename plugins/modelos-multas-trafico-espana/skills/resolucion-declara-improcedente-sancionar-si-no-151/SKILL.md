@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución que declara improcedente sanciona
 
 # Resolución que declara improcedente sancionar si no se identifica al autor
 
-> Formulario 0151 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0151 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

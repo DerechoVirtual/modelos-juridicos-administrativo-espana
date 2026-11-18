@@ -5,7 +5,7 @@ description: "Redacta el escrito «Traslado de la alzada o reposición a los dem
 
 # Traslado de la alzada o reposición a los demás interesados
 
-> Formulario 1073 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 1073 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

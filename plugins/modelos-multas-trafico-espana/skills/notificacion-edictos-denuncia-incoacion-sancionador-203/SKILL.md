@@ -5,7 +5,7 @@ description: "Redacta el escrito «Notificación por edictos de denuncia o incoa
 
 # Notificación por edictos de denuncia o incoación en sancionador de tráfico
 
-> Formulario 0203 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 0203 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

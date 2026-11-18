@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decreto de alcaldía que ejercita acciones y 
 
 # Decreto de alcaldía que ejercita acciones y encomienda la defensa a la diputación
 
-> Formulario 1167 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 1167 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

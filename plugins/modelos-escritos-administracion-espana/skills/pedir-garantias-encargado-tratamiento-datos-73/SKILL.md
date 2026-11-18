@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir garantías al encargado del tratamiento
 
 # Pedir garantías al encargado del tratamiento de datos
 
-> Formulario 0073 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026. Uso interno.
+> Formulario 0073 del plugin **Procedimiento administrativo común** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

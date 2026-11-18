@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra multa por arrojar a la ví
 
 # Reposición contra multa por arrojar a la vía un objeto que puede causar incendio o peligro
 
-> Formulario 1440 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1440 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

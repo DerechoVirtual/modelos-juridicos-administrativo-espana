@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denuncia de un usuario contra un taller por i
 
 # Denuncia de un usuario contra un taller por incumplir las condiciones de su autorización
 
-> Formulario 1719 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1719 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Memoria para la incorporación de una entidad
 
 # Memoria para la incorporación de una entidad privada a un órgano colegiado de seguridad vial
 
-> Formulario 1732 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026. Uso interno.
+> Formulario 1732 del plugin **Multas y expedientes de tráfico** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

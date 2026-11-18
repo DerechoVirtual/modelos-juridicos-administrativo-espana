@@ -5,7 +5,7 @@ description: "Redacta el escrito «Nulidad de acto de contenido imposible» (for
 
 # Nulidad de acto de contenido imposible
 
-> Formulario 0162 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0162 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición con petición de suspensión, pru
 
 # Reposición con petición de suspensión, prueba y trámite de audiencia
 
-> Formulario 0122 del plugin **Recursos administrativos** · revisado el 17-11-2026. Uso interno.
+> Formulario 0122 del plugin **Recursos administrativos** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

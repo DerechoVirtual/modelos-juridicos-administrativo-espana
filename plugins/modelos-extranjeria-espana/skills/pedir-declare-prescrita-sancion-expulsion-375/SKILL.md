@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se declare prescrita la sanción de
 
 # Pedir que se declare prescrita la sanción de expulsión
 
-> Formulario 0375 del plugin **Extranjería** · revisado el 17-11-2026. Uso interno.
+> Formulario 0375 del plugin **Extranjería** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

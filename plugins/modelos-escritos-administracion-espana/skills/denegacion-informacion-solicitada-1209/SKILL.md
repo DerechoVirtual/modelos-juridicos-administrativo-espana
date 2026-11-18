@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1209 · Denegación de la información solicitada
+
+- Año del modelo: 2008
+- Revisión 17-11-2026: 4 párrafos opcionales señalados; 8 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Por este órgano administrativo se ha examinado la solicitud de asistencia de fecha [FECHA], realizada por D./Dña. [NOMBRE Y APELLIDOS], en cuanto titular del órgano instructor del expediente sancionador número [Nº DE EXPEDIENTE], que se sigue en [COMPLETAR], contra [ACTO O RESOLUCIÓN], como consecuencia de la realización de determinados hechos supuestamente contrarios a la regulación de [COMPLETAR], según la legislación vigente.
+
+En aplicación de las previsiones contenidas en el art. 141 LRJSP he de poner en su conocimiento que concurre la siguiente causa que justifica la negativa a la prestación de la asistencia solicitada:
+
+[OPCIONAL — incluir si procede]
+
+- El ente al que se solicita no está facultado para prestar la asistencia solicitada.
+
+[OPCIONAL — incluir si procede]
+
+-Este órgano [COMPLETAR] carece de medios suficientes para atender la solicitud formulada.
+
+[OPCIONAL — incluir si procede]
+
+- En caso de facilitar la asistencia solicitada se causaría un grave perjuicio a los intereses cuya tutela tiene encomendada o al cumplimiento de sus propias funciones.
+
+[OPCIONAL — incluir si procede]
+
+-La información solicitada tiene carácter confidencial o reservado.
+
+Por tanto y debido a la existencia del motivo cuya existencia hemos dejado suficientemente justificada en el párrafo anterior, este órgano administrativo lamenta no poder colaborar como sería su deseo en la instrucción del expediente sancionador referenciado.
+
+En [LUGAR], a [FECHA].
+
+Firma:

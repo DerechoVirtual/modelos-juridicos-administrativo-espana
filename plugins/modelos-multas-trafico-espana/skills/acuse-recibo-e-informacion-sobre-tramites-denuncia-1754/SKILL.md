@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -49,7 +49,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -57,3 +57,30 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1754 · Acuse de recibo e información sobre los trámites de una denuncia de particulares
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: restos de formato retirados; notas del formulario agrupadas al final (1); 1 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de acuse de recibo de la denuncia interpuesta por un particular, sobre hechos de los que se deriva una infracción administrativa de tráfico y seguridad vial, informándole del procedimiento que se inicia a partir de la citada denuncia.
+
+Acusamos recibo de la denuncia formulada por usted sobre una infracción de la legislación reguladora de la circulación de vehículos a motor, tráfico y seguridad vial, cuya competencia, en función del lugar de la infracción supuestamente cometida, corresponde a este órgano administrativo (1).
+
+Pongo en su conocimiento que por la Unidad de Sanciones de este órgano administrativo, previa comprobación de los hechos denunciados, se tramitará, en su caso, el correspondiente procedimiento sancionador contra el denunciado o las personas que resulten responsables, para determinar las infracciones que hubieran podido cometerse y la aplicación subsiguiente de las sanciones que procedan.
+
+Agradecemos su colaboración para lograr el más adecuado cumplimiento de las normas sobre tráfico, circulación de vehículos a motor y seguridad vial y, en su momento, se le informará de las actuaciones practicadas.
+
+En [LUGAR], a [FECHA].
+
+Firmado:
+
+NOTAS DEL FORMULARIO
+
+(1) Cuando la denuncia vaya acompañada de solicitud de incoación, la misma se comunicará al denunciante cuando las normas reguladoras del procedimiento así lo prevean (art. 64.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas). Creemos, no obstante el tenor literal más restrictivo del precepto, que es una norma de elemental cortesía y corrección administrativa, acusar recibo a los ciudadanos de todas las denuncias formuladas ante los órganos administrativos (Jefaturas de Tráfico o Alcaldías) competentes en materia de tráfico, vayan o no acompañadas de solicitud de incoación de expediente sancionador.

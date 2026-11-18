@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,26 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1295 · Alzada sobre órganos de selección de personal
+
+- Año del modelo: 2008
+- Revisión 17-11-2026: 12 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+[NOMBRE Y APELLIDOS], provisto de DNI nº [DNI/NIE], con domicilio en la calle [CALLE] de la ciudad de [COMPLETAR], COMPARECE Y MANIFIESTA [COMPLETAR]:
+
+Que con fecha [FECHA] se dictó y publicó la propuesta de resolución, consignándose en la misma la pertinente puntuación, del Tribunal nombrado por la Alcaldía - Presidencia mediante resolución de fecha [FECHA], con objeto de juzgar el concurso-oposición convocado para la selección de una plaza de Arqueólogo municipal vacante en la plantilla de ese Ayuntamiento, habiendo sido admitido y concurriendo a tales pruebas el que cursa este escrito y estando en total disconformidad con la puntuación que le fue concedida por dicho órgano de selección, en concreto en cuanto a la correcta valoración de los méritos acreditados en la fase de concurso en cuanto a la antigüedad, ya que considero que no se han apreciado en su integridad todos los certificados aportados de los servicios.
+
+Por el presente se INTERPONE RECURSO DE ALZADA conforme al art. 121 de la Ley 39/2015 LPACAP contra la referida propuesta de resolución del indicado Tribunal, con objeto que se admita el mismo y se proceda a su estimación, procediéndose a valorar la totalidad de méritos aportados respecto a la antigüedad, conforme a lo establecido en el punto [COMPLETAR] de las bases de la convocatoria de este proceso selectivo y se proceda a notificar en forma lo así resuelto a esta parte [COMPLETAR].
+
+[NOMBRE Y APELLIDOS], a [DÍA] de [MES] de [AÑO]
+
+Fdo.
+
+Sr. Alcalde- Presidente del Excmo. Ayuntamiento de [LOCALIDAD]

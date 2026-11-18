@@ -35,8 +35,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa), revisada en el BOE: léela antes de redactar, pero no la copies en el escrito.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa), revisada en el BOE: léela antes de redactar, pero no la copies en el escrito.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -61,7 +61,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -69,3 +69,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0007 · Diligencia que da plazo para alegar sobre suspender el pleito por una casación similar
+
+- Año del modelo: 2023
+- Revisión 17-11-2026: 1 desplegables convertidos en elección en blanco; 6 campos de relleno marcados en blanco; 1 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015); 2 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+- Avisos de la revisión: El art. 56.5 LJCA solo opera una vez presentadas la demanda y la contestación y antes de la sentencia. Plazo común de diez días, con copia del auto de admisión del recurso de casación. Vigente desde el 29-7-2023.
+- Nota explicativa incorporada desde la colección Procesal (formulario 84) y revisada en el BOE el 17-11-2026
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+#### Nota explicativa: para qué sirve este escrito
+
+Diligencia de ordenación, otorgando un plazo común de diez días para alegaciones a las partes sobre la posible suspensión del procedimiento al haber admitido la Sala
+
+---
+
+Diligencia de ordenación del Letrado/a de la Administración de Justicia Sr./Sra. [NOMBRE Y APELLIDOS]
+
+En [LUGAR], a [FECHA].
+
+Estando pendiente ante [ELEGIR: este Tribunal / esta Sala] el recurso número [Nº DE PROCEDIMIENTO], dese traslado a las partes por un plazo de diez días para que se pronuncien sobre la posibilidad de la suspensión del procedimiento al haber admitido la Sala de lo Contencioso Administrativo del Tribunal Supremo el recurso de casación [COMPLETAR] que presenta identidad jurídica sustancial con la cuestión debatida.
+
+Doy fe.
+
+DILIGENCIA DE ORDENACIÓN
+
+Letrado/a de la Administración de Justicia Sr./Sra. [NOMBRE Y APELLIDOS]
+
+En [LUGAR], a [FECHA].
+
+Estándose tramitando ante este órgano el recurso número [Nº DE PROCEDIMIENTO], conforme al artículo 56.5 Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa en la redacción dada al mismo por el RDLey 5/2023, de 28 de junio, dese traslado a las partes por término común de diez días, para que aleguen sobre la suspensión del procedimiento al haber admitido la Sala de lo Contencioso Administrativo del Tribunal Supremo el recurso de casación [COMPLETAR] que presenta identidad jurídica sustancial con la cuestión debatida, adjuntándose copia del Auto de admisión.
+
+Doy fe.
+
+Firma del Letrado/a de la Administración de Justicia

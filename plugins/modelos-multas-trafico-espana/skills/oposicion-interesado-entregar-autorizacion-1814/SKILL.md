@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -70,7 +70,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -78,3 +78,58 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1814 · Oposición del interesado a entregar la autorización administrativa
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 5 párrafos opcionales señalados; 14 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de escrito por el que el infractor de tráfico se opone a remitir a las Administraciones Públicas la autorización administrativa suspendida, detallando las causas en las que se funda su oposición.
+
+A LA JEFATURA PROVINCIAL DE TRÁFICO DE [LOCALIDAD]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, DNI número [DNI/NIE], con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA] y con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], CP [C.P.], ante la Jefatura de Tráfico de [LOCALIDAD], comparece y como mejor proceda en derecho,
+
+DICE:
+
+Que con fecha [FECHA], ha sido requerido para que proceda a la entrega de la autorización para [COMPLETAR], otorgada al interesado con fecha [FECHA], por la autoridad competente.
+
+Que esta orden de entrega del documento acreditativo de la autorización se realiza como consecuencia del expediente sancionador número [Nº DE PROCEDIMIENTO]/[AÑO], que se tramita en ese órgano administrativo como consecuencia de una infracción de las normas reguladoras de la circulación de vehículos a motor.
+
+Que este requerimiento de entrega de la autorización no es correcto y no procede entregar ni enviar la documentación acreditativa del permiso referenciado por la siguiente causa:
+
+[OPCIONAL — incluir si procede]
+
+La resolución sancionadora no ha adquirido firmeza en vía administrativa.
+
+[OPCIONAL — incluir si procede]
+
+La resolución sancionadora no impone la suspensión del permiso cuya entrega se requiere.
+
+[OPCIONAL — incluir si procede]
+
+El interesado no es titular del permiso o autorización que se ha requerido.
+
+[OPCIONAL — incluir si procede]
+
+La sanción impuesta y en la que se ordena la suspensión de la autorización administrativa ha prescrito por el transcurso de los plazos establecidos.
+
+[OPCIONAL — incluir si procede]
+
+La resolución firme en vía administrativa está suspendida ante el orden jurisdiccional contencioso administrativo.
+
+Por lo expuesto, de acuerdo con las previsiones del artículo 20 del Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial,
+
+SOLICITA:
+
+Que se tenga por presentado este escrito y de conformidad con lo manifestado en él se deje sin efecto la orden cursada al interesado para que entregue el permiso o licencia referenciados.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

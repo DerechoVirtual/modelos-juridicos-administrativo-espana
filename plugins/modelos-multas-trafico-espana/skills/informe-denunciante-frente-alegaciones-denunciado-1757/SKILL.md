@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1757 · Informe del denunciante frente a las alegaciones del denunciado a la propuesta
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; restos de formato retirados; notas del formulario agrupadas al final (1); 3 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de informe realizado por el denunciante en contestación a las alegaciones del inculpado a la propuesta de resolución del expediente sancionador, ratificando que los hechos consignados en la denuncia son ciertos en toda su extensión, o bien matizando algunos hechos a la vista de las alegaciones del denunciado.
+
+En contestación a su escrito de fecha [FECHA], en el que se me da traslado de las alegaciones formuladas por D./Dña. [NOMBRE Y APELLIDOS], en el expediente sancionador número [Nº DE PROCEDIMIENTO]/[AÑO], seguido en ese Centro Directivo, en cuanto autor de la denuncia que ha dado origen al mismo procedo a realizar el siguiente (1)
+
+INFORME:
+
+Los hechos consignados en la denuncia son ciertos en toda su extensión, por lo que procede ratificar los mismos sin que haya lugar a variación o matización de ningún género.
+
+Los hechos consignados en la denuncia, a la vista de las alegaciones presentadas por el interesado y las comprobaciones efectuadas por este denunciante, hay que aclararlos y rectificarlos en el siguiente sentido:
+
+Es cuanto tengo que informar a esa Unidad de Sanciones en aplicación de lo dispuesto en el artículo 95.2 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial [NOTA DE REVISIÓN: Informe del agente: art. 95.2 TR LSV. Fuente: TR LSV (RDLeg 6/2015), BOE-A-2015-11722 art. 95.2.].
+
+En Lugar, a día, mes, año
+
+Firmado:
+
+NOTAS DEL FORMULARIO
+
+(1) De las alegaciones del denunciado, salvo que no aporten datos nuevos o distintos de los inicialmente constatados por el denunciante, se dará traslado a éste, para que informe en el plazo máximo de quince días (art. 12.3 RD 320/1994).

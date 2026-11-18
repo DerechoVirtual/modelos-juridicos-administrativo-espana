@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0914 · Personación de los demandados
+
+- Año del modelo: 2009
+- Revisión 17-11-2026: 7 campos de relleno marcados en blanco; 2 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015); 3 huecos del original que se habían perdido sin marca, marcados (FECHA, NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Juzgado
+
+Recurso
+
+AL TRIBUNAL
+
+D. [NOMBRE Y APELLIDOS] Procurador de los Tribunales y del Ilmo. Ayuntamiento de [LOCALIDAD], representación que acredito por medio del poder general para pleitos que exhibo y retiro y de la correspondiente certificación del acuerdo del Pleno del mencionado Consistorio, a efectos de que pueda personarme en su representación en el presente recurso que versa sobre [DESCRIBIR] comparezco y como sea procedente en Derecho, DIGO:
+
+PRIMERO.- Que en atención a lo que se dispone en el artículo 50.1 de la LJCA, el emplazamiento de la Administración Pública se entenderá efectuado por la reclamación del expediente.
+
+SEGUNDO.- Que por diligencia de ordenación de fecha [FECHA] dictada por el órgano jurisdiccional al que tengo el honor de dirigirme, se solicitó el envío del expediente administrativo, lo que fue efectuado el día [FECHA]
+
+TERCERO.- Como consecuencia de ello, la Corporación Municipal que representó debe considerarse emplazada y comparece en autos, con la personación que se lleva a cabo por medio del presente escrito, anunciando que la dirección letrada de este proceso la ostenta el Letrado de los Servicios Jurídicos del citado Ayuntamiento D. [NOMBRE Y APELLIDOS]
+
+Por todo lo cual,
+
+SUPLICO AL TRIBUNAL, que en atención a lo expuesto anteriormente, tenga por comparecido al Ayuntamiento de [LOCALIDAD] y personado en forma como parte demandada, ordenando lo que sea procedente a efectos de que se entiendan conmigo las sucesivas diligencias a que haya lugar en Derecho.
+
+En [COMPLETAR], a [COMPLETAR], de [COMPLETAR] del año

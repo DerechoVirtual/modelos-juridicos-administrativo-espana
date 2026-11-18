@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -72,7 +72,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -80,3 +80,66 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0567 · Cumplimentar el trámite de audiencia
+
+- Año del modelo: 2011
+- Revisión 17-11-2026: 1 desplegables convertidos en elección en blanco; 8 párrafos opcionales señalados; 7 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+AL [ÓRGANO AL QUE SE DIRIGE]
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+DICE:
+
+Que con fecha [FECHA] se le ha notificado resolución de fecha [FECHA] dictada en el expediente arriba reseñado en la que se concede un plazo de [Nº] días para verificar el trámite de audiencia previsto en el art. 110 de la LPACAP lo que pasamos a formalizar conforme a las siguientes
+
+ALEGACIONES:
+
+[OPCIONAL — incluir si procede]
+
+1º.- Incompetencia [ELEGIR: del órgano administrativo / de la Administración] para la incoación del presente expediente.
+
+[OPCIONAL — incluir si procede]
+
+2º.- Vicio en la Resolución de inicio del expediente que provoque indefensión [COMPLETAR]
+
+[OPCIONAL — incluir si procede]
+
+3º.- Que han transcurrido más de 4 años desde que se adoptó el acto administrativo presuntamente lesivo, sea porque efectivamente ha transcurrido dicho plazo o porque el acto cuya anulación se pretende es realmente reproducción de otro, o ejecución o complemento del mismo, haciendo hincapié en que fue entonces, cuando se adoptó por la Administración la decisión que materialmente se revisa.
+
+[OPCIONAL — incluir si procede]
+
+4º.- Que no se ha comunicado la tramitación del expediente a todos los interesados en el mismo conforme previene el art. 4 de la LPACAP.
+
+[OPCIONAL — incluir si procede]
+
+5º.- Que el acto administrativo cuya declaración de lesividad se pretende no es contrario a Derecho. Justificar la conformidad a Derecho al acto administrativo y, en su caso, que la irregularidad que se le imputa no es invalidante.
+
+[OPCIONAL — incluir si procede]
+
+6º.- Justificar que no existe lesión al interés público, que el mismo no resulta alterado por los efectos del acto. Distinguir esta lesión del posible efecto lesivo para terceros, que no tendrán amparo en la anulación del acto por esta vía. Incidir en que esos terceros no han recurrido el acto administrativo. Poner de manifiesto que a la Administración le constan estos efectos desde hace tiempo y no ha promovido la anulación del acto.
+
+[OPCIONAL — incluir si procede]
+
+7º.- Indicar cualquier circunstancia que ponga de manifiesto que el resultado de la anulación del acto va a resultar contraria a la equidad, a la buena fe, a derechos adquiridos o al Ordenamiento jurídico (art. 110 de la Ley).
+
+[OPCIONAL — incluir si procede]
+
+8ª.- Señalar las consecuencias indeseables de la anulación del acto (indemnizaciones, inicio de un nuevo expediente...)
+
+Por cuanto antecede
+
+SOLICITO
+
+que se tenga por presentado este escrito con los documentos que se acompañan y en su virtud y tras los trámites oportunos, se dicte resolución en la que se acuerde no haber lugar a la declaración de lesividad y posterior impugnación ante la Jurisdicción Contencioso-administrativa de la Resolución de fecha
+
+En [LUGAR], a [FECHA].
+
+Firmado:

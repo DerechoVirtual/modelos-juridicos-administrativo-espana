@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,31 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0262 · Mandato con poder de representación para tramitar la nacionalidad española
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; 1 rangos de artículos despegados («25 a31» → «25 a 31»); 11 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS] con NIE nº [DNI/NIE] y domicilio en [LOCALIDAD] en la C/ [CALLE] C.P. en concepto de MANDANTE, manifiesta:
+
+Que por el presente documento confiere MANDATO CON PODER DE REPRESENTACIÓN a favor de D./Dña. [NOMBRE Y APELLIDOS], Abogado en ejercicio, colegiado número [Nº DE COLEGIADO/A], perteneciente al Ilustre Colegio de Abogados de [COLEGIO], con domicilio en [LOCALIDAD] en la C/ [CALLE] C.P. en concepto de MANDATARIO
+
+Que el presente MANDATO, que se regirá por los artículos 1709 a 1739 del Código Civil, se confiere al amparo del artículo 5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, [NOTA DE REVISIÓN: Se ha suprimido la cita del art. 23 de la Ley 11/2007, derogada por la Ley 39/2015 (disposición derogatoria única); el apoderamiento se rige por el art. 5 de la Ley 39/2015. Fuente: Ley 39/2015, art. 5 y disposición derogatoria única (BOE-A-2015-10565).] para que promueva, solicite y realice todos los trámites necesarios en relación con el siguiente ASUNTO: SOLICITUD DE NACIONALIDAD ESPAÑOLA POR RESIDENCIA DE D./Dña. [NOMBRE Y APELLIDOS]
+
+Que el presente MANDATO se confiere para su actuación ante todos los órganos y entidades de la Administración del Estado, Autonómica, Provincial y Local que resulten competentes, en relación con los trámites del asunto objeto de este MANDATO, y específicamente ante el Ministerio de Justicia del Gobierno de España.
+
+Que conoce y acepta que los datos que se suministran pueden incorporarse a ficheros automatizados de los que será responsable el abogado al que se le otorga el MANDATO, con el único objeto de posibilitar la prestación de los servicios profesionales objeto del presente MANDATO y el cumplimiento de las obligaciones derivadas del trámite encomendado, pudiendo ejercitar ante los mismos, en su caso, los derechos de acceso, rectificación, cancelación y oposición, de conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+Que el MANDATARIO acepta el MANDATO conferido y se obliga a cumplirlo de conformidad con las instrucciones del mandante, y declara bajo su responsabilidad que los documentos recibidos del mandante han sido verificados en cuanto a la corrección formal de los datos contenidos en los mismos.
+
+En [LUGAR], a [FECHA].
+
+Fdo.:	EL MANDANTE
+Fdo.	EL MANDATARIO

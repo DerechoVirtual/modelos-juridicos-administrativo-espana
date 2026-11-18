@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,52 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0372 · Revocar la expulsión por circunstancias excepcionales
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 15 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA OFICINA DE EXTRANJEROS DE [COMPLETAR]
+
+A LA DELEGACIÓN DEL GOBIERNO EN [LOCALIDAD]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, de nacionalidad [NACIONALIDAD], con NIE/pasaporte n.º [DNI/NIE], ante este organismo comparece y
+
+EXPONE
+
+Primero.- Que le fue incoado expediente sancionador de expulsión, con la referencia, en la provincia de [PROVINCIA], con fecha [FECHA].
+
+Dicho expediente finalizó con la resolución de fecha [FECHA] por la que se impuso al interesado la sanción de expulsión del territorio nacional con prohibición de entrada por un período de [Nº] años.
+
+La orden de expulsión se impuso por el exclusivo motivo de infringir el art. 53.1.a) de la Ley Orgánica 4/2000, por carecer de autorización para encontrarse en España.
+
+Se adjunta a efectos de prueba copia de la orden mencionada.
+
+Segundo.- Que el día [FECHA] ha cumplido tres años de permanencia en España, por lo que ha presentado solicitud de autorización de residencia temporal por arraigo social, aportando con la solicitud contrato de trabajo firmado por el trabajador y empresario y un informe de inserción social favorable emitido por el Ayuntamiento en el que reside.
+
+Tercero.- Que, contra dicha resolución se interpuso recurso contencioso-administrativo con fecha [FECHA], sin que hasta la fecha haya sido resuelto dicho recurso ni haya sido ejecutada la resolución sancionadora.
+
+Se adjunta copia del resguardo de presentación de dicho recurso.
+
+Cuarto.- Que el art. 109.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece que:
+
+Las Administraciones públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.
+
+Quinto.- Que, dado que la resolución sancionadora no ha podido ser ejecutada hasta la fecha, y teniendo en cuenta que el interesado reúne los requisitos contemplados por la Ley para obtener una autorización de residencia temporal por arraigo, procedería revocar la resolución sancionadora referenciada, con el fin de poder regularizar la situación administrativa del interesado en España.
+
+Dado que el único motivo por el que fue impuesta la sanción de expulsión fue la mera permanencia irregular en España, dicha revocación no puede considerarse contraria al orden público.
+
+Por el contrario, sería una circunstancia favorecedora de la integración social plena del interesado.
+
+Por lo expuesto SOLICITO que sea revocada la resolución sancionadora de expulsión decretada contra D./Dña. [NOMBRE Y APELLIDOS] de fecha [FECHA], incorporándose dicha notificación al expediente de solicitud de autorización de residencia temporal por arraigo presentada por el interesado en la fecha [FECHA].
+
+En [LUGAR], a [FECHA].
+
+Fdo.:

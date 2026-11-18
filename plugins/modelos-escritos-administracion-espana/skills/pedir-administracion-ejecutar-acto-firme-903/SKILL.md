@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0903 · Pedir a la Administración ejecutar un acto firme
+
+- Año del modelo: 2009
+- Revisión 17-11-2026: 10 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./D.ª [NOMBRE Y APELLIDOS] con domicilio en la calle [CALLE] de la ciudad de [COMPLETAR] (además, en su caso, teléfono y/o correo electrónico) con DNI [DNI/NIE] comparece en su propio nombre (o en representación de [NOMBRE DEL REPRESENTADO/A]) según poder, [COMPLETAR]) y como mejor proceda en Derecho, DIGO:
+
+PRIMERO.- El día [FECHA] se me notificó acto administrativo en materia de [COMPLETAR], en el que se estimaba plenamente la reclamación presentada en su día y que dio lugar al expediente administrativo [COMPLETAR]. Contra dicho acto administrativo no se interpuso recurso alguno y por lo tanto devino firme.
+
+SEGUNDO.- Como consecuencia de la firmeza del acto, a tenor de lo que se dispone en los artículos 38 y 39 de la Ley 39/2015, de 1 de octubre, dicho acto produce plenos efectos jurídicos, pues al ser firme vincula a la Administración Pública que debe proceder a su ejecución, pues en caso contrario, se producen al interesado perjuicios considerables.
+
+TERCERO.- El acto administrativo, una vez alcanzada su firmeza legalmente, debe cumplirse por parte de la Administración Pública autora de la misma, pues en caso contrario se produce una quiebra del principio de seguridad jurídica y de legalidad, así como del principio de que nadie puede ir en contra de sus propios actos.
+
+En este sentido, el artículo 29.2 LJCA señala que cuando la Administración no ejecute sus actos firmes podrán los afectados solicitar su ejecución, y si ésta no se produce en el plazo de un mes desde tal petición, podrán los solicitantes formular recurso contencioso-administrativo, que se tramitará por el procedimiento abreviado.
+
+Por todo lo cual,
+
+SOLICITO
+
+que se tenga por presentado este escrito, junto con los documentos que se acompañan, y que se proceda a la ejecución inmediata del acto administrativo firme, que se ha citado con anterioridad, teniendo en cuenta que esta solicitud es a los efectos prevenidos en el artículo 29.2 de la Ley 29/1998, de 13 de julio.
+
+Lugar, fecha y firma [COMPLETAR]
+
+ÓRGANO, UNIDAD O CARGO ADMINISTRATIVO AL QUE SE DIRIGE EL ESCRITO

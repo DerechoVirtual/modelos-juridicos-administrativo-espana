@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,30 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0649 · Alegaciones ante declinatoria de jurisdicción en contratos públicos
+
+- Año del modelo: 2010
+- Revisión 17-11-2026: 3 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA SALA DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL SUPERIOR DE JUSTICIA DE [LOCALIDAD]
+
+Que el pasado [FECHA] me ha sido notificada la providencia dictada por la Sala el día anterior, por la que se hace saber a las partes la posibilidad de que se aprecie de oficio la falta de jurisdicción, concediéndosenos un plazo común de 10 días para alegar lo procedente y, dentro de dicho plazo evacuo el trámite conferido en base a las siguientes.
+
+ALEGACIONES
+
+PRIMERA. De conformidad con lo previsto en el artículo 5.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, esta jurisdicción es improrrogable, y en su artículo 2 establece que en ella se conocerá de las cuestiones que se susciten en relación con «b) Los contratos administrativos y los actos de preparación y adjudicación de los demás contratos sujetos a la legislación de contratación de las Administraciones Públicas».
+
+SEGUNDA. Como quiera que el contrato público que se ha suscrito es relativo a [DESCRIBIR], cuyo contenido obligacional comporta, entre otros, hemos de entender, en base a lo establecido en los artículos 18 y siguientes de la Ley 9/2017, de Contratos del Sector Público, que se trata de un contrato mixto, con carácter administrativo, y con un régimen jurídico eminentemente administrativo, por lo que, de conformidad con lo previsto en el artículo 27 de la citada Ley 9/2017, será competencia del órgano jurisdiccional contencioso-administrativo la resolución de controversias que surjan entre las partes en relación a este tipo de contratos.
+
+Por ello, y en atención a lo dispuesto precisamente en los artículos 5 y 10 de la LJCA, corresponde a la Jurisdicción Contencioso-administrativa y a las Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia el conocimiento de los recursos que se deduzcan en relación con estos asuntos, y es por ello por lo que
+
+A LA SALA SUPLICO: Que, teniendo por presentado este escrito, tenga por evacuado el trámite conferido y, en consecuencia, se sirva declarar la competencia de la Sala para conocer del recurso interpuesto, ordenándose la continuación del procedimiento por los trámites preceptivos.
+
+Lugar, Fecha (día/mes/año) y Firma.

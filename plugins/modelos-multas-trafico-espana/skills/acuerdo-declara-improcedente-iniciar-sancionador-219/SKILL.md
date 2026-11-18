@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -64,7 +64,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -72,3 +72,32 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0219 · Acuerdo que declara improcedente iniciar sancionador por prescripción
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; 1 llamadas a nota sin texto retiradas; 1 desplegables convertidos en elección en blanco; 8 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Mediante denuncia de fecha [FECHA], formulada por [ÓRGANO O PERSONA], se puso en conocimiento de esta [ELEGIR: Alcaldía / Jefatura de Tráfico] de [COMPLETAR], la realización por [COMPLETAR], de los siguientes hechos:
+
+Los hechos mencionados son susceptibles de calificación como infracción administrativa, de conformidad con lo dispuesto en el artículo [COMPLETAR] del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, en relación con el artículo [COMPLETAR] del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (en lo sucesivo, TR LTCVMSV).
+
+Del resultado de las actuaciones previas practicadas se ha podido concluir que ha prescrito la infracción, por cuanto ha transcurrido el plazo de prescripción establecido, contado a partir del día en que los hechos se hubiesen cometido, según establece el artículo 112.1 TR LTCVMSV [NOTA DE REVISIÓN: El cómputo desde el día de comisión está en el art. 112.1 TR LSV; el art. 18.1 RD 320/1994 fija plazos ya superados (un año para muy graves). Fuente: TR LSV (RDLeg 6/2015), BOE-A-2015-11722 art. 112.1.].
+
+En su virtud y de conformidad con el artículo 64 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación con el artículo 30 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, procede dictar el siguiente
+
+ACUERDO:
+
+Primero.- Se declara la improcedencia de iniciar procedimiento sancionador contra [ACTO O RESOLUCIÓN], por los hechos mencionados en los antecedentes de esta resolución, ya que en las actuaciones previas practicadas se ha podido acreditar la prescripción de la infracción.
+
+Segundo.- Notifíquese la presente resolución al interesado con la iniciación de los recursos que procedan.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

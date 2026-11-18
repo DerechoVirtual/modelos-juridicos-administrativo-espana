@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -72,7 +72,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -80,3 +80,46 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0169 · Queja por defectos de tramitación en el expediente sancionador
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 desplegables convertidos en elección en blanco; 1 bloques de alternativas señalados; 12 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A la [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, DNI número [DNI/NIE], con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA] y con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], CP [C.P.], ante [ÓRGANO], órgano competente, como mejor proceda comparece y
+
+EXPONE:
+
+Que con fecha [FECHA] fue denunciado por Agente de la Autoridad, abriéndose el expediente número [Nº DE PROCEDIMIENTO]/[AÑO], que se sigue en ese Centro Directivo como consecuencia de una supuesta infracción de la legislación reguladora del tráfico, la circulación de vehículos a motor y la seguridad vial.
+
+Que en el citado expediente se han producido los siguientes defectos de tramitación contrariamente a las previsiones establecidas en la legislación sobre procedimiento administrativo común para una correcta instrucción del expediente:
+
+[ELEGIR UNA DE LAS ALTERNATIVAS QUE SIGUEN Y SUPRIMIR LAS DEMÁS]
+
+Defecto de tramitación consistente en la paralización del expediente por causa no imputable al interesado.
+
+Defecto de tramitación consistente en la infracción de los plazos preceptivamente señalados.
+
+Omisión de trámites que pueden quedar subsanados antes de la resolución definitiva del asunto.
+
+Que este trámite es de obligado cumplimiento de conformidad con las previsiones del Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial.
+
+Por lo expuesto, y de conformidad con las previsiones del artículo 76.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
+
+SOLICITO:
+
+Que se retrotraiga el expediente al momento inmediatamente anterior a la realización del defecto de trámite denunciado y se ordene al órgano instructor la subsanación del mismo adoptando las medidas adecuadas para impedir en lo sucesivo anomalías de tramitación en el expediente.
+
+Que se exija a los titulares de las unidades administrativas responsables de la omisión del trámite la responsabilidad disciplinaria que en derecho proceda.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

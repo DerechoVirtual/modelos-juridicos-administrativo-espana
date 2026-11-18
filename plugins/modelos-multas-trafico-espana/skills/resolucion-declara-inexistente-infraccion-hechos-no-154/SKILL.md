@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,30 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0154 · Resolución que declara inexistente la infracción por hechos no constitutivos de ella
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; 1 llamadas a nota sin texto retiradas; 6 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Visto el escrito de denuncia formulado por el Agente encargado de la vigilancia del tráfico, número [NÚMERO], con fecha [FECHA], contra D./Dña. [NOMBRE Y APELLIDOS], conductor/a del vehículo marca [MARCA/MODELO], matrícula [MATRÍCULA], como consecuencia de los siguientes hechos:
+
+Considerando que, una vez recibida la denuncia, por el órgano instructor se ha procedido a la calificación de los hechos, y se ha elevado propuesta en la que se determina que los hechos denunciados no son constitutivos de infracción administrativa de conformidad con la tipificación establecida en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, en relación con las disposiciones concordantes del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación.
+
+Vistos los antecedentes mencionados y las disposiciones citadas, de conformidad con el artículo 9.1 del Real Decreto 320/1994 [NOTA DE REVISIÓN (comprobar): Art. 9.1 RD 320/1994 (calificación de la denuncia, inexistencia de infracción o autor no identificado): formalmente vigente, sin equivalente directo en el TR LSV. Fuente: RD 320/1994, BOE-A-1994-8985 art. 9.1.], de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial, procede dictar la siguiente
+
+RESOLUCIÓN:
+
+Primero.- Se declara la inexistencia de infracción administrativa en los hechos denunciados en el expediente referenciado y, en consecuencia, se decreta el sobreseimiento de las actuaciones sin más trámite.
+
+Segundo.- Notifíquese la presente resolución al interesado con indicación de los recursos que procedan de conformidad con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

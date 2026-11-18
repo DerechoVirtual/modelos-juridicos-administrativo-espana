@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -64,7 +64,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -72,3 +72,43 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1767 · Alegaciones ante la falta de competencia apreciada de oficio
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 4 desplegables convertidos en elección en blanco; 8 campos de relleno marcados en blanco; encabezamiento adaptado a los Tribunales de Instancia (LO 1/2025); 3 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de escrito de alegaciones de las partes respecto de la falta de competencia apreciada de oficio por el órgano jurisdiccional, estableciendo que el recurso tiene por objeto una pretensión que sí corresponde (o no) conocer al Tribunal ante el que se ha interpuesto el recurso, solicitando así que se declare la competencia (o falta de competencia) para conocer del asunto.
+
+[NOTA DE REVISIÓN: desde el 31-12-2025 los Juzgados de lo Contencioso-administrativo son Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia (LO 1/2025, DA 1.ª y DT 1.ª; LOPJ arts. 84 y 93). Si el asunto ya está repartido, indicar la plaza, que conserva el número del antiguo Juzgado.]
+
+A LA SALA
+A LA SECCIÓN DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+D./Dña. [NOMBRE Y APELLIDOS], en nombre de [NOMBRE DEL REPRESENTADO/A], parte actora en el presente procedimiento jurisdiccional cuya representación tengo acreditada en autos de recurso contencioso-administrativo que penden ante ese órgano jurisdiccional, deducido contra resolución de fecha [FECHA], dictada por [ÓRGANO O PERSONA], sobre [DESCRIBIR], comparezco y
+
+DIGO
+
+Que evacuando el trámite conferido por providencia de [FECHA], de fecha [FECHA] mediante el presente escrito formulo las siguientes
+
+ALEGACIONES
+
+- Que en el recurso contencioso-administrativo mencionado se ha formulado una pretensión en relación con un acto administrativo procedente de para cuyo conocimiento, en función de las normas delimitadoras de la competencia, [ELEGIR: es / no es] competente [ELEGIR: el Tribunal / la Sala] al que tengo el honor de dirigirme conforme a los siguientes antecedentes y fundamentos jurídicos que resultan de aplicación:
+
+- Que de conformidad con el artículo 7 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, la competencia de los órganos jurisdiccionales de lo contencioso administrativo es improrrogable y su falta puede ser apreciada incluso de oficio, previa audiencia de las partes.
+
+En virtud de lo expuesto,
+
+SUPLICO [ELEGIR: AL TRIBUNAL / A LA SALA]
+
+Que tenga por formuladas las precedentes alegaciones, y previos los trámites legales que sean aplicables, se declare la [ELEGIR: competencia / falta de competencia] para conocer de este recurso, con los demás pronunciamientos a ello inherentes.
+
+Es Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de Abogado/a	Firma de Procurador/a

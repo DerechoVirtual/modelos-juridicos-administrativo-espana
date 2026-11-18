@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -79,7 +79,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -87,3 +87,76 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0194 · Recusación del instructor en un sancionador de tráfico
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 1 llamadas a nota sin texto retiradas; 1 desplegables convertidos en elección en blanco; 9 párrafos opcionales señalados; 13 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A la [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, DNI número [DNI/NIE], con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA] y con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], CP [C.P.]), ante [ÓRGANO], órgano administrativo competente, comparece y como mejor proceda en derecho
+
+DICE:
+
+Con fecha [FECHA], se le ha comunicado el escrito de fecha [FECHA] en el que se acuerda la iniciación del expediente sancionador número [Nº DE PROCEDIMIENTO]/[AÑO], por una supuesta infracción de la legislación reguladora del tráfico, circulación de vehículos a motor y seguridad vial, en que se contiene la designación de D./Dña. [NOMBRE Y APELLIDOS], como instructor del citado procedimiento.
+
+Que el instructor nombrado debió apartarse voluntariamente de cualquier intervención en el procedimiento sancionador ya que en él concurre, y así se acredita mediante la documentación adjunta, y los demás medios de prueba que seguidamente se proponen, la siguiente causa de abstención, según los motivos previstos en el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:
+
+[OPCIONAL — incluir si procede]
+
+Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir la de aquél.
+
+[OPCIONAL — incluir si procede]
+
+Ser administrador de sociedad o entidad interesada.
+
+[OPCIONAL — incluir si procede]
+
+Tener cuestión litigiosa pendiente con algún interesado.
+
+[OPCIONAL — incluir si procede]
+
+Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores, representantes legales o mandatarios que intervengan en el procedimiento.
+
+[OPCIONAL — incluir si procede]
+
+Compartir despacho profesional o estar asociado con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores, representantes legales o mandatarios que intervengan en el procedimiento, para el asesoramiento, la representación o el mandato.
+
+[OPCIONAL — incluir si procede]
+
+Tener amistad íntima o enemistad manifiesta con alguna de las personas mencionadas en el apartado anterior.
+
+[OPCIONAL — incluir si procede]
+
+Haber tenido intervención como perito o como testigo en el procedimiento de que se trate.
+
+[OPCIONAL — incluir si procede]
+
+Tener relación de servicio con persona natural o jurídica interesada directamente con el asunto.
+
+[OPCIONAL — incluir si procede]
+
+Haberle prestado en los dos últimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar.
+
+Que hasta la fecha presente la abstención voluntaria no se ha producido, ni tampoco se ha notificado a esta parte el cambio de instructor,
+
+Que en el documento acusatorio notificado (denuncia o acuerdo de inicio) no se indica el nombre del instructor del expediente, ni tampoco se identifica a la autoridad sancionadora competente para resolver el procedimiento, lo que, además de ser incorrecto en términos legales, supone la imposibilidad de que por esta parte se haga uso del derecho a la recusación en caso de que se diera alguno de los motivos previstos en la legislación vigente, en consecuencia resulta obligado notificar la identificación de estas personas, con suspensión de la tramitación del expediente a efectos que esta parte pueda ejercitar los derechos que le corresponden.
+
+Por lo expuesto,
+
+SOLICITA:
+
+Que se tenga por presentado este escrito, se admita a trámite, y previas las informaciones que se estimen oportunas se acuerde la sustitución por otro del órgano instructor, en el expediente referenciado, paralizándose la tramitación hasta la finalización del incidente.
+
+Que se tenga por presentado este escrito, se admita a trámite, y de conformidad con lo manifestado en el mismo, se notifique a esta parte la identidad del titular del órgano instructor y de la autoridad sancionadora competente para posibilitar el ejercicio de los derechos que asisten a esta parte en orden a garantizar la imparcialidad de la resolución que pudiera recaer, paralizándose la tramitación del procedimiento hasta la finalización de este incidente.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

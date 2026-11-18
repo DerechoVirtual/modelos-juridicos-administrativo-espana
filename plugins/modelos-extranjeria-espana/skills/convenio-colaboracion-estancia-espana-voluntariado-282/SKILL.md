@@ -35,8 +35,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -64,7 +64,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -72,3 +72,51 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0282 · Convenio de colaboración para estancia en España por voluntariado
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; 25 campos de relleno marcados en blanco
+- Avisos de la revisión: Voluntariado: el contenido del convenio está hoy en el art. 53.1.d).1.º RD 1155/2024.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+DE UNA PARTE
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, en nombre y representación de la entidad [COMPLETAR], con domicilio social en España en la C/ [CALLE],
+
+DE OTRA PARTE
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, con domicilio social en (País) en la ciudad de [COMPLETAR] en la C/ [CALLE],
+
+Suscriben el presente
+
+CONVENIO DE COLABORACIÓN
+
+El presente convenio se suscribe en cumplimiento de lo establecido en los artículos 34.1.d), 35 y 36 del Real Decreto 1155/2024 [NOTA DE REVISIÓN: Los arts. 34-36 regulan el visado. El convenio con la entidad de voluntariado y su contenido mínimo (descripción del programa, funciones, supervisión, horas, manutención y alojamiento, dinero de bolsillo, formación) se exigen para la autorización en el art. 53.1.d).1.º, con el supuesto definido en el art. 52.1.d) y el procedimiento en el art. 54. Conviene citar los arts. 52.1.d), 53.1.d) y 54, además del 34.1.d). Fuente: RD 1155/2024, arts. 34, 35, 52, 53.1.d) y 54 (BOE-A-2024-24099).], de 19 de noviembre, para la concesión de la autorización de estancia en España de D./Dña. [NOMBRE Y APELLIDOS] para la prestación de un servicio de voluntariado.
+
+El objeto del presente convenio es la prestación de un servicio de voluntariado para la entidad [COMPLETAR] por parte de D./Dña. [NOMBRE Y APELLIDOS]
+
+La duración del presente convenio será de [Nº] meses [COMPLETAR], prorrogables previo acuerdo de las partes antes de su finalización.
+
+Las actividades que realizará el voluntario para [COMPLETAR], consistirán en [COMPLETAR]:
+
+Dichas actividades se incluyen dentro del programa [COMPLETAR] de la entidad, que tiene como objetivo [COMPLETAR]
+
+El horario en que se realización dichas actividades será de [COMPLETAR] a [COMPLETAR].
+
+La entidad [COMPLETAR] se hará cargo de los gastos de viaje, alojamiento y manutención del voluntario el tiempo que este convenio se encuentre en vigor [COMPLETAR].
+
+La entidad [COMPLETAR] tiene suscrito un seguro de responsabilidad civil con la entidad [COMPLETAR], póliza nº [NÚMERO] por el que se cubren riesgos de accidente y enfermedad derivados directamente del ejercicio de la actividad voluntaria.
+
+En [LUGAR], a [FECHA].
+
+En representación de [NOMBRE DEL REPRESENTADO/A]
+
+El/la voluntario/a
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS]

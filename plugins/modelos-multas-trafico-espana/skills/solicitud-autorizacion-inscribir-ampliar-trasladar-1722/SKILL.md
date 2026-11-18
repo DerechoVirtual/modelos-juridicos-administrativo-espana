@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -49,7 +49,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -57,3 +57,20 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1722 · Solicitud de autorización para inscribir, ampliar o trasladar talleres de reparación de vehículos
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 1 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Desde la modificación del RD 1457/1986 realizada por el RD 455/2010, de 16 de abril, por el que se modifica el RD 1457/1986, de 10 de enero, por el que se regulan la actividad industrial y la prestación de servicios en los talleres de reparación de vehículos automóviles, de sus equipos y componentes («B.O.E.» 29 abril) no es precisa autorización sino presentación de declaración responsable: art. 4.1 RD 1457/1986: "Antes de la apertura de un taller de reparación de automóviles, dada su vinculación a la seguridad vial, la persona física o jurídica que desee ejercer esta actividad deberá presentar en la comunidad autónoma del territorio donde esté ubicado el taller, una declaración responsable en la que el titular del taller o el representante legal del mismo indique la clasificación del taller, manifieste que cumple los requisitos establecidos en los apartados 7 y 8 de este artículo, que dispone de la documentación que así lo acredita, que se compromete a mantener su cumplimiento durante la vigencia de la actividad y que se responsabiliza de que la ejecución de los trabajos se efectúa de acuerdo con las normas y requisitos que se establecen en este real decreto."
+
+En [LUGAR], a [FECHA].
+
+Firma

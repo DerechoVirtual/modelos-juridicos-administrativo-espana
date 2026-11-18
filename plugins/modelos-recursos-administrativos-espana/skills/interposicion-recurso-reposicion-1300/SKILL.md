@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,26 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1300 · Interposición del recurso de reposición
+
+- Año del modelo: 2006
+- Revisión 17-11-2026: saltos de párrafo recuperados (texto venía pegado); restos de formato retirados; 10 campos de relleno marcados en blanco; 11 huecos del original que se habían perdido sin marca, marcados (COMPLETAR, DNI/NIE, NOMBRE Y APELLIDOS, Nº)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D. [NOMBRE Y APELLIDOS], interviniendo [EN NOMBRE PROPIO], con D.N.I. nº [DNI/NIE], o en nombre de D. [NOMBRE Y APELLIDOS] o de la mercantil [COMPLETAR], en virtud de [COMPLETAR] (reseñar: escritura de poder [COMPLETAR], escrito del representado presentado en el Ayuntamiento registrado de entrada nº [Nº], declaración de comparecencia ante el funcionario [COMPLETAR] el [COMPLETAR] (cuya copia se acompaña, etc.), domiciliado a efectos de notificaciones en [DOMICILIO A EFECTOS DE NOTIFICACIONES], c/ [CALLE], respetuosamente comparece y,
+
+EXPONE:
+
+PRIMERO:a) Que en fecha [FECHA] ha recibido la notificación de la Resolución de la Alcaldía (acuerdo de la Junta de Gobierno, del Pleno, del Teniente de Alcalde por delegación del Alcalde, etc.) de fecha [FECHA], relativa a [DESCRIBIR] por la que [COMPLETAR] (p.ejem. se deniega la Solicitud del compareciente para obtención licencia de edificación [COMPLETAR], autorización ocupación vía publica [COMPLETAR], obtención de subvención [COMPLETAR]).b) Que dentro del plazo máximo de un mes establecido al efecto (Art. 52 de la Ley 7/85, de 2 de abril, LBRL y Art. 124 de la Ley 39/2015 LPACAP) interpone RECURSO POTESTATIVO DE REPOSICIÓN contra dicho acto administrativo, por ser contrario a derecho y a los intereses del compareciente.
+
+SEGUNDO:a) Que el recurso se fundamenta por las siguientes ALEGACIONES: b) Se acompañan al presente escrito de recurso los siguientes documentos: (en su caso)
+
+TERCERO:Es procedente la suspensión de la ejecución del acto administrativo recurrido conforme al artículo 117 de la LPACAP, porque, en otro caso se causarían perjuicios de imposible o difícil reparación, como resulta de [LOS SIGUIENTES HECHOS Y CONSIDERACIONES O], en su caso, porque la impugnación se fundamenta en la siguiente (s) causa (s) de nulidad de pleno derecho previstas en el art. 62.1 de la Ley 30/92,Por todo lo anterior:
+
+SOLICITA:1º Se tenga por interpuesto en tiempo y forma el presente recurso potestativo de reposición contra la resolución 2º Se suspenda la ejecución del acto administrativo recurrido.3º Se declare contraria a Derecho y se anule, dejando sin efecto la resolución recurrida4º (En su caso) Se reconozca al recurrente la siguiente situación jurídica individualizada En [COMPLETAR] a Fdo.: SR. ALCALDE-PRESIDENTE DEL AYUNTAMIENTO DE [COMPLETAR] Si se trata de municipio Capital de provincia, se reseñará ILMO. SR. ALCALDE DE [COMPLETAR] Si es municipio incluido en el texto de la LBRL ("Gran población") se reseñara EXCMO. SR. ALCALDE.

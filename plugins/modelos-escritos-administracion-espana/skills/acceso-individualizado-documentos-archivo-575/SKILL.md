@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,50 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0575 · Acceso individualizado a documentos de un archivo
+
+- Año del modelo: 2011
+- Revisión 17-11-2026: 24 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Al Ayuntamiento de [LOCALIDAD]
+
+D./Dña. [NOMBRE Y APELLIDOS], con DNI número [DNI/NIE],
+
+con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA]
+
+con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], C.P [C.P.],
+
+actuando en su propio nombre y derecho, ante el Ayuntamiento de [LOCALIDAD], competente para la resolución de la presente solicitud, comparece y como mejor proceda en Derecho,
+
+EXPONE:
+
+Primero. Que se encuentra interesado en la adquisición a título particular de dos fincas sitas en el término municipal de [COMPLETAR] con la siguiente descripción:
+
+Finca n.º [NÚMERO] del catastro de urbanas de esa localidad, de una extensión de 1.350 metros cuadrados que linda al Norte con [COMPLETAR], al Sur con [COMPLETAR], al Este con [COMPLETAR] y al oeste con
+
+Finca n.º [NÚMERO] del catastro de urbanas de esa localidad, de una extensión de 1.639 metros cuadrados que linda al Norte con [COMPLETAR], al Sur con [COMPLETAR], al Este con [COMPLETAR] y al oeste con
+
+Segundo. Que en base al interés más arriba invocado estoy interesado en que por ese Ayuntamiento se me dé acceso al expediente de plusvalía relativo a la compra de dichas fincas que la entidad mercantil [COMPLETAR], S.A. ha llevado a cabo por medio de la escritura pública de fecha [FECHA] otorgada ante el notario D./Dña. [NOMBRE Y APELLIDOS] al número [NÚMERO] de su protocolo. En concreto, la petición se limita al documento de liquidación tributaria con el objeto de conocer si están correctamente liquidados los impuestos municipales derivados de la anterior transmisión.
+
+Entiende este interesado que no existe limitación alguna prevista en la Constitución y las leyes, particularmente, en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas o en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, que le impida el acceso a los datos solicitados, por no afectar a faceta reservada de la vida de las personas que merezca especial protección a la vista de la Ley Orgánica de Protección de Datos de Personales, en concreto, lo referido a los datos sobre la base imponible, el tipo aplicado y la cuota satisfecha, así como la fecha de pago por razón de las liquidaciones practicadas.
+
+Tercero. De la misma forma, este interesado se encuentra interesado en la expedición de las copias compulsadas de los resguardos de liquidación de los impuestos satisfechos ante ese Ayuntamiento en las transmisiones citadas, previo pago de las tasas que puedan ser pertinentes.
+
+En virtud de lo expuesto,
+
+SOLICITO
+
+Que, habiendo presentado este escrito, se sirva admitirlo y dicte acuerdo por el que se le dé a este interesado acceso y copia de los documentos concretados, previo pago de las tasas que correspondan.
+
+En [LUGAR], a [FECHA].
+
+Firmado:
+
+Firma

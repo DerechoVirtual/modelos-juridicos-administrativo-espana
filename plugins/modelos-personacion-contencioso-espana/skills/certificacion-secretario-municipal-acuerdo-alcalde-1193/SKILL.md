@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -68,7 +68,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -76,3 +76,28 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1193 · Certificación del secretario municipal: acuerdo del Alcalde de ejercitar acciones (Cataluña)
+
+- Año del modelo: 2008
+- Revisión 17-11-2026: saltos de párrafo recuperados (texto venía pegado); restos de formato retirados; cargo del fedatario municipal revisado: con carácter general es el Secretario/a de la Corporación (RD 128/2018; LBRL 92 bis); «Secretario General del Pleno» solo en municipios de gran población; título corregido: el fedatario de una entidad local es su Secretario/a, no el Letrado de la Administración de Justicia
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+CERTIFICACIÓN [NOMBRE], [ELEGIR: Secretario/a / Secretario/a General del Pleno (solo municipios de gran población, art. 122 LBRL)] del Excmo. Ayuntamiento de [NOMBRE]
+
+CERTIFICO:
+
+Que de los antecedentes obrantes a mi cargo, en la Secretaría de este Consistorio aparece un Decreto dictado en fecha [FECHAPOR EL ILMO]. Sr. Alcalde, conforme a las atribuciones conferidas por el art. 53.1.k) del Decreto Legislativo 2/2003, de 28 de abril, por el que se aprueba el Texto refundido de la Ley municipal y de régimen local de Cataluña y el art. 21.1.k) de la Ley 7/1985, de 2 de abril, de Bases de Régimen Local, a cuyo tenor "El Alcalde:es el Presidente de la Corporación y ostenta, en todo caso, las siguientes atribuciones: () k) El ejercicio de las acciones judiciales y administrativas y la defensa del Ayuntamiento en las materias de su competencia, incluso cuando las hubiere delegado en otro órgano, y, en caso de urgencia, en materias de la competencia del Pleno, en este supuesto dando cuenta al mismo en la primera sesión que celebre para su ratificación", Decreto que resuelve de conformidad con el dictamen previo del Secretario, de la Asesoría jurídica o, en defecto de ambos, de un letrado [SUPRIMIR LO QUE NO PROCEDA], como exige el art. 221 del Real Decreto 2568/1986, de 28 de noviembre, Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, y que posee el siguiente tenor:
+
+PRIMERO.- Visto que en fecha [FECHA], con entrada en estas dependencias municipales el [FECHA DE ENTRADA], D./Dña. [NOMBRE] del vecino o vecinos requirentes formulaba requerimiento a esta Corporación Local al amparo del art. 175 del Decreto Legislativo 2/2003, de 28 de abril, por el que se aprueba el Texto refundido de la Ley municipal y de régimen local de Cataluña, art. 68 de la Ley 7/1985, de 2 de abril, de Bases de Régimen Local, y art. 220 del Real Decreto 2568/1986, de 28 de noviembre, Reglamento de Organización, Funcionamiento y Régimen Jurídico de los Entes Locales, para que se procediera al inicio de acciones judiciales ante el orden jurisdiccional [CIVIL], penal, contencioso, social para la defensa de los bienes o derechos de titularidad local, consistentes tales acciones en [DESCRIPCIÓN] de las solicitadas por el vecino o vecinos.
+
+SEGUNDO.- Visto el dictamen previo al ejercicio de acciones emitido en fecha [FECHA] del informe por el [SECRETARIO], la Asesoría jurídica o letrado al amparo del art. 221 del Real Decreto 2568/1986, de 28 de noviembre, Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales y art. 54.3 del Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de las Disposiciones Vigentes de Régimen Local, dictamen que con claridad expresa la legalidad y conveniencia del ejercicio de las acciones solicitadas por el vecinolos vecinos .De conformidad con el citado dictamen previo del letrado consistorial y al amparo de las competencias atribuidas a esta Alcaldía por el art. 53.1.k) del Decreto Legislativo 2/2003, de 28 de abril, por el que se aprueba el Texto refundido de la Ley municipal y de régimen local de Cataluña, el art. 21.1.k) de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, y el art. 41.22 del Real Decreto 2568/1986, de 28 de noviembre, Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Corporaciones Locales,DISPONGOque por este Excmo. Ayuntamiento se inicien acciones para ante [ÓRGANO] jurisdiccional ante el que se interpondrá, contra [IDENTIFICACIÓN] del demandado o el acto o disposición que se impugnen. Asimismo designo a [NOMBRE], Procurador de los Tribunales [VER TEMAS], para que ostente la representación en juicio de esta Consistorio, bajo la dirección técnica del Letrado municipal, como también DISPONGO que, en caso de ser procedente la interposición de recurso de [APELACIÓN O CASACIÓN], queden facultados, tanto el Procurador de esta Corporación en [SEDE] el Tribunal que conocería del recurso como del Letrado Municipal, para proseguir el procedimiento hasta la obtención de sentencia firme.
+
+Del dictamen previo al ejercicio de acciones y de este propio Decreto se dará cuenta a esta Corporación Municipal en la primera sesión plenaria, a efectos de su aprobación y ratificación según proceda.
+
+Lo que expido la presente a [FECHA] con el visto bueno del Alcalde/AlcaldesaVº BºEl Alcalde/La Alcaldesa:

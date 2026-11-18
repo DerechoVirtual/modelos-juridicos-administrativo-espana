@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1819 · Suspensión de la ejecución de un acto de tráfico en la revisión de actos nulos
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: restos de formato retirados; notas del formulario agrupadas al final (1); 1 desplegables convertidos en elección en blanco; 9 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de acuerdo mediante el cual el órgano administrativo, dentro del procedimiento de revisión, suspende la ejecución del acto administrativo en materia de tráfico tras petición del interesado, en tanto puede provocar un perjuicio de imposible o difícil reparación para este, tal y como dispone el artículo 108 LPACAP.
+
+Visto el expediente número [Nº DE PROCEDIMIENTO]/[AÑO], seguido a D./Dña. [NOMBRE Y APELLIDOS], con objeto de revisar de oficio la resolución sancionadora de fecha [FECHA] acordada por la [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR], resulta (1):
+
+Que el interesado, con fecha [FECHA], ha pedido la suspensión del acto en este procedimiento revisorio.
+
+Que el acto, según se acredita, puede ocasionar perjuicio de imposible o difícil reparación en los siguientes términos:
+
+Vistos los antecedentes mencionados, y el artículo 108 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en lo sucesivo, LPACAP) [COMPLETAR], he tenido a bien dictar el siguiente
+
+ACUERDO
+
+Primero.- Se dispone la suspensión de la resolución sancionadora de fecha [FECHA], objeto de revisión de oficio, dictada por D./Dña. [NOMBRE Y APELLIDOS] en ejercicio de las potestades administrativas en materia de tráfico, circulación de vehículos a motor y seguridad vial.
+
+Segundo.- Sobre este acuerdo de suspensión de la resolución objeto del procedimiento revisorio se resolverá lo que proceda en el acto final del procedimiento revisorio.
+
+Tercero.- Notifíquese a los interesados este acto de suspensión de la resolución objeto del procedimiento revisorio a los efectos oportunos.
+
+En [LUGAR], a [FECHA].
+
+Firmado:
+
+NOTAS DEL FORMULARIO
+
+(1) La LPACAP se remite al procedimiento general para la tramitación de la revisión de oficio, pero con una importante salvedad: se prevé la suspensión de la ejecución del acto sometido a revisión, cuando pueda causar perjuicios de imposible o difícil reparación, que es una facultad prevista en el procedimiento de resolución de los recursos administrativos, si bien los motivos de una y otra suspensión no son enteramente diferentes.

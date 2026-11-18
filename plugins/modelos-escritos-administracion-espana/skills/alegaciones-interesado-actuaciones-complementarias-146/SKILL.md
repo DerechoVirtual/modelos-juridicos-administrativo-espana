@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -67,7 +67,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -75,3 +75,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0146 · Alegaciones del interesado en actuaciones complementarias ordenadas por el órgano resolutor
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 llamadas a nota sin texto retiradas; 2 desplegables convertidos en elección en blanco; 13 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A [ELEGIR: la Jefatura de Tráfico / Alcaldía] de [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, DNI número [DNI/NIE], con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA] y con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], CP [C.P.]), ante [ÓRGANO], órgano competente para resolver, como mejor proceda, comparece y
+
+DICE:
+
+Que con fecha [FECHA], se le ha dado traslado del acuerdo de fecha [FECHA], en el que se dispone la práctica de actuaciones complementarias en el expediente sancionador número [Nº DE PROCEDIMIENTO]/[AÑO], que se sigue en la Unidad de Sanciones de ese Centro Directivo como consecuencia de supuestas infracciones a la legislación de tráfico.
+
+Que en el citado trámite y a fin de que esa [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR], tenga los elementos de juicio necesarios para dar por terminado el expediente sancionador referenciado, pasamos a realizar las siguientes
+
+ALEGACIONES:
+
+Por lo expuesto y de conformidad con el artículo 87 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en lo sucesivo, LPACAP),
+
+SOLICITA:
+
+Que se admita a trámite este escrito de alegaciones complementarias y previas las comprobaciones oportunas, se acuerde el sobreseimiento del expediente sancionador iniciado con todos los pronunciamientos favorables al interesado.
+
+En [LUGAR], a [FECHA].
+
+Firma del interesado:

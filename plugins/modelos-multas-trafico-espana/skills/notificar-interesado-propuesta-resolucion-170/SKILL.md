@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,46 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0170 · Notificar al interesado la propuesta de resolución
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 13 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Por el titular del órgano instructor, con fecha [FECHA], se ha dictado la siguiente propuesta de resolución en expediente sancionador en materia de circulación de vehículos a motor, tráfico y seguridad vial:
+
+"Visto el expediente número [Nº DE PROCEDIMIENTO]/[AÑO], seguido en este Centro Directivo a [COMPLETAR], DNI número [DNI/NIE], con domicilio en [LOCALIDAD], calle o plaza [COMPLETAR], como responsable de una infracción administrativa de la legislación reguladora del tráfico, circulación de vehículos a motor y seguridad vial, resulta:
+
+Primero. Mediante denuncia de fecha [FECHA], que se notificó en el acto al infractor, formulada por agente encargado de la seguridad del tráfico, se puso en conocimiento de este órgano administrativo la realización de los siguientes hechos:
+
+Segundo. Frente a la denuncia formulada, dentro del plazo establecido, por el inculpado se presentó escrito de descargos y alegaciones, de fecha [FECHA], en el que se manifestaba lo siguiente:
+
+Tercero. Estas manifestaciones realizadas por el inculpado deben desestimarse por cuanto que ha resultado probado que no desvirtúan la acusación realizada, ni el fundamento de la imputación ni su responsabilidad en los hechos denunciados:
+
+Estas manifestaciones realizadas por el inculpado deben estimarse en su totalidad por cuanto acreditan la falta de adecuación de los hechos imputados a la realidad sucedida, su calificación jurídica y la responsabilidad del interesado los hechos consignados en la denuncia.
+
+Estas manifestaciones realizadas por el interesado en su descargo deben estimarse en parte, por haber resultado probadas, y proceder, en consecuencia, a moderar la sanción inicialmente propuesta en atención a la gravedad y trascendencia del hecho, los antecedentes del infractor o el peligro potencial creado.
+
+Vistos los antecedentes mencionados y de conformidad con las previsiones de los arts. 95.3 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial y 13 del Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial, procede adoptar la siguiente
+
+PROPUESTA DE RESOLUCIÓN
+
+Primero. Sancionar a [COMPLETAR], como responsable de la infracción administrativa prevista en el artículo [COMPLETAR] del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, con la sanción de [COMPLETAR].
+
+Segundo. Dese traslado de la presente propuesta de resolución al interesado para que en un plazo de [Nº] días (no superior a quince ni inferior a diez) y con vista del expediente, pueda alegar lo que estime pertinente y presentar los documentos que tenga por oportunos.- (Lugar, fecha y firma).- EL INSTRUCTOR,"
+
+Lo que notifico a usted, en cuanto inculpado en el expediente, manifestándole que frente a esta propuesta de resolución puede presentar alegaciones documentos e informaciones, en el plazo de QUINCE DIAS, durante los cuales queda de manifiesto el expediente.
+
+A esta notificación se acompaña una relación de los documentos obrantes en el expediente a fin de que pueda obtener copia de los que estime convenientes.
+
+Una vez presentadas las alegaciones a que se refiere el apartado segundo de la propuesta de resolución cuyo texto íntegro se transcribe, o en caso de no presentar alegaciones en el plazo establecido, se dictará la resolución definitiva que corresponda.
+
+En [LUGAR], a [FECHA].
+
+Firma del secretario:

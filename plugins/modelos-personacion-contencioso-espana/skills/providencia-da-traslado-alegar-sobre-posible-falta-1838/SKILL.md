@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -48,7 +48,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -56,3 +56,36 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1838 · Providencia que da traslado para alegar sobre la posible falta de jurisdicción
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: restos de formato retirados; notas del formulario agrupadas al final (1); 4 campos de relleno marcados en blanco; 2 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Providencia del Tribunal concediendo a las partes y al Ministerio Fiscal un plazo de diez días para que aleguen lo que estimen oportuno respecto de la falta de jurisdicción apreciada de oficio por el órgano jurisdiccional, pudiendo interponer recurso de reposición frente a esa resolución.
+
+PROVIDENCIA
+
+En [LUGAR], a [FECHA].
+
+El anterior escrito de interposición de recurso, presentado por [ÓRGANO O PERSONA], regístrese. Se designa como ponente (1) al Ilmo. Sr./Sra. D./Dña. [NOMBRE Y APELLIDOS]. Pudiendo no corresponder a la jurisdicción contencioso administrativa el conocimiento de las pretensiones suscitadas en el litigio, dése traslado a la parte recurrente, a la Administración recurrida y al Ministerio Fiscal, por plazo de DIEZ días, para que aleguen lo que a su derecho convenga. Doy fe.
+
+NOTIFICACIÓN
+
+En [LUGAR], a [FECHA].
+
+Teniendo a mi presencia a la representación de las partes personadas les notifico en legal forma la anterior resolución, a la vez que les pongo de manifiesto que contra la misma cabe interponer recurso de reposición en el plazo de CINCO días ante este mismo órgano.
+
+Y enterados de ello firman conmigo. Doy fe.
+
+Firma del Juez/a:	Firma del Letrado/a de la Administración de Justicia:
+
+NOTAS DEL FORMULARIO
+
+(1) En el caso de que la resolución se dicte en un Tribunal de lo Contencioso no se designa Ponente ya que al ser órgano unipersonal es siempre el titular o su sustituto en su caso el que resuelve. Toda resolución debe ser notificada a las partes personadas y a aquellas que pueda afectar, mediante lectura de la misma y entrega de copia. Las cuestiones de competencia se podrán apreciar de oficio o a instancia de parte; en este último caso será un escrito de la parte demandada el que inicie el incidente, escrito que deberá ser fundado e indicará el órgano judicial que estime competente.

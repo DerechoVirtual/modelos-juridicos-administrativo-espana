@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -61,7 +61,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -69,3 +69,38 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0628 · Pedir el archivo por caducidad
+
+- Año del modelo: 2010
+- Revisión 17-11-2026: 7 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./D.ª [NOMBRE Y APELLIDOS] mayor de edad, con DNI número [DNI/NIE], cuyas demás circunstancias ya constan en el procedimiento seguido con el número [Nº DE PROCEDIMIENTO], ante ese órgano comparezco y como mejor proceda en Derecho DIGO:
+
+Que habiendo transcurrido los plazos para resolver el procedimiento de referencia sin que haya sido notificado de resolución alguna, por medio del presente escrito solicito que se dicte resolución de archivo del procedimiento por caducidad, en base a los siguientes HECHOS Y FUNDAMENTOS:
+
+PRIMERO.- El presente procedimiento se inició en fecha [FECHA], sin que hasta este momento se me haya notificado resolución alguna, por lo que han transcurrido más de seis meses desde su iniciación, plazo máximo para resolver, y notificar, con carácter general, según dispone el art. 21.2 de la Ley 39/2015.
+
+Atendido que ha transcurrido el plazo fijado legalmente para resolver, solicito que se acuerde el archivo del procedimiento por caducidad, al amparo de los artículos 21, 25 y 95 de la Ley 39/2015.
+
+En desarrollo de esta solicitud de archivo y a fin de evidenciar su procedencia, debo alegar el artículo 21.3.a) de la Ley 39/2015, el cual [COMPLETAR], establece que el plazo máximo en el que debe notificarse la resolución expresa se contará, en los procedimientos iniciados de oficio, "desde la fecha del acuerdo de iniciación", por lo que el "dies a quo" para el cómputo del plazo es el de la fecha del acuerdo de iniciación, y no el de su notificación, según ha refrendado el Tribunal Supremo en Sentencia de 28 de mayo de 2008, entre otras.
+
+En cuanto al "dies ad quem", con igual claridad establece el artículo 25.1.b) de la Ley 39/2015, que en los procedimientos iniciados de oficio en los que la Administración ejercite potestades de intervención susceptibles de producir efectos desfavorables o de gravamen, como es el caso, el vencimiento de ese plazo máximo sin que se haya dictado y notificado resolución expresa produce, como efecto jurídico, el de la caducidad y consiguiente archivo de las actuaciones, con los efectos previstos en el artículo 95 de la propia LPAC.
+
+En consecuencia, dado que han transcurrido más de seis meses desde la fecha del acuerdo de iniciación del procedimiento el día [FECHA], sin que hasta este momento haya sido notificada a esta parte la resolución que pone fin al procedimiento, debe acordarse el archivo sin más trámites, de conformidad a lo ordenado y con los efectos establecidos en los artículos 21, 25 y 95 de la Ley 39/2015.
+
+Por lo expuesto,
+
+SOLICITO que tenga por formulada esta solicitud y, en su virtud, acuerde el archivo del procedimiento de referencia por caducidad del mismo, acordando su archivo de conformidad con el artículo 95 de la Ley 39/2015.
+
+Es justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Firmado.
+
+ÓRGANO, UNIDAD O CARGO ADMINISTRATIVO AL QUE SE DIRIGE EL ESCRITO

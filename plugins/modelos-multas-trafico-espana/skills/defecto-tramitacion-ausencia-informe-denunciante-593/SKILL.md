@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -53,7 +53,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -61,3 +61,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0593 · Defecto de tramitación: ausencia de informe del denunciante
+
+- Año del modelo: 2011
+- Revisión 17-11-2026: 7 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA JEFATURA PROVINCIAL DE TRÁFICO
+
+DON [COMPLETAR], mayor de edad, con DNI [DNI/NIE] y domicilio [COMPLETAR] en [LOCALIDAD], ante el órgano mencionado comparezco y, como mejor proceda en Derecho, DIGO:
+
+Que en relación al expediente [COMPLETAR] formulo, en tiempo y forma oportuno, las siguientes ALEGACIONES
+
+PRIMERA.- El día [FECHA] formulé alegaciones a la incoación/denuncia del expediente sancionador mencionado.
+
+En la posterior tramitación del expediente no consta que el Agente denunciante haya procedido a realizar informe alguno.
+
+SEGUNDA.- El art. 95.2 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, dispone que "si las alegaciones formuladas aportasen datos nuevos o distintos de los constatados por el Agente denunciante, y siempre que se estime necesario por el instructor, se dará traslado de aquéllas al Agente para que informe en el plazo de quince días naturales".
+
+En el presente caso se formularon, en tiempo y forma, las oportunas alegaciones en los que se aportaba datos que, sin lugar a dudas, tienen que ser calificados como "nuevos o distintos" en relación a los constatados y aportados por el Agente denunciante, motivo por el cual, y en virtud de lo establecido en el referido art. 95.2 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, resulta preceptivo para el instructor del expediente sancionador, dar traslado de esas alegaciones al Agente denunciante para que este, en el plazo de quince días naturales, proceda a realizar el oportuno informe.
+
+La situación expuesta supone la vulneración de las garantías procedimentales establecidas por la Ley de Tráfico y, conforme a lo establecido en el art. 83 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, ello supone que no se puede imponer sanción alguna.
+
+Por lo anteriormente expuesto, SOLICITO:
+
+Que, habiendo por presentado este escrito, se sirva admitirlo, tenga por formulada la precedente alegación y, tras los trámites legales pertinentes, resuelva el archivo del expediente sancionador, ya que es de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma

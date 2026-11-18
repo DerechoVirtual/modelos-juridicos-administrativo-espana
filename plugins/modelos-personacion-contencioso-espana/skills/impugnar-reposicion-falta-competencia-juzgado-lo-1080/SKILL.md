@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -64,7 +64,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -72,3 +72,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1080 · Impugnar la reposición por falta de competencia del Juzgado de lo Contencioso
+
+- Año del modelo: 2008
+- Revisión 17-11-2026: 1 desplegables convertidos en elección en blanco; 9 campos de relleno marcados en blanco; encabezamiento adaptado a los Tribunales de Instancia (LO 1/2025); 5 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015); 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA SECCIÓN DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+[NOTA DE REVISIÓN: desde el 31-12-2025 los Juzgados de lo Contencioso-administrativo son Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia (LO 1/2025, DA 1.ª y DT 1.ª; LOPJ arts. 84 y 93). Si el asunto ya está repartido, indicar la plaza, que conserva el número del antiguo Juzgado.]
+
+AUTOS DE RECURSO CONTENCIOSO ADMINISTRATIVO Nº [Nº DE PROCEDIMIENTO]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales, actuando en nombre y representación de [NOMBRE DEL REPRESENTADO/A], parte [ELEGIR: demandada / codemandada] en el presente recurso contencioso administrativo, representación que tengo debidamente acreditada en los autos, por el presente escrito, como mejor proceda en derecho,
+
+DIGO
+
+Que por el/la Letrado/a de la Administración de Justicia de ese Tribunal de Instancia (Sección de lo Contencioso-Administrativo) al que tiene el honor de dirigirse se le ha dado traslado, por término de tres días, por resolución de [FECHA], al amparo de lo establecido en el art. 79.4 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa (en adelante, LJCA), del escrito del actor por el que interponía recurso de reposición contra el Auto de [FECHA], por el que dicho Tribunal declaraba, con fundamento en el art. 7.3 de la LJCA, su falta de competencia.
+
+Que, cumpliendo el traslado conferido, me opongo al citado recurso, por estimar que los Tribunales de Instancia (Secciones de lo Contencioso-Administrativo) de [LOCALIDAD] no son los competentes para la tramitación y conocimiento del recurso interpuesto, según se desprende del juego de los arts. 8 y 14 de la LJCA.
+
+Más concretamente, esta parte estima que [COMPLETAR].
+
+Por lo expuesto,
+
+SUPLICO de ese Tribunal
+
+que admita el presente escrito, con las copias que se acompañan, se me tenga por opuesto en tiempo y forma al recurso de reposición deducido de contrario contra el Auto de [FECHA], por el que ese Tribunal acordaba su falta de competencia para el conocimiento del litigio, interesando que dicte un nuevo Auto en el que confirme en todos sus aspectos el impugnado.
+
+Es Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de Abogado/a	Firma de Procurador/a

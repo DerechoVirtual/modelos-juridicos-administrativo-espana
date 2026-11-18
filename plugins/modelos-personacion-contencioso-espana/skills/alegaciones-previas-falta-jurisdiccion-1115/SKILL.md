@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -59,7 +59,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -67,3 +67,38 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1115 · Alegaciones previas: falta de jurisdicción
+
+- Año del modelo: 2008
+- Revisión 17-11-2026: 2 llamadas a nota sin texto retiradas; 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 5 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Al [COMPLETAR].
+
+AUTOS DE RECURSO NÚMERO [Nº DE PROCEDIMIENTO]
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Caso de representación por procurador/a / Caso de representación por Abogado/a / Caso de funcionario/a en defensa de sus derechos estatutarios — el texto de cada opción no venía en el formulario original]
+
+DIGO
+
+Que por el órgano judicial al que tiene el honor de dirigirse se le ha dado traslado de la demanda, conforme a lo dispuesto en los arts. 54 y 56 de la LJCA, con entrega del expediente administrativo, para que, en término de veinte días proceda a la formulación de escrito de contestación a la misma.
+
+Que, no obstante, dentro de los primeros cinco días del plazo conferido, en trámite de alegaciones previas, opongo, como motivo de inadmisión del art. 69 de la LJCA, al que remite en forma expresa el 58 anterior, la falta de jurisdicción del orden contencioso administrativo para conocer de la pretensión entablada por el recurrente, todo ello en atención a que [COMPLETAR].
+
+Que el art. 5 de la LJCA establece que la jurisdicción contencioso-administrativa es improrrogable, y en su apartado 3 establece que la declaración de falta de jurisdicción será fundada y se efectuará indicando siempre el concreto orden jurisdiccional que se estime competente.
+
+Por todo ello, y al amparo de los arts. 5.3 y 59.4 de la LJCA,
+
+SOLICITA
+
+Del [COMPLETAR], que dicte auto declarando su falta de jurisdicción, y que actúe en la forma descrita en el párrafo 3 del art. 5 de la LJCA.
+
+Por ser de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de Abogado/a	Firma de Procurador/a

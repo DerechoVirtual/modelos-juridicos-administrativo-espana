@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -70,7 +70,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -78,3 +78,48 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1914 · Alegaciones por incumplir el plazo máximo para resolver
+
+- Año del modelo: 2012
+- Revisión 17-11-2026: 1 párrafos opcionales señalados; 14 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Escrito de alegaciones del interesado denunciando el incumplimiento de resolver el procedimiento en el plazo máximo debido, y solicitando se dicte la preceptiva resolución expresa.
+
+D./Dña. [NOMBRE Y APELLIDOS] con DNI n.º [DNI/NIE],
+
+con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA]
+
+con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], CP [C.P.],
+
+en relación con el expediente administrativo número [Nº DE PROCEDIMIENTO]/[AÑO] Referencia [COMPLETAR], en el que es parte interesada,
+
+EXPONE
+
+Primero.- Con fecha [FECHA] se ha iniciado este procedimiento administrativo, estando actualmente tramitándose por el órgano instructor [COMPLETAR]
+
+Segundo.- El plazo máximo de tramitación, resolución y notificación de la resolución del presente procedimiento es de [Nº] meses.
+
+Tercero.- En fecha [FECHA] ha vencido este plazo sin que se haya dictado la debida resolución expresa, incumpliendo así esta Administración Pública lo dispuesto en el artículo 21.1 y 5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En virtud de lo expuesto,
+
+SOLICITA:
+
+Tenga por presentado este escrito y sirva admitirlo, y se dicte inmediatamente la preceptiva resolución expresa, de conformidad con lo dispuesto en los artículos 21 y 88 de la Ley 39/2015, notificándose a esta parte.
+
+[OPCIONAL — incluir si procede]
+
+OTROSÍ DICE:
+
+Se acuerde por el órgano administrativo competente la incoación de expediente informativo o disciplinario, en su caso, al empleado público responsable de la infracción del plazo legalmente exigido, de conformidad con lo dispuesto en el artículo 21.6 de la Ley 39/2015.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

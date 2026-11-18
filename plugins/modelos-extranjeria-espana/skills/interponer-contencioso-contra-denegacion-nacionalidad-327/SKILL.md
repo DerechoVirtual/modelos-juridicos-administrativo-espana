@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0327 · Interponer contencioso contra la denegación de nacionalidad
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 1 párrafos opcionales señalados; 9 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D/Dña. [NOMBRE Y APELLIDOS] Procurador/a de los Tribunales, actuando en nombre y representación de [NOMBRE DEL REPRESENTADO/A], según copia de poder general para pleitos que acompaño adjunta, solicitando que, una vez testimoniada y por necesitarla para otros usos me sea devuelta, por el presente escrito, al amparo del art. 45 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa (en adelante, LJCA),
+
+COMPAREZCO Y DIGO
+
+Que en tiempo y forma interpongo recurso contencioso administrativo contra la resolución del Ministerio de Justicia de fecha [FECHA] por la que se le denegó la nacionalidad española por residencia a su defendido, D./Dña. [NOMBRE Y APELLIDOS] porque [COMPLETAR].
+
+Por lo anteriormente expuesto,
+
+SUPLICO
+
+de [COMPLETAR] que tenga por presentado este escrito, en unión de los documentos que lo acompañan, tenga por interpuesto en tiempo y forma recurso contencioso administrativo contra la resolución de denegación de nacionalidad por residencia más arriba identificada, y dé al recurso la tramitación legalmente prevista.
+
+PRIMER OTROSÍ Adjunto acompaño al presente escrito de interposición, conforme a las determinaciones del art. 45.2 LJCA, los siguientes documentos:
+
+1º.- Copia del poder otorgado y acreditativo de la representación del compareciente.
+2º.- [COMPLETAR]
+3º.- Copia del acto impugnado.
+
+[OPCIONAL — incluir si procede]
+
+SEGUNDO OTROSÍ De conformidad con el art. 129.2 de la LJCA, solicito la adopción de medida cautelar consistente en [DESCRIBIR], por cuanto la ejecución del acto recurrido determinaría la pérdida de su finalidad legítima al recurso. En concreto
+
+Por ser de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de Abogado/a	Firma de Procurador/a

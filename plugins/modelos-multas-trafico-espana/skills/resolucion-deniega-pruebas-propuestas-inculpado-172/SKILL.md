@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,32 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0172 · Resolución que deniega las pruebas propuestas por el inculpado
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 llamadas a nota sin texto retiradas; 1 desplegables convertidos en elección en blanco; 9 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Visto el escrito de proposición de pruebas de fecha [FECHA], presentado por el/la inculpado/a D./Dña. [NOMBRE Y APELLIDOS], al expediente número [Nº DE EXPEDIENTE], seguido en esta [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR], como consecuencia de la denuncia de fecha [FECHA], formulada por agente de la autoridad.
+
+Resultando que los hechos imputados están reflejados con toda evidencia en el boletín de denuncia y en la ratificación posterior del agente encargado de la vigilancia del tráfico en los siguientes términos:
+
+Considerando que la prueba propuesta por el interesado consistente en [DESCRIBIR], con objeto de acreditar que [COMPLETAR], es improcedente por cuanto que lo que pretende demostrar no tiene relevancia para la determinación de los hechos, ni su calificación jurídica, ni en la atribución de posibles responsabilidades, por las siguientes razones:
+
+Vistos los antecedentes mencionados, de conformidad con el artículo 13 del Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial, he tenido a bien
+
+RESOLVER:
+
+Primero.- Se declara improcedente la prueba propuesta consistente en [DESCRIBIR], por cuanto no es determinante para la averiguación y calificación de los hechos o para la determinación de las posibles responsabilidades en el expediente sancionador.
+
+Segundo.- Notifíquese la presente resolución al interesado con la indicación de que contra la misma, por ser de mero trámite, no cabe recurso alguno.
+
+En [LUGAR], a [FECHA].
+
+Firma del instructor:

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -64,7 +64,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -72,3 +72,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0209 · Contestar excusando la identificación del conductor responsable
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 1 llamadas a nota sin texto retiradas; 1 desplegables convertidos en elección en blanco; 20 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (HORA)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, DNI número [DNI/NIE], con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA] y con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], CP [C.P.], ante la [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR], órgano administrativo competente, como mejor proceda, comparece y
+
+EXPONE:
+
+Que con fecha [FECHA], ha recibido un "requerimiento de identificación de responsable" de fecha [FECHA], procedente de ese órgano administrativo, en el que se le conmina a comunicar la identidad del posible autor de una infracción administrativa de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial.
+
+Que, en virtud de este escrito, y de conformidad con las indicaciones de ese órgano administrativo, procede a dar contestación al requerimiento antes mencionado en los siguientes términos:
+
+Que no le ha resultado posible, pese a las múltiples gestiones realizadas al respecto, poder determinar con la certeza debida la identidad del conductor que cometió la infracción descrita, con el vehículo cuya titularidad registral le corresponde, el día [FECHA], a las [HORA] horas en [COMPLETAR], vía pública o espacio vial referenciado.
+
+Que para determinar la identidad del conductor del vehículo se han realizado las siguientes actuaciones y se ha preguntado a D./Dña. [NOMBRE Y APELLIDOS], DNI [DNI/NIE], con domicilio en [LOCALIDAD], y a D./Dña. [NOMBRE Y APELLIDOS], DNI [DNI/NIE], domiciliado en [COMPLETAR], y a todos los posibles usuarios del mismo, obteniendo de todos ellos explicación suficiente negativa de su participación en la infracción cometida, en los siguientes términos:
+
+Que esta imposibilidad de identificación, constituye causa justificada, ya que no es exigible a este titular registral del vehículo la realización de más diligencias de averiguación que las realizadas en orden a determinar la identidad del usuario del vehículo en el día y hora mencionados.
+
+Que no obstante haber resultado infructuosas las gestiones realizadas para la identificación del conductor responsable, este titular del vehículo queda a disposición de ese órgano administrativo para continuar realizando cuantas diligencias le sean indicadas para la más adecuada resolución del expediente.
+
+Por lo expuesto, de conformidad con las previsiones del artículo 93.1 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, en relación con el artículo 18 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
+
+SOLICITA:
+
+Que se admita a trámite este escrito y, previas las comprobaciones que procedan, se tenga por contestado en los términos expuestos el requerimiento de identificación del conductor responsable de la infracción cometida, dando por cumplido el deber de colaboración exigible al titular del vehículo con la Administración Pública para la persecución de las infracciones de tráfico.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,32 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1815 · Orden al infractor de entregar el documento de la autorización suspendida
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: restos de formato retirados; notas del formulario agrupadas al final (1); 4 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de orden por la que las Administraciones Públicas requieren al infractor sancionado, haga entrega de la autorización administrativa suspendida con el fin de dar cumplimiento a la resolución sancionadora, de acuerdo a lo dispuesto en el artículo 20.2 del Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial.
+
+Mediante resolución de fecha [FECHA], dictada por la Jefatura Provincial de Tráfico de [LOCALIDAD], en expediente sancionador número [Nº DE PROCEDIMIENTO]/[AÑO], seguido contra usted como responsable de una infracción administrativa, se ha acordado la suspensión de la autorización administrativa para [COMPLETAR], durante el plazo que en la misma se establece (1).
+
+La citada resolución ha adquirido firmeza en vía administrativa por no haberse interpuesto recurso administrativo contra la misma en el plazo establecido o por haberse desestimado el recurso interpuesto.
+
+Procede ahora ejecutar la citada resolución sancionadora, en lo que a la privación de la citada autorización se refiere, para lo cual se le ordena que entregue el documento acreditativo de la autorización suspendida al Agente de la Autoridad portador de este requerimiento.
+
+De conformidad con el artículo 20 del Real Decreto 320/1994, de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial, se le apercibe de que en caso de desobediencia a esta orden, se pasará el tanto de culpa a la autoridad judicial a los efectos oportunos.
+
+En [LUGAR], a [FECHA].
+
+Firmado:
+
+NOTAS DEL FORMULARIO
+
+(1) Art. 109 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y art. 20.2 del RD 320/1994.

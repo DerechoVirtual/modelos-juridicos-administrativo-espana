@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -79,7 +79,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -87,3 +87,56 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1740 · Recurso extraordinario de revisión contra sanciones de tráfico
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: restos de formato retirados; notas del formulario agrupadas al final (1); 1 desplegables convertidos en elección en blanco; 4 párrafos opcionales señalados; 13 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de escrito de interposición del recurso administrativo extraordinario de revisión por la concurrencia, en la resolución sancionadora en materia de tráfico, de alguno de los motivos previstos en el artículo 125 LPACAP. Actualizado a TR LTCVMSV y a Leyes 39 y 40/2015, de 1 de octubre.
+
+A LA [ELEGIR: JEFATURA DE TRÁFICO / ALCALDÍA] DE [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, DNI número [DNI/NIE], con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA] y con domicilio en [LOCALIDAD], calle [CALLE], número [NÚMERO], provincia [PROVINCIA], CP [C.P.], ante la Jefatura de Tráfico (or: Alcaldía) de [COMPLETAR], como mejor proceda comparece y
+
+DICE:
+
+Que por medio de este escrito interpone RECURSO EXTRAORDINARIO DE REVISIÓN contra la resolución de fecha [FECHA], dictada por [ÓRGANO O PERSONA], que pone fin a la vía administrativa, y que se fundamenta en el siguiente motivo de revisión de conformidad con las causas establecidas en el artículo 125 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (1):
+
+[OPCIONAL — incluir si procede]
+
+Que al dictarlo se ha incurrido en error de hecho, que resulta de los propios documentos incorporados al expediente.
+
+[OPCIONAL — incluir si procede]
+
+Que han aparecido o aportado documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencian el error de la resolución recurrida.
+
+[OPCIONAL — incluir si procede]
+
+Que en la resolución han influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme anterior o posterior a aquella resolución.
+
+[OPCIONAL — incluir si procede]
+
+Que la resolución se ha dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible, y se haya declarado así en virtud de sentencia judicial firme.
+
+Que la causa de revisión invocada concurre en la resolución sancionadora en materia de tráfico, y así se acredita, mediante los siguientes medios de prueba:
+
+Por lo expuesto, y de conformidad con las previsiones de los artículos 125 y 126 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
+
+SOLICITA:
+
+Que se admita a trámite este escrito de interposición de recurso extraordinario de revisión y se dicte resolución por la que se declare la nulidad del acto administrativo impugnado, declarando no haber lugar a la exigencia de responsabilidad como consecuencia del expediente sancionador referenciado.
+
+En [LUGAR], a [FECHA].
+
+Firmado:
+
+NOTAS DEL FORMULARIO
+
+(1) Los arts. 125 y 126 LPACAP regulan un recurso extraordinario de revisión que sólo procede en supuestos y por motivos tasados. Constituye un remedio excepcional frente a ciertos actos que han ganado firmeza, pero de cuya legalidad se duda en base a datos o acaecimientos sobrevenidos con posterioridad al momento en que fueron dictados. La simple contemplación de los cuatro motivos del art. 125 LPACAP, pone de inmediato la falta de rigor técnico de que adolece la actual configuración del recurso, que, en su conjunto, constituye una duplicación innecesaria de la acción de nulidad del art. 106 LPACAP. Así resulta, por lo demás, de lo dispuesto en el art. 125.3 LPACAP, según el cual "lo establecido en el presente artículo no perjudica en derecho de los interesados a formular la solicitud y la instancia a que se refieren los arts. 106 y 109.2 de la presente Ley, ni su derecho a que las mismas se sustancien y resuelvan". El plazo para interponerlo es de cuatro años en caso de error de hecho y de tres meses en los demás casos y el plazo para resolverlo también es de tres meses. El órgano al que corresponde conocer del recurso extraordinario de revisión debe pronunciarse no sólo sobre la procedencia del recurso, sino también, en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido. Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin que recaiga resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa (art. 126 LPACAP).

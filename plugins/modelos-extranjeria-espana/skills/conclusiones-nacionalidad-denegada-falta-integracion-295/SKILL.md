@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -47,7 +47,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -55,3 +55,50 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0295 · Conclusiones: nacionalidad denegada por falta de integración
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 4 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Procedimiento Ordinario/20
+
+A LA SALA DE LO CONTENCIOSO ADMINISTRATIVO DE LA AUDIENCIA NACIONAL
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales en nombre y representación de D./Dña. [NOMBRE Y APELLIDOS], según consta acreditado en los autos arriba referenciados, mediante el presente escrito ante la Sala comparezco y DIGO
+
+Que habiéndoseme notificado en fecha [FECHA] providencia por la que se emplaza a esta parte a fin de presentar escrito de conclusiones, mediante el presente escrito y dentro del plazo establecido presento las siguientes:
+
+CONCLUSIONES
+
+PRIMERA.- Del resultado de las pruebas realizadas ha quedado claramente acreditado que el recurrente tiene un elevado grado de integración social, según la documentación aportada y el testimonio de los testigos, que han demostrado que mi representado no sólo lleva una conducta irreprochable en España, sino que está involucrado de forma altruista en actividades sociales y comunitarias que avalan su interés en el buen funcionamiento de nuestra sociedad.
+
+Debe resaltarse, además, el hecho de que la propia Administración emitiera en su momento un informe de integración social favorable gracias al cual le fue concedida la autorización de residencia por arraigo social en España.
+
+SEGUNDA.- Frente a la contundencia de las pruebas aportadas, no puede considerarse suficiente para considerar que mi representado no acreditaba un suficiente grado de integración en nuestra sociedad el mero informe del Juez encargado del Registro Civil estimándolo así, máxime cuando no ha sido posible conocer el contenido de la entrevista ni de las preguntas que allí se formularon y que habría que valorar en su conjunto para ver si dicha estimación del Juez encargado del Registro Civil estaba suficientemente motivada.
+
+En todo lo demás, nos remitimos a los hechos de la demanda, reiterando la solicitud de revocación de la resolución recurrida y la solicitud de condena en costas a la Administración demandada.
+
+A los anteriores hechos son de aplicación los siguientes:
+
+FUNDAMENTOS DE DERECHO
+
+Se reiteran los fundamentos recogidos en la demanda, especialmente la Sentencia de la Audiencia Nacional de [LOCALIDAD]
+
+En su virtud, SUPLICO A LA SALA que, teniendo por presentado este escrito, con sus copias, se sirva admitirlo; y por presentado el escrito de conclusiones, se acuerde declarar el pleito concluso para sentencia, y dictar sentencia revocando la resolución recurrida y declarando el derecho de mi representado a la concesión de la nacionalidad española por residencia, con expresa imposición de costas a la Administración.
+
+Por ser Justicia que reitero en lugar y fecha ut supra.
+
+Fdo:
+
+Procurador/a
+
+Fdo:
+
+Abogado/a

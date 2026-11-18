@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -54,7 +54,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -62,3 +62,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0250 · Queja por defectos de tramitación
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 8 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Expediente nº [Nº DE EXPEDIENTE]
+
+Asunto [COMPLETAR]
+
+Procedimiento [COMPLETAR]
+
+Que con fecha [FECHA] interpuse ante [ÓRGANO] reclamación (o petición) a fin de que [COMPLETAR] Se adjunta copia simple de dicho escrito.
+
+Al regular los derechos y garantías de los obligados tributarios, el artículo 34 de la Ley 58/2003, de 17 de diciembre, General Tributaria, entre otros, reconoce el derecho a formular quejas y sugerencias en relación con el funcionamiento de la Administración tributaria.
+
+En su apartado 2, el citado artículo 34 LGT, establece que, integrado en el Ministerio de Hacienda, el Consejo para la Defensa del Contribuyente velará por la efectividad de los derechos de los obligados tributarios, atenderá las quejas que se produzcan por la aplicación del sistema tributario que realizan los órganos del Estado y efectuará las sugerencias y propuestas pertinentes, en la forma y con los efectos que reglamentariamente se determinen.
+
+Por su parte, el artículo 76.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Adminitrativo Común de las Administraciones Públicas, indica que en todo momento podrán los interesados alegar los defectos de tramitación y, en especial, los que supongan paralización, infracción de los plazos preceptivamente señalados o la omisión de trámites que pueden ser subsanados antes de la resolución definitiva del asunto. Dichas alegaciones podrán dar lugar, si hubiere razones para ello, a la exigencia de la correspondiente responsabilidad disciplinaria.
+
+Que al amparo de lo dispuesto en la normativa indicada, vengo a formular QUEJA contra los defectos de tramitación consistentes en [DESCRIBIR]
+
+Por lo expuesto
+
+SOLICITO: Tenga por presentado este escrito con los documentos que se acompañan y, en su virtud, tenga interpuesta queja contra los defectos de tramitación que se señalan en relación con la petición (o reclamación) de fecha [FECHA] y en su virtud ordene lo necesario, para la inmediata subsanación de tales defectos.
+
+ÓRGANO, UNIDAD O CARGO ADMINISTRATIVO

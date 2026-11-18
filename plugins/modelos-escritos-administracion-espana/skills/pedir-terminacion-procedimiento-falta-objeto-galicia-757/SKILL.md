@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0757 · Pedir la terminación del procedimiento por falta de objeto (Galicia)
+
+- Año del modelo: 2009
+- Revisión 17-11-2026: 7 campos de relleno marcados en blanco; encabezamiento adaptado a los Tribunales de Instancia (LO 1/2025)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+[ELEGIR: A LA SECCIÓN DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL DE INSTANCIA DE [SEDE] – PLAZA N.º [Nº] / A LA SALA DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL SUPERIOR DE JUSTICIA DE [COMUNIDAD AUTÓNOMA]]
+
+[NOTA DE REVISIÓN: desde el 31-12-2025 los Juzgados de lo Contencioso-administrativo son Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia (LO 1/2025, DA 1.ª y DT 1.ª; LOPJ arts. 84 y 93). Si el asunto ya está repartido, indicar la plaza, que conserva el número del antiguo Juzgado.]
+
+DON/DOÑA [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales y, en el procedimiento ordinario núm. [Nº], de [COMPLETAR], ante el órgano judicial mencionado comparezco y, como mejor en Derecho proceda, digo:
+
+Que, en virtud del presente escrito, insto la terminación del procedimiento por falta o pérdida del objeto del mismo, sobre la base de las siguientes,
+
+ALEGACIONES
+
+Primero.- El presente procedimiento se inició y tiene por objeto el presente acto o disposición:
+
+dictado bajo la cobertura de la Ley 2/2016, de 10 de febrero, del suelo de Galicia.
+
+Segundo.- Con posterioridad,
+
+- se ha dictado resolución judicial, en virtud de la cual el citado acto o disposición ha sido objeto de declaración de nulidad firme.
+
+- se ha dictado nueva resolución o disposición derogatoria de la anterior, dejando sin efecto alguna la originaria.
+
+Tercero.- Procede, en consecuencia, de conformidad con la jurisprudencia contenida en las SSTS de 24 de marzo y 28 de mayo de 1997 o 29 de abril de 1998, así como en los arts. 25 y ss. y 74 y ss. de la LJCA, declarar terminado el procedimiento por falta de objeto.
+
+Por lo expuesto,
+
+SUPLICO AL [COMPLETAR] DE LO CONTENCIOSO-ADMINISTRATIVO DE [COMPLETAR] que, habiendo por presentado este escrito con los documentos que se acompañan, se sirva admitirlos y tenga por solicitada la terminación del procedimiento por falta de objeto y, tras los trámites legales pertinentes, dicte resolución declarando terminado el procedimiento, sin imposición de las costas, ya que así procede en Justicia que pido en [LUGAR], a [DÍA] de [MES] de [AÑO].

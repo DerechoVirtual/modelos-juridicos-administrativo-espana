@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,30 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0171 · Instructor que pide colaboración a otros órganos en el expediente sancionador
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 desplegables convertidos en elección en blanco; 8 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En la Unidad de Sanciones de esta [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR], se tramita expediente sancionador número [Nº DE PROCEDIMIENTO]/[AÑO], contra [ACTO O RESOLUCIÓN], como consecuencia de los siguientes hechos:
+
+Los hechos mencionados están considerados como infracción administrativa según el artículo [COMPLETAR] del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, sin embargo, no están suficientemente acreditados en los siguientes extremos:
+
+Por tanto y de conformidad con el procedimiento para el ejercicio de la potestad sancionadora, me dirijo a [COMPLETAR], para solicitarle lo siguiente:
+
+Que, en el menor tiempo posible, remita a la Unidad de Sanciones de esta Administración Pública los antecedentes y cuanta información obre en su poder sobre los hechos antes mencionados y la participación en ellos de las personas responsables.
+
+Por otra parte, también es de interés para el esclarecimiento del asunto, que se emita informe técnico sobre [DESCRIBIR] por personal cualificado dependiente de ese Centro Directivo.
+
+Todo ello sin perjuicio de cualquier otra información adicional que pueda prestarse por [COMPLETAR], al órgano instructor, para la más correcta tramitación del expediente sancionador referenciado.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

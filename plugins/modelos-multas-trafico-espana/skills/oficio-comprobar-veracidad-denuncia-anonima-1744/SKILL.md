@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -53,7 +53,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -61,3 +61,30 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1744 · Oficio para comprobar la veracidad de una denuncia anónima
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; restos de formato retirados; notas del formulario agrupadas al final (1); 1 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de oficio para requerir al órgano competente la comprobación de hechos referidos dentro de denuncia anónima y que pueden suponer un riesgo para la seguridad vial.
+
+Mediante escrito de denuncia sin identificación suficiente de la persona que lo ha presentado se ha puesto en conocimiento de este Centro Directivo la realización de los siguientes hechos (1):
+
+En cuanto denuncia anónima se ha decretado su archivo sin más trámite, de conformidad con las previsiones del artículo 9.2 del Real Decreto 320/1994 [NOTA DE REVISIÓN (comprobar): Archivo de denuncias anónimas: sin equivalente en el TR LSV; el art. 9.2 RD 320/1994 sigue formalmente vigente y no se opone a la ley. Fuente: RD 320/1994, BOE-A-1994-8985 art. 9.2.], de 25 de febrero, por el que se aprueba el Reglamento de procedimiento sancionador en materia de tráfico, circulación de vehículos a motor y seguridad vial. No obstante, los hechos a que hace referencia pueden suponer un riesgo para la seguridad vial, por lo que es necesaria su comprobación y subsanación en caso de ser ciertos, ya que afectan a la conservación de la vía pública o a su señalización.
+
+En su virtud, le dirijo el presente escrito a fin de que dé las instrucciones oportunas para que se proceda a la comprobación de los hechos mencionados por parte de los agentes encargados de la vigilancia y conservación de las vías públicas de su competencia.
+
+En [LUGAR], a [FECHA].
+
+Firmado:
+
+NOTAS DEL FORMULARIO
+
+(1) Las denuncias anónimas no son admisibles lo que, sin embargo, no impide que el órgano que ha recibido la información pueda disponer que se comprueben los hechos referenciados en la denuncia anónima ordenando a los agentes encargados de la vigilancia del tráfico la correspondiente inspección.

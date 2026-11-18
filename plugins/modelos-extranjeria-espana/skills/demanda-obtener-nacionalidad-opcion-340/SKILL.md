@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -50,7 +50,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -58,3 +58,42 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0340 · Demanda para obtener la nacionalidad por opción
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 10 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA SALA DE LO CONTENCIOSO-ADMINISTRATIVO DE LA AUDIENCIA NACIONAL
+
+D./Dña. [NOMBRE Y APELLIDOS], en nombre y representación de D./Dña. [NOMBRE Y APELLIDOS], según acredito mediante designación de oficio que adjunto como documento nº 1, mediante el presente escrito DIGO
+
+Mi representado solicitó la inscripción de la nacionalidad por opción de su hijo, [COMPLETAR]
+
+Dicha solicitud fue denegada mediante resolución de fecha [FECHA] de [COMPLETAR] de 20 [COMPLETAR]
+
+Contra dicha resolución se interpuso recurso de apelación, el cual fue desestimado mediante resolución de fecha [FECHA], copia de la cual se adjunta con el presente escrito como documento nº 2.
+
+Que mediante el presente escrito interpongo recurso contencioso-administrativo en relación con la citada resolución, de conformidad con lo dispuesto en la LJCA.
+
+Que la competencia para conocer de este asunto corresponde a la sala de lo Contencioso-Administrativo de la Audiencia Nacional, según lo dispuesto en el art. 11 de la LJCA.
+
+No obstante, para el supuesto de que no se entendiera así, procederá que se remitan las actuaciones al órgano jurisdiccional competente, en aplicación de lo dispuesto en el art. 7.3 de la LJCA.
+
+Por lo expuesto SUPLICO que, mediante el presente escrito, tenga por interpuesto recurso contencioso-administrativo contra resolución de la Dirección General de los Registros y del Notariado y, previos los trámites preceptivos, reclame el expediente administrativo de dicho organismo a fin de que me sea puesto de manifiesto para formalizar la demanda.
+
+Por ser Justicia que pido en Madrid a [COMPLETAR].
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+Procurador/a de los Tribunales
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+Letrado/a

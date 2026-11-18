@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0391 · Pedir modificar la autorización de residencia y trabajo
+
+- Año del modelo: 2013
+- Revisión 17-11-2026: 7 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Oficina Extranjería competente
+Organismo de la Comunidad Autónoma
+
+D./Dña. [NOMBRE Y APELLIDOS] nacional de [COMPLETAR], titular de autorización de residencia y trabajo temporal por cuenta ajena, con n.º [NÚMERO], con domicilio en [LOCALIDAD], expone en este Organismo.
+
+1. Posee residencia legal en España mediante la referida autorización de residencia y trabajo por cuenta ajena, con la que ha venido desempeñando actividades lucrativas, en la empresa [COMPLETAR] (Se adjunta Anexo I. Copia del contrato de trabajo).
+2. La vigencia de la esta tarjeta se extiende hasta el [FECHA].
+3. El administrado solicita la mutación del alcance laboral de su tarjeta, para obtener una autorización por cuenta propia, antes del término de su renovación.
+4. Que el artículo 192 del Real Decreto 1155/2024, de 19 de noviembre establece que:
+1. Durante el primer año de vigencia de las autorizaciones iniciales de residencia y trabajo, el órgano competente por razón del lugar donde se vaya a iniciar la relación laboral o la actividad por cuenta propia que motiva la solicitud, podrá modificar su alcance en cuanto a la ocupación, sector de actividad y ámbito territorial de limitación, siempre a petición de su titular.
+
+En el caso de que se trate de una modificación del alcance de una autorización de residencia temporal y trabajo por cuenta ajena, se tendrá en cuenta la situación nacional de empleo.
+
+Esta solicitud deberá resolverse y notificarse en el plazo máximo de un mes. Transcurrido dicho plazo sin resolución expresa se entenderá que ha sido concedida.
+
+2. Las personas titulares de una autorización de residencia y trabajo por cuenta ajena podrán acceder a una autorización de residencia y trabajo por cuenta propia. Para ello deberán presentar la correspondiente solicitud. La nueva autorización no ampliará la vigencia de la autorización modificada.
+5. El interesado acredita de esta forma el acaecimiento de los requisitos para la obtención de la modificación que interese en cada caso.
+
+Por todo ello solicita que sean acreditadas las circunstancias que justifiquen la modificación de la autorización de residencia y trabajo, para la mutación de su autorización de residencia laboral de cuenta ajena a propia, antes del término exigido de su renovación.
+
+En [LUGAR], a [FECHA].

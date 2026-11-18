@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0252 · Pedir que el procedimiento se instruya en castellano
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 16 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Expdte.- [COMPLETAR]
+
+Procedimiento
+
+D/Dª [NOMBRE Y APELLIDOS], mayor de edad, con DNI [DNI/NIE], con domicilio a efectos de notificaciones en [DOMICILIO A EFECTOS DE NOTIFICACIONES], o vía correo electrónico [CORREO ELECTRÓNICO], por medio del presente escrito, en su propio nombre y representación (o en representación de según poder) EXPONGO:
+
+1.- Que con fecha [FECHA], [COMPLETAR] (interpuse recurso de [COMPLETAR] contra [ACTO O RESOLUCIÓN]; solicité [COMPLETAR]; presenté reclamación de responsabilidad patrimonial contra [ACTO O RESOLUCIÓN]; etc.). Se adjunta copia de la primera página donde consta el registro de entrada.
+
+2.- Que en dicho escrito me expresé en castellano, toda vez que el artículo 13 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, reconoce, entre otros derechos de las personas en sus relaciones con las Administraciones Públicas, el derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en la propia LPAC y en el resto del ordenamiento jurídico.
+
+3.- Que en el presente procedimiento están también interesados D/Dª [NOMBRE Y APELLIDOS]; D./Dª [NOMBRE Y APELLIDOS]; y D/Dª [NOMBRE Y APELLIDOS], siendo que uno de ellos ha solicitado que el procedimiento se instruya en la otra lengua oficial de esta CA, esto es, en [COMPLETAR] (catalán, gallego,).
+
+4.- Que conforme al artículo 15 LPAC, en estos casos, al tratarse de un procedimiento tramitado por la Administración General del Estado, el procedimiento se tramitará en la lengua elegida por el interesado y “si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos”.
+
+Que por lo anterior y de conformidad con lo dispuesto en dicho precepto, solicito el cumplimiento de dicha obligación legal, debiendo tramitarse el procedimiento en castellano.
+
+Por todo lo expuesto,
+
+SOLICITO: Que se tenga por presentado este escrito, y se acuerde de conformidad, tramitando el procedimiento [COMPLETAR] en castellano.
+
+ÓRGANO, UNIDAD O CARGO ADMINISTRATIVO DE LA AGE AL QUE SE DIRIGE EL ESCRITO

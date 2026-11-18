@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -68,7 +68,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -76,3 +76,58 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0714 · Apelación contra sentencia que confirma una expulsión (extranjería)
+
+- Año del modelo: 2009
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; 1 párrafos opcionales señalados; 14 campos de relleno marcados en blanco; encabezamiento adaptado a los Tribunales de Instancia (LO 1/2025); 5 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015); 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA SECCIÓN DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+[NOTA DE REVISIÓN: desde el 31-12-2025 los Juzgados de lo Contencioso-administrativo son Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia (LO 1/2025, DA 1.ª y DT 1.ª; LOPJ arts. 84 y 93). Si el asunto ya está repartido, indicar la plaza, que conserva el número del antiguo Juzgado.]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales, en nombre y representación de [NOMBRE DEL REPRESENTADO/A], cuya representación tengo acreditada en el Recurso contencioso administrativo nº [Nº DE PROCEDIMIENTO]/[AÑO], interpuesto contra la resolución de fecha [FECHA] de la Subdelegación del Gobierno de [LOCALIDAD], ante el Tribunal comparezco y como mejor proceda en derecho DIGO:
+
+Que habiendo sido notificado del auto de fecha [FECHA], dictada en la presente pieza de medidas cautelares, interpongo contra el citado auto RECURSO DE APELACIÓN en base a los siguientes
+
+HECHOS
+
+PRIMERO.- Esta parte interpuso recurso contencioso-administrativo contra la resolución de fecha [FECHA]. de la Subdelegación del Gobierno de [LOCALIDAD]. en la que se acordaba imponer a mi representado, como autor de una infracción del art. de la Ley de Extranjería, la sanción de expulsión de territorio nacional con prohibición de entrada por [Nº] años.
+
+SEGUNDO.- Seguidos los trámites legales, el proceso fue resuelto en la instancia por sentencia de fecha [FECHA], notificada a esta parte, en fecha [FECHA], la cual se recurre por medio de este escrito.
+
+ADMISIBILIDAD DEL RECURSO
+
+PRIMERO.- El auto que se recurre es apelable al haberse dictado en un proceso de que el Tribunal conoce en primera instancia, y tratarse de un proceso de cuantía indeterminada, según dispone el art. 81 de la LJCA.
+
+SEGUNDO.- El recurso cumple los requisitos de tiempo y forma establecidos en el art. 85.1 de la LJCA.
+
+MOTIVOS DE IMPUGNACIÓN
+
+PRIMERO.- Infracción de los arts. 53.1.a), 55, 57 y 58 de la LO 4/2000, de 11 de enero, del principio de proporcionalidad y de la doctrina jurisprudencial que los interpreta.
+
+La sentencia de instancia infringe dichos preceptos por cuanto no tiene en cuenta que la sanción prevista para la infracción de estancia irregular cometida por mi representado es la multa y, si bien el artículo 57 de la citada Ley permite expulsar al extranjero con la consiguiente prohibición de entrada, la jurisprudencia ha reiterado que la Administración debe justificar tal elección de la sanción más grave en virtud de las circunstancias concurrentes, pero, en este caso, al tratarse meramente de una estancia ilegal por carecer de autorización, el principio de proporcionalidad impide que se le imponga la sanción más grave.
+
+En este caso, además, mi representado ha justificado indudablemente su arraigo, habiendo aportado [COMPLETAR], lo cual se ajusta al concepto de arraigo manejado por el Tribunal Supremo como aquellos intereses familiares, económicos y sociales que pueden justificar la permanencia en España. Por tanto, mi representado ha acreditado su arraigo, tal y como la Jurisprudencia del TS lo entiende, aportando pruebas de poseer intereses familiares, económicos y sociales, lo que hace que la sanción de expulsión impuesta sea totalmente desproporcionada.
+
+Por estos motivos, solicito de la Sala la revocación de la sentencia, y la estimación de la demanda interpuesta por esta parte.
+
+En virtud de todo lo expuesto,
+
+SUPLICO AL TRIBUNAL PARA LA SALA DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL SUPERIOR DE JUSTICIA DE, que se tenga por presentado este escrito, admitiendo el recurso de apelación contra la sentencia de fecha [FECHA], y previos los trámites legales preceptivos, elevando las actuaciones a la citada Sala, se dicte sentencia por la que, dando lugar a la apelación, se revoque la sentencia de instancia y se estime las pretensiones deducidas en nuestro escrito de demanda con los pronunciamientos inherentes.
+
+[OPCIONAL — incluir si procede]
+
+OTROSÍ DIGO que, de conformidad con lo dispuesto en los apartados 3.b) y 6 de la disposición adicional decimoquinta de la LOPJ acompaño a este escrito resguardo de consignación en la cuenta de Depósitos y Consignaciones abierta a nombre del Tribunal del depósito exigido para interponer el recurso por importe de 50 euros.
+
+Por lo que, SUPLICO AL TRIBUNAL que tenga por constituido el depósito, dejando interesada desde este momento su devolución para el caso de estimación total o parcial del recurso.
+
+Es Justicia que se pide en [LUGAR], a [FECHA].
+
+Firma Abogado.	Firma Procurador.

@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -54,7 +54,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -62,3 +62,26 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1368 · Puesta de manifiesto del expediente para resolver cuestiones conexas no planteadas
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 1 llamadas a nota sin texto retiradas; 5 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Con fecha [FECHA], ha finalizado la instrucción del expediente número [Nº DE PROCEDIMIENTO]/[AÑO], seguido a [COMPLETAR], con objeto de [DESCRIBIR], en este órgano administrativo, habiéndose observado en su tramitación todos los trámites necesarios para dictar el acto administrativo terminal del citado expediente.
+
+No obstante, en la resolución de este procedimiento se ha apreciado la necesidad de pronunciarse también sobre las siguientes cuestiones conexas con el mismo, que no han sido planteadas por el interesado:
+
+En su virtud, y de conformidad con las previsiones del artículo 88.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, pongo en su conocimiento esta situación sobre las cuestiones conexas mencionadas, a fin de que, en el plazo de 15 días, pueda tomar audiencia y vista del expediente y alegar cuanto considere oportuno para la mejor defensa de su derecho.
+
+Transcurrido dicho plazo, y vistas las alegaciones y pruebas que, en su caso sean presentadas, por esta Dirección se dictará la resolución definitiva que proceda, en la que se decidirá sobre la solicitud y el asunto planteado por usted, y sobre las demás cuestiones conexas mencionadas, no planteadas por el interesado, derivadas del expediente.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

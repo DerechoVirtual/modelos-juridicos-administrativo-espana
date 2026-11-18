@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -66,7 +66,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -74,3 +74,22 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1051 · Respuesta del ayuntamiento al requerimiento: no cabe impugnar actos propios (Andalucía)
+
+- Año del modelo: 2008
+- Revisión 17-11-2026: saltos de párrafo recuperados (texto venía pegado); restos de formato retirados; cargo del fedatario municipal revisado: con carácter general es el Secretario/a de la Corporación (RD 128/2018; LBRL 92 bis); «Secretario General del Pleno» solo en municipios de gran población
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+CERTIFICACIÓN [NOMBRE], [ELEGIR: Secretario/a / Secretario/a General del Pleno (solo municipios de gran población, art. 122 LBRL)] del Excmo. Ayuntamiento de [NOMBRE]
+
+CERTIFICO:
+
+Que de los antecedentes obrantes a mi cargo, en la Secretaría de este Consistorio aparece un Acuerdo Plenario dictado en fecha [FECHA] conforme a las atribuciones conferidas por el art. 22.2.j) de la Ley 7/1985, de 2 de abril, de Bases de Régimen Local, según el cual corresponde al pleno municipal el "ejercicio de acciones judiciales y administrativas y la defensa de la Corporación en materias de competencia plenaria", que resuelve de conformidad con el dictamen previo al ejercicio de acciones, y que posee el tenor siguiente:ANTECEDENTESPRIMERO.- Visto que en fecha [FECHA], con entrada en estas dependencias municipales el [FECHA DE ENTRADA], D./Dña. [NOMBRE] del vecino o vecinos requirentes formulaba requerimiento a esta Corporación Local al amparo de los artículos 72 de la Ley 7/1999, de 29 de septiembre, de Bienes de las Entidades Locales de Andalucía, art. 68 de la Ley 7/1985, de 2 de abril, de Bases de Régimen Local, y art. 220 del Real Decreto 2568/1986, de 28 de noviembre, Reglamento de Organización, Funcionamiento y Régimen Jurídico de los Entes Locales, para que se procediera al inicio de acciones judiciales ante el orden jurisdiccional [CIVIL], penal, contencioso, social para la defensa de los bienes o derechos de titularidad local, consistentes en [DESCRIPCIÓN] de las concretas acciones solicitadas por el vecino o vecinos.
+
+SEGUNDO.- Visto el dictamen previo al ejercicio de acciones emitido en fecha [FECHA] del informe por [EL SECRETARIO], la Asesoría jurídica o letrado al amparo del artículo 221 del Real Decreto 2568/1986, de 28 de noviembre, Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales y art. 54.3 del Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de las Disposiciones Vigentes de Régimen Local, dictamen que con claridad constata el ejercicio desviado y erróneo del requerimiento, ya que en modo alguno puede utilizarse el cauce empleado para conseguir la impugnación de los actos de la propia corporación local, ni tan siquiera para obtener de ella que inicie un procedimiento de lesividad, como con toda contundencia ha declarado la STS (Sala Tercera, de lo Contencioso-administrativo, 7ª) de 18 Enero 1999 Nº rec. 2368/1992; no siendo, pues, éste el cauce procesal oportuno para la formulación de tal clase de impugnaciones, por lo que, además, el vecino requirente carece de la condición de interesado.FUNDAMENTOS JURÍDICOSÚNICO.-Atendido que si bien el ejercicio de acciones por las entidades locales no posee carácter potestativo sino imperativo, a tenor del citado art. 72 de la Ley 7/1999, de 29 de septiembre, según el cual "las entidades locales están obligadas a ejercitar las acciones e interponer los recursos, de cualquier carácter, que sean precisos y procedentes para la adecuada defensa de sus bienes y derechos", art. 68 de la Ley 7/1985, de 2 de abril, de Bases de Régimen Local, que dispone éstas tienen «la obligación de ejercer las acciones necesarias para la defensa de sus bienes y derechos», es más cierto que el cauce procesal recogido en el art. 72, de la Ley 7/1999, de 29 de septiembre, y art. 68, de la Ley 7/1985, de 2 de abril, de Bases de Régimen Local, y demás preceptos rectores, tiene naturaleza singular y no puede ser empleado para la impugnación de los actos emitidos por las corporaciones locales.RESOLUCIÓNEl Pleno municipal, conforme al art. 22.2.j) de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, a tenor del cual le corresponde el «ejercicio de acciones judiciales y administrativas y la defensa de la Corporación en materias de competencia plenaria», mandato que se extiende, obviamente, a la denegación de su ejercicio, ha resuelto, dentro del plazo legal, denegar el inicio de las acciones solicitadas, quedando en consecuencia al interesado expedita la vía judicial correspondiente.por lo que expido la presente a [FECHA] con el visto bueno del Alcalde/Alcaldesa.Vº BºEl/La Alcalde/Alcaldesa:

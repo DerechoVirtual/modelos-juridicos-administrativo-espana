@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0917 · Pedir testimonio al abogado del Estado para el apremio administrativo
+
+- Año del modelo: 2009
+- Revisión 17-11-2026: 12 campos de relleno marcados en blanco; encabezamiento adaptado a los Tribunales de Instancia (LO 1/2025); 2 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA SECCIÓN DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL DE INSTANCIA DE [SEDE]
+
+[NOTA DE REVISIÓN: desde el 31-12-2025 los Juzgados de lo Contencioso-administrativo son Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia (LO 1/2025, DA 1.ª y DT 1.ª; LOPJ arts. 84 y 93). Si el asunto ya está repartido, indicar la plaza, que conserva el número del antiguo Juzgado.]
+
+NÚM. DE [COMPLETAR]
+
+EL ABOGADO DEL ESTADO [COMPLETAR] obrando en nombre y representación de [NOMBRE DEL REPRESENTADO/A] en las actuaciones del recurso contencioso-administrativo núm. [Nº], ante el [ÓRGANO] comparece y como mejor proceda en derecho DIGO:
+
+PRIMERO.- Que en el presente procedimiento, mediante [ÓRGANO] dictado en fecha [FECHA], ya firme, se aprobó de forma definitiva la tasación de costas a cuyo pago viene obligada la parte [COMPLETAR] por importe de [IMPORTE] Euros.
+
+SEGUNDO.- Que pese a haber sido requerida de pago la parte [COMPLETAR] ha transcurrido con exceso el plazo de [PLAZO], sin que se haya procedido a ingresar su importe en la Cuenta de Depósitos y Consignaciones del Tribunal.
+
+TERCERO.- Que a los efectos señalados en el artículo 139.4 de la LJCA interesa esta parte se le expida testimonio de la sentencia dictada en este procedimiento, de la tasación de costas y del auto aprobatorio a fin de dar cobertura al procedimiento de apremio administrativo.
+
+SUPLICO AL TRIBUNAL
+
+Tenga por presentado este escrito, lo admita a trámite y lo provea expidiendo el testimonio interesado.
+
+Es justicia que pido en [COMPLETAR].
+
+Firma del Abogado del Estado

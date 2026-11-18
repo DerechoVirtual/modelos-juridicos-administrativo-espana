@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -62,7 +62,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -70,3 +70,42 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1844 · Petición de provisión de fondos cuando el poderdante no la hace al procurador
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: restos de formato retirados; notas del formulario agrupadas al final (1); 1 desplegables convertidos en elección en blanco; 10 campos de relleno marcados en blanco; encabezamiento adaptado a los Tribunales de Instancia (LO 1/2025); 2 menciones a órganos y cargos actualizadas (LO 1/2025; LO 7/2015)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de petición por la que el Procurador solicita del Tribunal que apremie a su poderdante para que éste habilite los fondos necesarios para continuar el procedimiento, bajo apercibimiento de apremio y con petición de costas.
+
+[NOTA DE REVISIÓN: desde el 31-12-2025 los Juzgados de lo Contencioso-administrativo son Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia (LO 1/2025, DA 1.ª y DT 1.ª; LOPJ arts. 84 y 93). Si el asunto ya está repartido, indicar la plaza, que conserva el número del antiguo Juzgado.]
+
+[ELEGIR: A LA SECCIÓN DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL DE INSTANCIA DE [SEDE] – PLAZA N.º [Nº] / A LA SALA DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL SUPERIOR DE JUSTICIA DE [COMUNIDAD AUTÓNOMA]]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales, en nombre de [NOMBRE DEL REPRESENTADO/A], como tengo acreditado en autos de recurso contencioso-administrativo número [NÚMERO], ante [ÓRGANO], comparezco (1) y
+
+DIGO
+
+Que mi representado, incumpliendo las obligaciones que le corresponden y desatendiendo las reiteradas reclamaciones por mí formuladas, no me ha habilitado con los fondos necesarios para continuar el proceso entablado.
+
+Que el citado recurso se halla en fase de [COMPLETAR], por lo que necesito la citada provisión por cuanto [COMPLETAR], por lo que, de conformidad con lo previsto en el artículo 29 de la Ley de Enjuiciamiento Civil, procede que sea apremiado a ello.
+
+En su virtud,
+
+SUPLICO [ELEGIR: AL TRIBUNAL / A LA SALA]
+
+Que requiera a mi poderdante D./Dña. [NOMBRE Y APELLIDOS], para que en el plazo de [PLAZO] me entregue la cantidad de [IMPORTE] euros, o la que ese órgano judicial estime necesaria para la continuación del proceso, bajo apercibimiento de apremio y con imposición de costas.
+
+Es Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de Abogado/a	Firma de Procurador/a
+
+NOTAS DEL FORMULARIO
+
+(1) El procedimiento regulado en los arts. 29 y ss. LEC está previsto para evitar que los Abogados y Procuradores tengan que acudir a la vía declarativa ordinaria para obtener la satisfacción de sus honorarios, procedimiento que convierte en requerimiento judicial de pago la pretensión de dichos profesionales y que da lugar a la vía de apremio si no se paga dentro del plazo concedido para ello, ya que en el procedimiento citado gozan de la categoría de título ejecutivo determinados documentos emanados de los profesionales interesados frente a cuya eficacia no cabe, en general, que el deudor requerido formule oposición de fondo al pago, ni que, en el procedimiento abierto, se hagan declaraciones de Derecho (STS 7-12-88).

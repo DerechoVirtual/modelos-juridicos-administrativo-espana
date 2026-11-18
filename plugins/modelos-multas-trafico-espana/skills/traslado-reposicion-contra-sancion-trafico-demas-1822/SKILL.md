@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,26 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1822 · Traslado de la reposición contra sanción de tráfico a los demás interesados
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 9 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Traslado del escrito interposición de recurso de reposición en materia de sanciones de tráfico, circulación de vehículos a motor y seguridad vial a los interesados en el expediente sancionador, para que en plazo determinado aleguen cuanto estimen procedente, de conformidad con lo establecido en el artículo 118.2 LPACAP.
+
+Adjunto remito a usted, en cuanto interesado en el procedimiento, el escrito de fecha [FECHA], en el que se interpone por D./Dña. [NOMBRE Y APELLIDOS], recurso de reposición, contra la resolución de fecha [FECHA], dictada por [ÓRGANO O PERSONA], en el expediente administrativo sancionador número [Nº DE PROCEDIMIENTO]/[AÑO], que con objeto de [DESCRIBIR], se ha seguido en la Unidad de Sanciones de la Jefatura de Tráfico de [LOCALIDAD], dependiente de este Departamento.
+
+Pongo en su conocimiento que, de conformidad con las previsiones del artículo 118.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el plazo de [Nº] días, puede tomar audiencia y vista del expediente y aportar las alegaciones, documentos y justificaciones que estime convenientes para la mejor defensa de su derecho.
+
+Transcurrido este trámite de audiencia y, vistas las alegaciones que sean aportadas por los interesados, este Departamento resolverá el recurso poniendo fin a la vía administrativa.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,57 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0086 · Modelo genérico de alegaciones
+
+- Año del modelo: 2018
+- Revisión 17-11-2026: 4 párrafos opcionales señalados; 18 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Al Órgano de Contratación [COMPLETAR]
+
+Expediente Nº
+
+[NOMBRE Y APELLIDOS], en calidad de [COMPLETAR], representante legal de [COMPLETAR], según consta acreditado en el expediente de referencia, con NIF [NIF], y correo electrónico a efectos de notificaciones [DOMICILIO A EFECTOS DE NOTIFICACIONES], por el presente escrito comparece ante [ÓRGANO] y como mejor proceda en Derecho
+
+EXPONE
+
+PRIMERO.- Que en relación con el expediente núm. [NÚMERO], en fecha [FECHA], mi representada [NOMBRE DEL REPRESENTADO/A] del Órgano de Contratación al que me dirijo, en virtud de la cual [COMPLETAR].
+
+SEGUNDO.- En cumplimiento de dicho requerimiento, y a los efectos previstos en el [COMPLETAR], la mercantil a la que represento formula las siguientes
+
+ALEGACIONES
+
+ÚNICA.-
+PRIMERA.-
+
+[OPCIONAL — incluir si procede]
+
+SEGUNDA.- [COMPLETAR]
+
+[OPCIONAL — incluir si procede]
+
+TERCERA.- [COMPLETAR]
+
+[OPCIONAL — incluir si procede]
+
+En virtud de lo expuesto,
+
+SOLICITA
+
+Que tenga por presentado el presente escrito ante el Órgano de Contratación [COMPLETAR], se sirva admitirlo, y por efectuadas [COMPLETAR] en el mismo.
+
+[OPCIONAL — incluir si procede]
+
+Declarando:
+
+«1º, 2º...»
+
+En [COMPLETAR], con fecha [FECHA]
+
+Firmado:

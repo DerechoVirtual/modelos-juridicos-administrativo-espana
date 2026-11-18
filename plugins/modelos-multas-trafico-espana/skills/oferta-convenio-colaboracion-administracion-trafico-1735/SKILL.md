@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,34 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1735 · Oferta de convenio de colaboración con la Administración de tráfico para fomentar la seguridad vial
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 6 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo solicitud de Convenio de colaboración entre la Administración Pública competente en materia de tráfico y una entidad privada para llevar a cabo conjuntamente actividades de investigación, estudio, divulgación y fomento de las ciencias y técnicas vinculadas a la seguridad vial en todos sus ámbitos.
+
+Ilmo.
+Ilma.
+ Sr./Sra. [NOMBRE Y APELLIDOS]:
+
+La política de seguridad vial en España necesita de la colaboración de las entidades privadas para que el conocimiento de las acciones necesarias para su efectividad llegue al mayor número posible de personas y, en consecuencia, se consiga una mayor formación de todas las personas implicadas y una reducción significativa en el número de accidentes de tráfico.
+
+La Agencia Española para la Seguridad Vial es una entidad sin ánimo de lucro, creada con fecha [FECHA], mediante escritura fundacional suscrita por [ÓRGANO O PERSONA], que tiene entre sus cometidos la realización de curso de formación, edición de libros, encuentros científicos, organización de congresos profesionales y cualesquiera otras actividades orientadas a favorecer los objetivos de las políticas de seguridad vial de conformidad con la planificación anual de objetivos en este sector.
+
+En fechas recientes hemos culminado un proyecto consistente en [DESCRIBIR], cuyo objetivo es la prevención de la accidentalidad infantil y de las personas mayores mediante una serie de acciones cuya descripción pormenorizada se contiene en la memoria adjunta, y que entendemos que resulta del máximo interés para todas las Administraciones Públicas con competencias en esta materia.
+
+En consecuencia, nos dirigimos a [COMPLETAR] para proponerla la celebración de un convenio de colaboración, cuyo borrador se adjunta, en el que podamos concretar la intención manifestada telefónicamente y se concreten las aportaciones y colaboraciones de todas las partes con objeto de ejecutar las acciones formativas previstas en el citado proyecto.
+
+En espera de ver pronto realizado este acuerdo de colaboración, reciba un atento saludo.
+
+En [LUGAR], a [FECHA].
+
+Firma

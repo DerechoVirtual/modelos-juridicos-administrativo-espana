@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,56 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0694 · Proponer medios de prueba en el procedimiento administrativo
+
+- Año del modelo: 2010
+- Revisión 17-11-2026: 24 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+D./Dña. [NOMBRE Y APELLIDOS] actuando en su propio nombre y derecho (o en representación de [NOMBRE DEL REPRESENTADO/A]), en el procedimiento número [Nº DE PROCEDIMIENTO] incoado como consecuencia de la solicitud de [FECHA] a fin de que se reconociese [COMPLETAR] como mejor proceda en Derecho, DIGO:
+
+Que con fecha [FECHA] se me ha notificado la Resolución de fecha [FECHA] por la que se acuerda la apertura de un período probatorio en el presente procedimiento por término de [Nº] días (el plazo máximo es de diez días y el máximo de treinta) para acreditar los siguientes hechos: (indicar sucintamente los hechos a que se refiere la prueba)
+
+Que dentro del indicado plazo, manifiesto a continuación los medios de prueba de los que intenta valerse el/la que suscribe para acreditar los mencionados hechos, al amparo de lo dispuesto en el artículo 77 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+MEDIOS DE PRUEBA
+
+PRIMERO. Documental Pública. Consistente en que se certifique por [COMPLETAR] (órgano administrativo que debe emitir la certificación) los siguientes extremos: (relacionarlos enumeradamente).
+
+SEGUNDO. Testifical. Consistente en que a los testigos que se señalan a continuación se les formulen las preguntas que respectivamente se indican para cada uno de ellos.
+
+Primer testigo: D./Dña [NOMBRE Y APELLIDOS] con D.N.I. de profesión [PROFESIÓN] y con domicilio a efectos de su citación en [COMPLETAR], que deberá responder a las siguientes preguntas:
+
+1.ª [COMPLETAR]
+
+2.ª [COMPLETAR]
+
+3.ª [COMPLETAR]
+
+Segundo testigo: D./Dña [NOMBRE Y APELLIDOS] con D.N.I. de profesión [PROFESIÓN] y con domicilio a efectos de su citación en [COMPLETAR], que deberá responder a las siguientes preguntas:
+
+1 .ª [COMPLETAR]
+
+2.ª [COMPLETAR]
+
+3.ª [COMPLETAR]
+
+TERCERO. Pericial. Consistente en [DESCRIBIR]
+
+Etc.
+
+Es por lo expuesto que a [COMPLETAR] (quien corresponda) SOLICITO:
+
+Tenga por presentado este escrito, junto con los documentos que se acompañan, y por propuestos los medios de prueba de los que intenta valerse el que suscribe en el presente procedimiento y con admisión de los mismos acuerde su práctica en el período probatorio concedido.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+ (lugar, fecha y firma)
+
+Sr./Sra. [NOMBRE Y APELLIDOS] (Centro u órgano administrativo que está instruyendo el procedimiento)

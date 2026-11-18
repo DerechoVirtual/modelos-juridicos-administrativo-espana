@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -50,7 +50,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -58,3 +58,44 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0513 · Recurso contencioso contra la denegación de visado de régimen comunitario
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 4 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA SALA DE LO CONTENCIOSO-ADMINISTRATIVO DEL TRIBUNAL SUPEROR DE JUSTICIA DE MADRID
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales, en nombre y representación de D./Dña. [NOMBRE Y APELLIDOS], ante la Sala comparezco y como mejor proceda en Derecho, DIGO:
+
+PRIMERO
+
+Que por medio del presente escrito interpongo en tiempo y forma RECURSO CONTENCIOSO-ADMINISTRATIVO contra Resolución del Consulado de España en Santo Domingo por la que se deniega el recuso de reposición interpuesto contra la denegación del visado solicitado por mi representada Resolución que fue notificada al interesado el día [FECHA].
+
+SEGUNDO.- Que el recurso se interpone dentro del plazo legal establecido para ello.
+
+TERCERO.- Que en cuanto a la forma y en cumplimiento del ap. 2.c) del art. 45 de la Ley de la Jurisdicción Contencioso-Administrativa (LJCA), se acompaña como DOCUMENTO Nº 1 la copia de la resolución que se recurre y de la resolución originaria por la que se denegada el visado solicitado.
+
+CUARTO
+
+Que de acuerdo con el art. 10 de la LJCA, la competencia para conocer de este recurso corresponde a la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid.
+
+QUINTO
+
+Que, de acuerdo con lo establecido en el art. 19 LJCA, está legitimado el recurrente para interponer el recurso, por tener un interés legítimo en el procedimiento, ya que fue quien formuló la solicitud de visado.
+
+Por lo expuesto
+
+SUPLICO A LA SALA que tenga por presentado el presente escrito con los documentos aportados y sus copias y en su virtud, se sirva admitirlo y tener por interpuesto recurso contencioso-administrativo contra la citada resolución, dando al presente procedimiento el curso y la tramitación correspondientes.
+
+Por ser de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma de Abogado/a	Firma de Procurador/a
+
+========================================================================

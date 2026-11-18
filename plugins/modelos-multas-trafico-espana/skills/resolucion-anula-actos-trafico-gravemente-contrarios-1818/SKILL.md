@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,38 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1818 · Resolución que anula actos de tráfico gravemente contrarios al ordenamiento
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 1 desplegables convertidos en elección en blanco; 11 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Modelo de acuerdo mediante el cual el órgano administrativo, facultado por el artículo 106 LPACAP, estima la nulidad del acto administrativo sancionador en materia de tráfico, por infringir este acto el ordenamiento jurídico.
+
+Visto el expediente número [Nº DE PROCEDIMIENTO]/[AÑO], que se sigue a D./Dña. [NOMBRE Y APELLIDOS], en esta [ELEGIR: Jefatura de Tráfico / Alcaldía] de [COMPLETAR], con objeto de que se proceda a la revisión de un acto anulable dictado en ejercicio de las potestades administrativas en materia de circulación de vehículos a motor, tráfico y seguridad vial, resulta:
+
+Que mediante escrito de fecha [FECHA], por el interesado D./Dña. [NOMBRE Y APELLIDOS], se solicitó la revisión de la resolución de fecha [FECHA], dictada por D./Dña. [NOMBRE Y APELLIDOS], al considerar que el citado acto administrativo infringía gravemente normas de rango legal o reglamentario, y así ha resultado acreditado en este expediente, en los siguientes términos:
+
+Que el acto administrativo objeto de este procedimiento revisorio incurre, por tanto, en la infracción grave señalada, lo que ha resultado, además, evidente y sin que haya sido necesario el uso de reglas interpretativas para la obtención de la conclusión citada.
+
+Que instruido el procedimiento, se ha evacuado dictamen del órgano consultivo de la Administración actuante, en el que se afirma [COMPLETAR], aunque no es necesario que este acto revisorio sea conforme con la calificación realizada ya que el dictamen citado no es vinculante para la Administración que ejerce la potestad anulatoria.
+
+Que el procedimiento anulatorio ha seguido todos los trámites legales establecidos: iniciación, trámite de audiencia, dictamen del órgano consultivo, cumpliendo, igualmente, el requisito formal de haberse iniciado el procedimiento antes de transcurridos cuatro años desde que fue dictado al acto cuya revisión se pretende.
+
+Vistos los antecedentes mencionados y el artículo 106 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, he tenido a bien dictar el siguiente
+
+ACUERDO
+
+Primero.- Se procede a la anulación de la resolución de fecha [FECHA], por la que se [COMPLETAR] en ejercicio de las potestades administrativas en materia de circulación de vehículos a motor, tráfico y seguridad vial, ya que dicho acto infringe gravemente normas de rango legal o reglamentario en los términos expuestos.
+
+Segundo.- Notifíquese esta resolución al interesado con indicación de los recursos que procedan de conformidad con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

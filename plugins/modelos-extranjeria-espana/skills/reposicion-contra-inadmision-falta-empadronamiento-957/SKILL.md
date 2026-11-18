@@ -35,8 +35,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -71,7 +71,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -79,3 +79,41 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0957 · Reposición contra inadmisión por falta de empadronamiento
+
+- Año del modelo: 2008
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; 1 llamadas a nota sin texto retiradas; 1 desplegables convertidos en elección en blanco; 20 campos de relleno marcados en blanco
+- Avisos de la revisión: Se refiere a la regularización de 2005 (RD 2393/2004, DT 3.ª): solo tiene valor histórico.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+AL [ELEGIR: DELEGADO DEL GOBIERNO / SUBDELEGADO DEL GOBIERNO]
+
+(NOTA: El proceso transitorio de regularización al que se refiere el presente formulario, y que tuvo lugar al amparo de la Disposición Transitoria Tercera del Real Decreto 2393/2004 (ya derogado) [NOTA DE REVISIÓN: Formulario histórico (regularización de 2005). No tiene equivalente en el RD 1155/2024. La última vía extraordinaria (arraigo extraordinario, DA 21.ª añadida por el RD 316/2026) se podía solicitar hasta el 30-6-2026. Fuente: RD 316/2026 (BOE-A-2026-8284).], debe estimarse concluido. Mantenemos sin embargo el presente formulario en cuanto pudiera resultar ilustrativo para el sostenimiento de eventuales recursos judiciales en trámite.)
+
+[NOMBRE Y APELLIDOS], con DNI/NIF/NIE nº [DNI/NIE], actuando en nombre propio [COMPLETAR], con domicilio [COMPLETAR] en [LOCALIDAD], el cual señalo a efectos de notificaciones conforme al artículo 66 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en adelante, LPACAP), en la ciudad de [COMPLETAR], en su calle [CALLE], número [NÚMERO], a través del presente escrito vengo a interponer
+
+RECURSO DE REPOSICION
+
+Contra la resolución de fecha [FECHA], del Delegado [COMPLETAR] del Gobierno en la Comunidad de [COMPLETAR], por su delegación dictada por [ÓRGANO O PERSONA], funcionario adscrito a la Tesorería General de la Seguridad Social [COMPLETAR], que adjunta se acompaña por copia, por la que se viene a inadmitir la solicitud de residencia y trabajo por cuenta ajena formulada al amparo del proceso extraordinario de regularización previsto en la Disposición Transitoria Tercera del Real Decreto 2393/2004, para [COMPLETAR], de nacionalidad [NACIONALIDAD] y número de pasaporte [DNI/NIE], lo que efectúo al amparo de los siguientes:
+
+HECHOS
+
+PRIMERO.- Este interesado [COMPLETAR] no presentó en su momento, ante la Oficina de la Tesorería General de la Seguridad Social a la que fue asignada la labor de recepción de las solicitudes formuladas por imperativo de la Resolución de 4 de febrero de 2005, de la Subsecretaría del Ministerio de la Presidencia (por la que se disponía la Publicación del convenio de colaboración entre la Secretaría de Estado de Inmigración y Emigración, la Secretaría de Estado de la Seguridad Social y la Subsecretaría de Administraciones públicas —BOE núm. 31, de 5 de febrero de 2005—), certificado de empadronamiento del/la trabajador/a cuya regularización se pretende y que, en efecto, sea de fecha anterior al 8 de agosto de 2004.
+
+Pero sí presentaba, y hoy lo hace adjuntos a este recurso: [COMPLETAR].
+
+SEGUNDO.- El resto de los requisitos documentales requeridos por las normas reguladoras del proceso extraordinario de regularización fueron oportunamente presentados.
+
+FUNDAMENTOS DE DERECHO
+
+PRIMERO.- [COMPLETAR].
+
+En [LUGAR], a [FECHA].
+
+Firmado:

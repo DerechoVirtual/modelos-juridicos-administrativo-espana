@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -52,7 +52,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -60,3 +60,26 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1401 · Respuesta a la petición de información y orientación del ciudadano
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: 5 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+En contestación a su escrito de fecha [FECHA], por el que solicita que, por este Centro Directivo, se le facilite información y orientación sobre los requisitos jurídicos o técnicos que las disposiciones legales impongan a los proyectos o actuaciones que sobre [DESCRIBIR], pretende realizar, he de poner en su conocimiento lo siguiente:
+
+La instalación a que se refiere el proyecto que se pretende ejecutar, además de tener la ubicación en suelo que permita el uso pretendido en función de su calificación urbanística, precisa las siguientes autorizaciones y controles administrativos previos que, en función del sistema de distribución de competencias establecido, corresponden a los Departamentos y Centros Directivos que se indican seguidamente:
+
+Para la previa obtención de la autorización de [COMPLETAR], cuya expedición corresponde a este Centro Directivo, es necesario que el proyecto que haya de elaborarse reúna los requisitos y contenidos establecidos en [COMPLETAR], norma reguladora de dicha actividad, en los siguientes términos y con las especificaciones que se indican a continuación:
+
+Lo que pongo en su conocimiento, en aplicación del derecho de asesoramiento reconocido a los ciudadanos en el artículo 53.1.f) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, haciéndole saber que la información y orientación contenida en este escrito, se realiza sin perjuicio de lo que finalmente puedan decidir, en ejercicio legítimo de sus competencias, los órganos directivos intervinientes.
+
+En [LUGAR], a [FECHA].
+
+Firmado:

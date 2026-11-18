@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -65,7 +65,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -73,3 +73,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0175 · Comunicar el pago voluntario de la multa y pedir la terminación del procedimiento
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 3 desplegables convertidos en elección en blanco; 15 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA [ELEGIR: JEFATURA DE TRAFICO / ALCALDIA] DE [COMPLETAR]:
+
+D./Dña [NOMBRE Y APELLIDOS], mayor de edad, DNI número [DNI/NIE], con domicilio electrónico a efectos de notificaciones [DIRECCIÓN ELECTRÓNICA] y domicilio en [LOCALIDAD] calle o plaza [COMPLETAR] número [NÚMERO] piso [COMPLETAR], ante la [ELEGIR: Alcaldía / Jefatura de Tráfico] de [COMPLETAR], comparece y como mejor proceda en derecho,
+
+DICE
+
+Que con fecha [FECHA] ha recibido la notificación [ELEGIR: de la denuncia / del acuerdo de iniciación / de la propuesta de resolución] en expediente número [Nº DE PROCEDIMIENTO]/[AÑO], seguido a [COMPLETAR], como consecuencia de la realización de una infracción administrativa de la legislación reguladora de la circulación de vehículos a motor, todo ello según los antecedentes que se mencionan en el citado documento acusatorio.
+
+Que, en virtud de presente escrito, pone en conocimiento de ese órgano que con fecha [FECHA] y según se acredita mediante el documento adjunto, se ha procedido al pago de la cantidad de [IMPORTE] euros, en concepto de multa, mediante su ingreso en la forma reglamentaria, con el impreso oficial correspondiente, según la propuesta de sanción contenida en el Boletín de Denuncia, Acuerdo de Incoación o Propuesta de Resolución.
+
+Por lo expuesto, y de conformidad con las previsiones de los arts. 85.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y 94 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, y las demás normas aplicables,
+
+SOLICITA
+
+Que, en virtud de este pago voluntario realizado antes de la resolución, se acuerde la terminación del procedimiento sancionador referenciado, sin perjuicio de la posibilidad de que por esta parte se puedan interponer, en su caso, los recursos que sean procedentes ante el orden jurisdiccional contencioso-administrativo.
+
+En [LUGAR], a [FECHA].
+
+Firma:

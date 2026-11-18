@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,28 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 1427 · Acuerdo que deniega iniciar el procedimiento
+
+- Año del modelo: 2004
+- Revisión 17-11-2026: saltos de párrafo recuperados (texto venía pegado); restos de formato retirados; 1 llamadas a nota sin texto retiradas; 6 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Visto el escritola denuncia de fecha [FECHA], presentado por D./Dña. [NOMBRE Y APELLIDOS], dirigido a este centro directivo, en el que se solicita la apertura de expediente administrativo para [COMPLETAR], de conformidad con lo dispuesto en el artículo 58 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP).
+
+Considerando que, a la vista de la documentación presentada no existe motivo suficiente para que se proceda a la iniciación de expediente, por cuanto [COMPLETAR], y así se ha puesto de manifiesto mediante informe de fecha [FECHA] elaborado por [ÓRGANO O PERSONA], órgano instructor competente.
+
+Vistos los antecedentes mencionados, de conformidad con lo dispuesto en [COMPLETAR], en uso de las facultades que tengo atribuidas,
+
+ACUERDO:
+
+Denegar la petición de fecha [FECHA], formulada por D./Dña. [NOMBRE Y APELLIDOS] para que por este centro directivo se procediera a la incoación de expediente administrativo con objeto de [DESCRIBIR], por no ser tal incoación conforme a derecho.
+
+Notifíquese la presente resolución al interesado con indicación de que contra la misma, al ser un acto de trámite que impide la continuación de un procedimiento, cabe interponer recurso de alzada (en su caso), conforme a los arts. 121 y 122 de la LPACAP ante [ÓRGANO], en el plazo de un mes (o potestativo de reposición en el plazo de un mes conforme a lo previsto en los arts. 123 y 124 de la LPACAP).En [LUGAR], a [FECHA].
+
+Firmado:

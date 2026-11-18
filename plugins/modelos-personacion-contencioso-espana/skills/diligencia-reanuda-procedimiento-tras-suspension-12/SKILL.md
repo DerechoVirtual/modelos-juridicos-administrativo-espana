@@ -35,8 +35,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa) y acaba con sus notas al pie, revisadas en el BOE: léela antes de redactar, pero no la copies en el escrito.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa) y acaba con sus notas al pie, revisadas en el BOE: léela antes de redactar, pero no la copies en el escrito.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, MASC si es una demanda civil).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0012 · Diligencia que reanuda el procedimiento tras la suspensión
+
+- Año del modelo: 2023
+- Revisión 17-11-2026: 1 llamadas a nota sin texto retiradas; 1 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+- Avisos de la revisión: La continuación procede tras el traslado posterior al testimonio de la sentencia de casación. Si alguna parte desiste o se allana, no se continúa: el órgano resuelve lo procedente (art. 56.5, inciso final, LJCA).
+- Nota explicativa incorporada desde la colección Procesal (formulario 89) y revisada en el BOE el 17-11-2026
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+#### Nota explicativa: para qué sirve este escrito
+
+Diligencia de ordenación, acordando, tras las alegaciones de las partes o una vez transcurrido el plazo conferido al efecto, la continuación del procedimiento en el momento en que se encontraba antes de la suspensión.
+
+---
+
+Diligencia de ordenación del Letrado/a de la Administración de Justicia Sr./Sra. [NOMBRE Y APELLIDOS]
+
+En [LUGAR], a [FECHA].
+
+Formuladas las alegaciones de las partes dentro del plazo de diez días concedido (o transcurrido el plazo conferido al efecto), al amparo de lo dispuesto en el art. 56.5 Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa en la redacción dada al mismo por el RDLey 5/2023, de 28 de junio, procédase a la continuación del procedimiento en el momento en que el mismo se encontraba antes de la suspensión acordada.
+
+Doy fe.
+
+Firma del Letrado/a de la Administración de Justicia:
+
+---
+
+#### Notas al pie
+
+(1) La continuación del procedimiento se acuerda una vez formuladas las alegaciones de las partes o transcurrido el plazo conferido al efecto salvo que las partes desistan del recurso o se allanen, en cuyo caso el juzgado o tribunal resolverá lo procedente (nuevo apartado 5 del art. 56 LJCA introducido por el Real Decreto Ley 5/2023, de 28 de junio)

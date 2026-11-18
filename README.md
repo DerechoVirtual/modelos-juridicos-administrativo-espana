@@ -1,6 +1,6 @@
 # Modelos jurídicos de España para Claude · Administrativo
 
-5 plugins de modelos de escritos de Administrativo, uno por tema. Cada modelo es una skill que Claude rellena paso a paso con los datos del caso: 938 skills en total, más una skill `indice` por plugin para encontrar el modelo adecuado.
+8 plugins de modelos de escritos de Administrativo, uno por tema. Cada modelo es una skill que Claude rellena paso a paso con los datos del caso: 941 skills en total, más una skill `indice` por plugin para encontrar el modelo adecuado.
 
 Todas las skills trabajan con **Jurisprudenciator** (https://jurisprudenciator.lexiaipro.org): antes de redactar comprueban que el conector responde, verifican en fuentes oficiales los artículos y la jurisprudencia que se citan y revisan el escrito con `verificar_escrito` antes de entregarlo. Sin Jurisprudenciator conectado, las skills no redactan.
 
@@ -12,7 +12,7 @@ En Claude Code:
 
 ```
 /plugin marketplace add DerechoVirtual/modelos-juridicos-administrativo-espana
-/plugin install modelos-escritos-administracion-espana@modelos-juridicos-administrativo-espana
+/plugin install modelos-alegaciones-multas-trafico-espana@modelos-juridicos-administrativo-espana
 ```
 
 Cada plugin ocupa contexto en la conversación, así que conviene instalar solo los de los temas con los que se trabaja.
@@ -23,11 +23,14 @@ En Claude (web y escritorio) también se puede subir cada plugin como ZIP desde 
 
 | Plugin | Contenido | Skills | ZIP |
 |---|---|---:|---|
+| `modelos-alegaciones-multas-trafico-espana` | Alegaciones y descargos contra denuncias de tráfico · España | 158 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-alegaciones-multas-trafico-espana.zip) |
 | `modelos-escritos-administracion-espana` | Escritos ante la Administración (Ley 39/2015) · España | 278 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-escritos-administracion-espana.zip) |
 | `modelos-extranjeria-espana` | Extranjería: arraigo, residencia, nacionalidad y expulsiones · España | 98 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-extranjeria-espana.zip) |
-| `modelos-multas-trafico-espana` | Recurrir multas de tráfico · España | 405 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-multas-trafico-espana.zip) |
+| `modelos-multas-trafico-espana` | Multas de tráfico: demandas, solicitudes y trámites · España | 109 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-multas-trafico-espana.zip) |
 | `modelos-personacion-contencioso-espana` | Contencioso: personaciones, competencia y representación · España | 97 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-personacion-contencioso-espana.zip) |
 | `modelos-recursos-administrativos-espana` | Recursos de alzada, reposición y revisión · España | 60 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-recursos-administrativos-espana.zip) |
+| `modelos-recursos-multas-circulacion-espana` | Recurrir multas de circulación, velocidad y maniobras · España | 62 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-recursos-multas-circulacion-espana.zip) |
+| `modelos-recursos-multas-senales-y-vehiculo-espana` | Recurrir multas por señales, alumbrado, alcohol y documentación · España | 79 | [descargar](https://github.com/DerechoVirtual/modelos-juridicos-administrativo-espana/releases/latest/download/modelos-recursos-multas-senales-y-vehiculo-espana.zip) |
 
 ## Estructura
 

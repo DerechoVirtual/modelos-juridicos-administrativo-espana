@@ -5,10 +5,28 @@
     "url": "https://jurisprudenciator.lexiaipro.org"
   },
   "metadata": {
-    "description": "Modelos de escritos jurídicos de España para Claude · Administrativo: 5 plugins por tema, una skill por modelo, cada una conectada a Jurisprudenciator para verificar normas y jurisprudencia.",
+    "description": "Modelos de escritos jurídicos de España para Claude · Administrativo: 8 plugins por tema, una skill por modelo, cada una conectada a Jurisprudenciator para verificar normas y jurisprudencia.",
     "version": "1.0.0"
   },
   "plugins": [
+    {
+      "name": "modelos-alegaciones-multas-trafico-espana",
+      "source": "./plugins/modelos-alegaciones-multas-trafico-espana",
+      "description": "Alegaciones y descargos contra denuncias de tráfico · España (157 formularios). Sirve para defenderse de una denuncia de tráfico antes de que se imponga la sanción: escritos de alegaciones y descargos en el expediente sancionador por velocidad, señales, alcohol, documentación, estacionamiento y el resto de infracciones de la normativa de tráfico. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "multas-trafico",
+        "alegaciones",
+        "descargos",
+        "denuncia-de-trafico"
+      ]
+    },
     {
       "name": "modelos-escritos-administracion-espana",
       "source": "./plugins/modelos-escritos-administracion-espana",
@@ -42,7 +60,7 @@
     {
       "name": "modelos-multas-trafico-espana",
       "source": "./plugins/modelos-multas-trafico-espana",
-      "description": "Recurrir multas de tráfico · España (404 formularios). Sirve para defender a conductores y titulares de vehículos en los expedientes sancionadores de tráfico: descargos frente a la denuncia, identificación del conductor, recursos de reposición contra la multa (velocidad, señales, alcohol, documentación, ITV, seguro…) y escritos sobre notificaciones y puntos. Requiere Jurisprudenciator.",
+      "description": "Multas de tráfico: demandas, solicitudes y trámites · España (108 formularios). Sirve para el resto del expediente sancionador de tráfico: la demanda contra la sanción y el recurso extraordinario de revisión, la identificación del conductor, solicitudes y escritos de trámite, quejas por defectos de tramitación, notificaciones y resoluciones de la Administración, y otros documentos de seguridad vial. Requiere Jurisprudenciator.",
       "version": "1.0.0",
       "category": "legal",
       "keywords": [
@@ -51,7 +69,9 @@
         "españa",
         "formularios",
         "modelos",
-        "multas-trafico"
+        "multas-trafico",
+        "identificacion-del-conductor",
+        "expediente-sancionador"
       ]
     },
     {
@@ -82,6 +102,44 @@
         "formularios",
         "modelos",
         "recursos-administrativos"
+      ]
+    },
+    {
+      "name": "modelos-recursos-multas-circulacion-espana",
+      "source": "./plugins/modelos-recursos-multas-circulacion-espana",
+      "description": "Recurrir multas de circulación, velocidad y maniobras · España (61 formularios). Sirve para recurrir en reposición las multas de tráfico por infracciones de circulación: prioridad de paso, adelantamientos, cambios de dirección y de sentido, marcha atrás, parada y estacionamiento, velocidad, uso de carriles y del arcén, autopistas y autovías, peatones y vehículos prioritarios. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "multas-trafico",
+        "recurso-reposicion",
+        "velocidad",
+        "estacionamiento",
+        "prioridad-de-paso"
+      ]
+    },
+    {
+      "name": "modelos-recursos-multas-senales-y-vehiculo-espana",
+      "source": "./plugins/modelos-recursos-multas-senales-y-vehiculo-espana",
+      "description": "Recurrir multas por señales, alumbrado, alcohol y documentación · España (78 formularios). Sirve para recurrir las multas de tráfico relacionadas con la señalización y con el vehículo y el conductor: señales, semáforos y marcas viales, órdenes de los agentes, alumbrado y advertencias, carga y transporte de personas, cinturón y casco, alcohol y drogas, permisos y autorizaciones, matrícula, documentación e inmovilizaciones; y el recurso de alzada contra la pérdida de vigencia del permiso. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "multas-trafico",
+        "recurso-reposicion",
+        "señales",
+        "alcoholemia",
+        "permiso-de-conducir"
       ]
     }
   ]
